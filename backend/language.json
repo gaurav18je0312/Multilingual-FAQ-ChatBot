@@ -1,0 +1,92 @@
+{
+    "languages": [
+        {
+            "id": "en",
+            "name": "English"
+        },
+        {
+            "id": "hi",
+            "name": "Hindi"
+        },
+        {
+            "id": "pa",
+            "name": "Punjabi"
+        },
+        {
+            "id": "mr",
+            "name": "Marathi"
+        },
+        {
+            "id": "bn",
+            "name": "Bengali"
+        },
+        {
+            "id": "te",
+            "name": "Telugu"
+        },
+        {
+            "id": "gu",
+            "name": "Gujarati"
+        },
+        {
+            "id": "ml",
+            "name": "Malayalam"
+        },
+        {
+            "id": "ta",
+            "name": "Tamil"
+        },
+        {
+            "id": "kn",
+            "name": "Kannada"
+        },
+        {
+            "id": "or",
+            "name": "Odia"
+        },
+        {
+            "id": "as",
+            "name": "Assamese"
+        },
+        {
+            "id": "ur",
+            "name": "Urdu"
+        },
+        {
+            "id": "brx",
+            "name": "Bodo"
+        },
+        {
+            "id": "ne",
+            "name": "Nepali"
+        },
+        {
+            "id": "sd",
+            "name": "Sindhi"
+        },
+        {
+            "id": "sa",
+            "name": "Sanskrit"
+        },
+        {
+            "id": "mai",
+            "name": "Maithili"
+        },
+        {
+            "id": "sat",
+            "name": "Santali"
+        },
+        {
+            "id": "mni",
+            "name": "Manipuri"
+        },
+        {
+            "id": "doi",
+            "name": "Dogri"
+        },
+        {
+            "id": "ks",
+            "name": "Kashmiri"
+        }
+    ]
+}

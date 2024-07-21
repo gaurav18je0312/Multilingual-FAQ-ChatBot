@@ -1,0 +1,294 @@
+{
+    "FAQ": [
+        {
+            "id": "vsv102382",
+            "question": "I forgot my password to access GeM portal, how can I reset it?",
+            "answer": "Please follow following steps to reset your password on GeM portal: \u2022 Kindly visit https://gem.gov.in/ and click on Login \u2022 Click on \"Forgot your Password\" link \u2022 Enter your User Id, kindly note that User Id is case sensitive \u2022 Type the Characters displayed in the captcha box, press SUBMIT \u2022 An E-mail will be sent to your registered E-mail ID with link to Reset password \u2022 Click on Reset Link in your E-mail, and Enter new password and confirm the same, Press SUBMIT Kindly note that your Password must be of 8-20 characters- 1 upper case letter, 1 lower case letter, number, and a special character."
+        },
+        {
+            "id": "vsv102383",
+            "question": "The buyer with whom the claim is pending is not available; can HOD transfer the claim to some other buyer?",
+            "answer": "The respective buyer with whom the claim is pending has an option to transfer the claim for action to another buyer within the office."
+        },
+        {
+            "id": "vsv102384",
+            "question": "The seller is raising duplicate same claim repeatedly but I have already settled the same.",
+            "answer": "You have the option to reject the claim along with the rejection reason. Please read the VSV-1 scheme in detail"
+        },
+        {
+            "id": "vsv102385",
+            "question": "My department only allow Online Payment, how can I proceed?",
+            "answer": "Please read the VSV-1 scheme in detail and connect with your office before proceeding with the payment."
+        },
+        {
+            "id": "vsv102386",
+            "question": "My seller contacted me and asking me to register on GeM as he wants to raise a claim. What is the process?",
+            "answer": "You have to register on GeM. Please read the VSV-1 scheme in detail for eligibility criteria. You can always check your claims in VSV-1 dashboard post login."
+        },
+        {
+            "id": "vsv102387",
+            "question": "Can I raise an Incident against the seller if he is raising the same claim multiple times?",
+            "answer": "Incident process is not applicable for VSV-1 scheme."
+        },
+        {
+            "id": "vsv102388",
+            "question": "Where should I call for any queries related to Vivad se Vishwas?",
+            "answer": "In case of any issue/query related to Vivad se Vishwas \u2013 1, please call our VSV helpline number 011-69095777. Do Not Call on normal GeM helpline since Customer care Executives on normal GeM helpline are not trained about VSV portal."
+        },
+        {
+            "id": "vsv102389",
+            "question": "I am a MSME seller and wish to raise a claim through Vivad se Vishwas-1.",
+            "answer": "Please read the VSV-1 scheme in detail for eligibility criteria. You can always raise your claims through GeM, if you are eligible"
+        },
+        {
+            "id": "vsv102390",
+            "question": "I am not registered on GeM, can I raise a claim through Vivad se Vishwas-1?",
+            "answer": "You may raise a claim but firstly you have to register on GeM and complete the mandatory checks. Please read the VSV-1 scheme in detail for eligibility criteria. You can always raise your claims through GeM if you are eligible."
+        },
+        {
+            "id": "vsv102391",
+            "question": "I am already registered on GeM, can I raise a claim through Vivad se Vishwas-1?",
+            "answer": "Yes, you can. Please login and access VSV-1 after completing the mandatory profile checks. Please ensure the below mandatory checks are completed in profile \u2022 Validation of Permanent Account Number(PAN) of Enterprise \u2022 Date of Incorporation/Registration of business \u2022 CIN (Company Information Number) in case registering as a Private/Public Limited Company \u2022 Registered as MSME from Udyam portal For any other details, you can refer our <a href=\"https://assets-bg.gem.gov.in/resources/upload/shared_doc/vivad-se-vishwas-1-user-manual_1681646508.pdf\"> User Manual </a> ."
+        },
+        {
+            "id": "vsv102392",
+            "question": "I am trying to raise a claim; however unable to select respective buyer",
+            "answer": "For lodging any claim, the concerned buyer organization has to be registered on GeM. Please take up with the controlling Ministry / Department of buyer organization for necessary action"
+        },
+        {
+            "id": "vsv102393",
+            "question": "Is it possible to add multiple claims for a single contract",
+            "answer": "Yes. You can raise multiple claim requests. Please read the VSV-1 scheme in detail for eligible claim amount."
+        },
+        {
+            "id": "vsv102394",
+            "question": "Is it possible to add multiple orders for the same buyer's department in a Single claim?",
+            "answer": "You have to raise separate claims for eligible orders as per VSV-1 scheme."
+        },
+        {
+            "id": "vsv102395",
+            "question": "I raised a claim against the buyer but entered incorrect details. Is it possible to edit the claim/make changes to the claim raised?",
+            "answer": "You cannot edit the claim once submitted and hence ensure it is as per VSV-1 scheme guidelines. However, you may raise a new claim request against the same buyer as per eligible claim amount for VSV-1 scheme."
+        },
+        {
+            "id": "vsv102396",
+            "question": "The status of my claim is \"Settled\" but I have not received any amount.",
+            "answer": "\u201cSettled\u201d status indicates that payment has been done by the buyer. However, if the amount is still not credited after sometime, you may connect with buyer with the transaction details entered by him."
+        },
+        {
+            "id": "vsv102397",
+            "question": "The status of my claim is \"Approved\" but I have not received any amount.",
+            "answer": "Approved status indicates that your claim has been accepted by the buyer. Once the buyer makes the payment, he will update the status to Settled with transaction number."
+        },
+        {
+            "id": "vsv102398",
+            "question": "The status of my claim is \"Partially Approved\". What does it imply?",
+            "answer": "Partially approved status indicates that the buyer has accepted the claim for refund with amount lesser than the claimed amount. Please login to your seller profile and check the claim details from your dashboard."
+        },
+        {
+            "id": "vsv102399",
+            "question": "The status of my claim is \"Rejected\". What does it imply?",
+            "answer": "Rejected status indicates that your requested claim has not been approved for some reason. Please login to your seller profile and check the claim details from your dashboard."
+        },
+        {
+            "id": "vsv102400",
+            "question": "I am facing issue while connecting with the buyer in order to raise a claim.",
+            "answer": "Please take up with the controlling Ministry / Department of buyer organization for necessary action."
+        },
+        {
+            "id": "vsv102401",
+            "question": "I have raised a claim but not receiving any response from the buyer since long",
+            "answer": "Please take up with the controlling Ministry / Department of buyer organization for necessary action"
+        },
+        {
+            "id": "vsv102402",
+            "question": "I do not have any proof against the claim I wish to raise. Can I still go ahead?",
+            "answer": "All mandatory documents are required as per the VSV-1 scheme for raising a claim. Please connect with buyer for any document specific concern. It is suggested to have the flowing list of documents \u2022 MSME Udyam registration document \u2022 Authorization letter from your organisation  \u2022 Respective Contract document  \u2022 Respective Bid/tender document \u2022 Claim specific documents (Debarment order, Performance Security document, LD evidence document, EMD evidence document, Risk Purchase evidence document)"
+        },
+        {
+            "id": "vsv102403",
+            "question": "I am not registered on GeM. Can someone else raise a claim on my behalf?",
+            "answer": "No you have to register on GeM to lodge your claim. Others cannot lodge claims on your behalf."
+        },
+        {
+            "id": "vsv102404",
+            "question": "I forgot my password to access GeM portal, how can I reset it?",
+            "answer": "Please follow following steps to reset your password on GeM portal: \u2022 Kindly visit https://gem.gov.in/ and click on Login \u2022 Click on \"Forgot your Password\" link \u2022 Enter your User Id, kindly note that User Id is case sensitive, \u2022 Type the Characters displayed in the captcha box, press SUBMIT \u2022 An E-mail will be sent to your registered E-mail ID with link to Reset password \u2022 Click on Reset Link in your E-mail, and Enter new password and confirm the same, Press SUBMIT Kindly note that your Password must be of 8-20 characters- 1 upper case letter, 1 lower case letter, number, and a special character."
+        },
+        {
+            "id": "vsv102405",
+            "question": "Is it mandatory to pay Caution Money after registration for VSV-1?",
+            "answer": "Caution money is not applicable for VSV-1."
+        },
+        {
+            "id": "vsv102406",
+            "question": "How can I register on GeM?",
+            "answer": "Please visit the link to view the steps - https://gem.gov.in/training/training_module You may also visit the user manual link - https://assets-bg.gem.gov.in/resources/upload/shared_doc/training_content/S2-Seller-and-Service-Provider-Registration-PAN-2023-1679391041.pdf."
+        },
+        {
+            "id": "vsv102407",
+            "question": "Can I raise an Incident against the buyer if he is responding to the claim incorrectly?",
+            "answer": "Incident process is not applicable for VSV-1 scheme. Please take up with the controlling Ministry / Department of buyer organization for necessary action"
+        },
+        {
+            "id": "vsv102408",
+            "question": "Is there an option available for us to challenge the buyer\u2019s decision for action taken against the claim?",
+            "answer": "Please take up with the controlling Ministry / Department of buyer organization for necessary action"
+        },
+        {
+            "id": "vsv102409",
+            "question": "Where should I call for any queries related to Vivad se Vishwas?",
+            "answer": "In case of any issue/query related to Vivad se Vishwas \u2013 1, please call our VSV helpline number 011-69095777. Do Not Call on normal GeM helpline since Customer care Executives on normal GeM helpline are not trained about VSV portal."
+        },
+        {
+            "id": "vsv102410",
+            "question": "No action on claims by the buyer even after 30 days.",
+            "answer": "GeM is only facilitating raising of claims and its processing. Action on claim is to be taken by the Buyer. Please connect with the buyer or higher authorities in Buyer organization / Ministry for expediting action on the claims"
+        },
+        {
+            "id": "vsv102411",
+            "question": "I forgot my password to access the GeM portal, how can I reset it?",
+            "answer": "Please follow following steps to reset your password on GeM portal: a. Kindly visit https://gem.gov.in/ and click on Login, b. Click on \"Forgot your Password\" link, c. Enter your User Id, kindly note that User Id is case sensitive, d. Type the Characters displayed in the captcha box, press SUBMIT, e. An Email will be sent to your registered Email ID with link to Reset password, f. Click on Reset Link in your Email, and Enter new password and confirm the same,Press SUBMIT. g. Kindly note that the Password must be of 8-20 characters- 1 upper case letter, 1 lower case letter, number, and a special character."
+        },
+        {
+            "id": "vsv102412",
+            "question": "The seller is raising the duplicate settlement request repeatedly but I have already settled the same.",
+            "answer": "You have the option to reject the settlement along with the rejection reason. Please read the VSV-II scheme in detail."
+        },
+        {
+            "id": "vsv102413",
+            "question": "The buyer with whom the settlement request is pending is not available,can HOD transfer the request to some other buyer ?",
+            "answer": "Yes,The respective buyer with whom the request is pending has an option to transfer the request for action to another buyer within the office."
+        },
+        {
+            "id": "vsv102414",
+            "question": "What is a Generate Offer ?",
+            "answer": "HOD/Buyer have to offer a payment for settlement to the Contractor and seller would have an option to accept or reject the offer."
+        },
+        {
+            "id": "vsv102415",
+            "question": "My seller contacted me and asked me to register on GeM as he wants to raise a settlement request through VSV II. What is the Process ?",
+            "answer": "You have to register on GeM. Please read the VSV-II scheme in detail for eligibility criteria. You can always check your settlement requests in VSV-II dashboard post login."
+        },
+        {
+            "id": "vsv102416",
+            "question": "Can I raise an incident against the seller if he is raising the same settlement request multiple times ?",
+            "answer": "Incident process is not applicable for the VSV-II scheme."
+        },
+        {
+            "id": "vsv102417",
+            "question": "The seller has raised the settlement request , but the request is not visible in my account.?",
+            "answer": "The settlement request would be visible in the HOD buyer dashboard based on the buyer hierarchy selected by the seller at time of request submission."
+        },
+        {
+            "id": "vsv102418",
+            "question": "What is the offer withdrawn ?",
+            "answer": "Buyer can withdraw the offer by selecting the reason until no action has been done on the offer from the seller side."
+        },
+        {
+            "id": "vsv102419",
+            "question": "Where can I get the agreement document format?",
+            "answer": "You can refer to the annexure on the last page of OM for agreement document format."
+        },
+        {
+            "id": "vsv102420",
+            "question": "Is it mandatory to withdraw all pending litigation in any court of law ?",
+            "answer": "Yes, You have to withdraw all the litigation pending in any court of law and then have to upload the litigation withdrawn evidence."
+        },
+        {
+            "id": "vsv102421",
+            "question": "Where should I call for any query regarding Vivad se Vishwas II ?",
+            "answer": "In case of any issue/query related to Vivad se Vishwas II, please call our VSV helpline number 011-69095777. Do Not Call on normal GeM helpline since Customer care Executives on normal GeM helpline are not trained about VSV portal."
+        },
+        {
+            "id": "vsv102422",
+            "question": "How can I register on GeM?",
+            "answer": "Please visit the link to view the steps - https://gem.gov.in/training/training_module. You may also visit the user manual link - https://assets-bg.gem.gov.in/resources/upload/shared_doc/training_content/S2-Seller-and -Service-Provider-Registration-PAN-2023-1679391041.pdf"
+        },
+        {
+            "id": "vsv102423",
+            "question": "I am not registered on GeM, can I raise a settlement request through Vivad se Vishwas II ?",
+            "answer": "You may raise a settlement but firstly you have to register on GeM and complete the mandatory checks. Please read the VSV II scheme in detail for eligibility criteria. You can always raise your settlement request through GeM if you are eligible."
+        },
+        {
+            "id": "vsv102424",
+            "question": "I am already registered on GeM and wish to raise a settlement request through VSV-II ?",
+            "answer": "Yes, you can. Please login and access VSV-II after completing the mandatory profile checks. \u2022 Validation of Permanent Account Number(PAN) of Enterprise  \u2022 Date of Incorporation/Registration of business \u2022 CIN (Company Information Number) in case registering as a Private/Public Limited Company For details, you can refer our user manual"
+        },
+        {
+            "id": "vsv102425",
+            "question": "I am trying to raise a settlement request , however unable to select respective buyer?",
+            "answer": "For lodging any settlement request , the concerned buyer organization has to be registered on GeM. Please take up with the controlling Ministry / Department of buyer organization for necessary action"
+        },
+        {
+            "id": "vsv102426",
+            "question": "Can I raise a settlement request against BID in VSV-II?",
+            "answer": "The settlement can be raised against the contract number only."
+        },
+        {
+            "id": "vsv102427",
+            "question": "How to raise a settlement request in VSV-II?",
+            "answer": "Please login and access VSV-2 after completing the mandatory profile checks. For details,you may refer our user manual."
+        },
+        {
+            "id": "vsv102428",
+            "question": "What is Seek Clarification in VSV-II?",
+            "answer": "It is a communication channel (to and fro) through which Procuring entities and Contractor can communicate with each other and share documents as well ."
+        },
+        {
+            "id": "vsv102429",
+            "question": "Is it possible to add multiple contracts for the same buyer\u2019s department in a single settlement request ?",
+            "answer": "You have to raise separate settlement requests for eligible contracts as per VSV-II scheme."
+        },
+        {
+            "id": "vsv102430",
+            "question": "What are the dispute types covered under VSV-2 ?",
+            "answer": "a. Court order passed - After Arbitration  b. Court order passed - without Arbitration  c. No Court order - Only Arbitration"
+        },
+        {
+            "id": "vsv102431",
+            "question": "I am facing an issue while raising a settlement request as the buyer is not available in the dropdown.?",
+            "answer": "Please take up with the controlling Ministry / Department of buyer organization for registration on GeM."
+        },
+        {
+            "id": "vsv102432",
+            "question": "I have raised a settlement request but have not received any response from the buyer since long.",
+            "answer": "Please take up with the controlling Ministry / Department of buyer organization for necessary action."
+        },
+        {
+            "id": "vsv102433",
+            "question": "I raised a settlement request against the buyer but entered incorrect details. Is it possible to edit the settlement request/make changes to the raised request ?",
+            "answer": "You cannot edit the settlement request once submitted and hence ensure it is as per VSV-II scheme guidelines. However, you may raise a new settlement request against the same buyer as per eligible settlement amount for VSV-II scheme. Also you can communicate to the buyer via communication channel for any concern."
+        },
+        {
+            "id": "vsv102434",
+            "question": "I forgot my password to access the GeM portal, how can I reset it?",
+            "answer": "Please follow following steps to reset your password on GeM portal: a. Kindly visit https://gem.gov.in/ and click on Login, b. Click on \"Forgot your Password\" link, c. Enter your User Id, kindly note that User Id is case sensitive, d. Type the Characters displayed in the captcha box, press SUBMIT, e. An Email will be sent to your registered Email ID with link to Reset password, f. Click on Reset Link in your Email, and Enter new password and confirm the same, Press SUBMIT. g. Kindly note that your Password must be of 8-20 characters- 1 upper case letter, 1 lower case letter, number, and a special character"
+        },
+        {
+            "id": "vsv102435",
+            "question": "Is it mandatory to pay Caution Money after registration for VSV-II ?",
+            "answer": "No, The caution money is a non-mandatory check for VSV II ."
+        },
+        {
+            "id": "vsv102436",
+            "question": "I have submitted the request with the wrong amount for settlement ,can I edit this ?",
+            "answer": "You can not edit any details once a request is submitted ,You may reject the offer by giving the appropriate reason and raise a new settlement request ."
+        },
+        {
+            "id": "vsv102437",
+            "question": "Can I raise a settlement request for an amount more than 500 Cr. ?",
+            "answer": "Yes, you can raise the settlement request for an amount more than 500 Cr. but buyers have the authority to reject the request. For more details please read the VSV II OM ."
+        },
+        {
+            "id": "vsv102438",
+            "question": "I have submitted the settlement request. What should I do now ?",
+            "answer": "Now Buyer will generate an offer and you have to accept/reject the offer."
+        },
+        {
+            "id": "vsv102439",
+            "question": "Where should I call for any query regarding Vivad se Vishwas II ?",
+            "answer": "In case of any issue/query related to Vivad se Vishwas II, please call our VSV helpline number 011-69095777. Do Not Call on normal GeM helpline since Customer care Executives on normal GeM helpline are not trained about VSV portal."
+        }
+    ]
+}

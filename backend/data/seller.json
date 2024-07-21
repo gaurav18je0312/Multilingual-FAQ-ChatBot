@@ -1,0 +1,1664 @@
+{
+    "FAQ": [
+        {
+            "id": "seller95723",
+            "question": "I am a new seller and wish to learn more about selling process on GeM?",
+            "answer": "On GeM, we are commited to make your journey easy and effective. Multiple resources are available for your better understanding in different formats e.g. Videos / PDF files / FAQs and LMS. Detailed instructions are available in the form of Video Guides on GeM portal. Kindly refer to different aspects of seller process on <a href=\"https://gem.gov.in/training/training_module\"> Seller Videos </a> . You can additionally download help PDFs from top-right corner of video window of any subject. Apart from Hindi and English. We are extending the resources availability in multiple Indian Languages."
+        },
+        {
+            "id": "seller95724",
+            "question": "I forgot my password to access GeM portal, how can I reset it?",
+            "answer": "Please follow following steps to reset your password on GeM portal:  1. Kindly visit https://gem.gov.in/ and click on Login,  2. Click on \"Forgot your Password\" link,  3. Enter your User Id, kindly note that User Id is case sensitive,  4. Type the Characters displayed in the captcha box, press SUBMIT,  5. An E-mail will be sent to your registered E-mail ID with link to Reset password,  6. Click on Reset Link in your E-mail, and Enter new password and confirm the same, Press SUBMIT.  Kindly note that your Password must be of 8-20 characters- 1 upper case letter, 1 lower case letter, number, and a special character."
+        },
+        {
+            "id": "seller95725",
+            "question": "Why the Seller has to offer a minimum discount on MRP to get a product listed on GeM?",
+            "answer": "For better Price reasonability across all categories, GeM mandates a minimum discount on MRP during product listing. Therefore, the Seller(s) are required to offer minimum discount on the product(s)."
+        },
+        {
+            "id": "seller95726",
+            "question": "What's the grievance redressal mechanism on GeM?",
+            "answer": "GeM is commited for providing a fair play field for all the sellers. In case of any grievance related to deviation / concern related to buyers / sellers one can raise an Incident. Kindly refer to \"Incident\" tab under FAQ for more details."
+        },
+        {
+            "id": "seller95727",
+            "question": "What is Startup Runway?",
+            "answer": "It is a corner on GeM which provides an opportunity for agile and lean Startups to reach out to government buyers by offering products and services that are unique in concept, design, process and functionality through StartUp Runway corner."
+        },
+        {
+            "id": "seller95728",
+            "question": "How can a startup register its innovative product/service on Startup Runway?",
+            "answer": "Startup can register its innovative or unique in concept product/service on StartUp Runway by \u00a0uploading the product details in the Seller Dashboard under #Startupindia link. The seller should be DPIIT (Department for Promotion of Industry and Internal Trade) registered startup."
+        },
+        {
+            "id": "seller95729",
+            "question": "How is vendor rating calculated?",
+            "answer": "Vendor rating is calculated on the basis of five Parameters as defined in the Vendor Rating Policy. The Five Parameters are:  1) Reliability of the Seller/Service Provider 2)Quality of the Delivery 3) Coverage of the Products in GeM Marketplace 4) Timely Delivery of Products/Services 5) Incident History To know more, please refer the vendor rating document available on GeM under 'Resources-&gt;Sellers/service providers'"
+        },
+        {
+            "id": "seller95730",
+            "question": "Does my Incident History have any impact on my vendor Rating?",
+            "answer": "Yes, the Incident history of Suspended &amp; Disabled Sellers/Service Provider would negatively impact the Vendor rating . Please refer the Vendor rating document for more details"
+        },
+        {
+            "id": "seller95731",
+            "question": "To whom is the vendor rating displayed?",
+            "answer": "The Vendor rating is displayed to the Buyers &amp; Sellers on GeM Marketplace."
+        },
+        {
+            "id": "seller95732",
+            "question": "How does Business Cockpit work?",
+            "answer": "Business Cockpit offers a range of value added services to the OEMs on GeM related to the statistics and insights of their categories. Business Cockpit enables businesses to get deeper insights like value and volume of the business, re-seller data, Buyer information, coverage analysis etc."
+        },
+        {
+            "id": "seller95733",
+            "question": "What prominent features does Business Cockpit provide?",
+            "answer": "Business Cockpit has been rolled out with Premium OEM Dashboard version. OEMs can subscribe to the Premium Dashboard version and have access to insights related to all the category data, granular level order details,\u00a0month wise business trends at re-seller level , category Insights,\u00a0catalog coverage, information on Bid/RA win / loss analysis along with the data export feature enabling OEMs to slice and dice data for greater business understanding.\u00a0"
+        },
+        {
+            "id": "seller100243",
+            "question": "What is Caution Money?",
+            "answer": "This caution money provision is being introduced for bringing discipline among sellers. All Sellers on GeM would be required to deposit a fixed amount with GeM as Caution Money deposit."
+        },
+        {
+            "id": "seller100244",
+            "question": "Who will Pay Caution Money?",
+            "answer": "The Caution Money is to be paid by all Registered Sellers of GeM ."
+        },
+        {
+            "id": "seller100245",
+            "question": "How much is to be paid towards Caution Money?",
+            "answer": "All sellers on GeM are required to deposit a one-time amount as under as caution money: a) Seller Turnover less than 1 Crore: Rs 5,000/- b) Seller Turn over &gt; 1 Crore but &lt; 10 Crore: Rs 10,000/- c) Seller Turnover &gt; 10 Crore: Rs 25,000/-"
+        },
+        {
+            "id": "seller100246",
+            "question": "To whom would the caution money be paid?",
+            "answer": "The Caution Money paid by Seller will remain at the disposal of GeM SPV."
+        },
+        {
+            "id": "seller100247",
+            "question": "How should I pay the caution money?",
+            "answer": "The Caution Money is to be paid online through GeM Portal.\u00a0 The user Manual for the online modality can be viewed at following Link -<a href=\"https://assets-bg.gem.gov.in/resources/upload/shared_doc/caution-money-um-1_1603281718.pdf#\"> Caution Money </a> ."
+        },
+        {
+            "id": "seller100248",
+            "question": "What if I do not pay the caution money?",
+            "answer": "If you fail to deposit the caution money amount, following actions will be taken / initiated against you: - You will not be able to upload any new brand / products on GeM. - You will not be able to participate in any new Bid. - You will not be able to get any new DP/L1/BID/RA order."
+        },
+        {
+            "id": "seller100249",
+            "question": "Are there any exemptions to any category of sellers?",
+            "answer": "There are no exemptions. All sellers registered on GeM must pay the Caution Money."
+        },
+        {
+            "id": "seller100250",
+            "question": "What is the last date to deposit the Caution money to GeM?",
+            "answer": "The Last date for paying Caution money to GeM is 30th November, 2020."
+        },
+        {
+            "id": "seller100251",
+            "question": "For which deviations\u00a0 would caution\u00a0 money get deducted?",
+            "answer": "This caution money\u00a0 amount can be forfeited in part or in full (as per approval of CEO (GeM)) in following circumstances: a) Seller rejects or does not accept any Direct Purchase / L-1 Purchase order within defined timelines leading to auto cancellation of order. b) Failure of the seller in executing any GeM contract or if the Seller fails or neglects to observe or perform any of his obligations under the contract (applicable only in respect of contracts that did not have provision of Performance Security / PBG). c) Withdraws any bid submitted on GeM within the period of validity of the bid. d) Fails to furnish requisite performance security / PBG as per GeM e-bid / RA conditions."
+        },
+        {
+            "id": "seller100252",
+            "question": "Where can I find the Caution Money policy?",
+            "answer": "The Caution Money policy is available in GeM GTC. Please refer to clause 27 of GeM GTC to view the Caution Money Policy."
+        },
+        {
+            "id": "seller100260",
+            "question": "What are the various modes to verify a document on GeM?",
+            "answer": "The document/transactions on GeM can be verified using OTP, e-sign or Digital signature."
+        },
+        {
+            "id": "seller100261",
+            "question": "Which documents/transactions can be verified by e-sign or Digital signature?",
+            "answer": "The following documents can be verified: a. Bid/RA publishing by Buyer b. Bid/RA participation by Seller c. Bid Corrigendum Publishing by Buyer d. Contract generation by Buyer e. Contract/amended contract acceptance by Seller f. Invoice generation/regeneration by Seller g. CRAC generation by Consignee h. Bill generation by Buyer"
+        },
+        {
+            "id": "seller100262",
+            "question": "Is e-sign different from Digital signature and how can these be availed?",
+            "answer": "Both e-sign and Digital sign allow signing a document or transaction. To perform e-sign the user has to register on e-mudhra using their PAN or Aadhar. To register on e-mudhra, pls copy and paste the below link in your browser: https://esign.e-mudhra.com/UI/subscriptionPlanNewUser.jsp?src=2cba53be42b24a2792ab0 To perform Digital signature, the user has to buy the signature certificate and token from the CCA certified agency. The embridge\u00a0application must also be installed and running on the user system. To install the application, please copy and paste the below link in your URL and download the installer as per your operating system. https://embridge.emudhra.com/"
+        },
+        {
+            "id": "seller100263",
+            "question": "Is it mandatory to e-sign or digitally sign the transactions on GeM?\u00a0\u00a0",
+            "answer": "You can choose to either verify transactions using esign/ Digital Sign Capability(DSC) or you can continue to use OTP. However the OTP feature is being supported for a limited time and would be decommissioned later. You should get either e-sign or DSC.\u00a0\u00a0"
+        },
+        {
+            "id": "seller100299",
+            "question": "Which Class Certificate can be used for Digital signing on GeM?",
+            "answer": "Only Class 3 Certificates can be used for Digital signing on GeM."
+        },
+        {
+            "id": "seller100588",
+            "question": "I am a Seller, I wish to know upon participating in the Bids which information is encrypted &amp; which are without encryption.",
+            "answer": "For both Product &amp; Services Bids the below mentioned information remains encrypted/without encryption. Financial details Encrypted:- Offer price of all items i.e. with list of items, AMC/CMC /ICT details if offered. Financial details without Encryption:- 1. GST Related -GST % / GST Cess 1 / GST Cess 2, 2. Quantity Offered, Item wise Quantity offered,  3. List of uploaded documents: List of files uploaded by seller with file names, 4. OEM MSE preference \u2019\u201dAre you an OEM of the offered catalogue to avail MSE preference: Yes/ No \u201c(As per option selected by bidder, publish NO by default even in cases where this option is not shown). 5. MSE document uploaded: File name shall be printed. In case of no file uploaded print \u2018No document uploaded\u2019. 6. \u201cIs your offering MII compliant: Yes / No\u201d (As per option selected by bidder, publish NO by default even in cases where this option is not shown). 7. Participating as: Class 1 Local Supplier / Class 2 Local supplier (As per option selected by bidder). 8. MII document uploaded: File name to be printed. If no file uploaded print \u2018No document uploaded\u2019."
+        },
+        {
+            "id": "seller100589",
+            "question": "How to download \"GeM Seller\" Mobile App?",
+            "answer": "Users can download the \u201cGeM Sellers \u201cApp from the Play store.  Android App: https://play.google.com/store/apps/details?id=gov.gem.sellers iOS App: https://apps.apple.com/in/app/gem-sellers/id1611589275"
+        },
+        {
+            "id": "seller100590",
+            "question": "Who can access \"GeM Sellers\" Mobile App?",
+            "answer": "GeM Sellers Mobile App can be accessed by both the Primary and Secondary Users registered Users on the GeM (Government e Marketplace) Portal."
+        },
+        {
+            "id": "seller100591",
+            "question": "Why to download Mobile App by sellers?",
+            "answer": "With the aid of Mobile App, Sellers can access the Order, Payments and Bid Analytics on the go, can view their Catalogues, Profile, and Notifications and in later phases perform actions which require minimum steps and are Mobile friendly."
+        },
+        {
+            "id": "seller100592",
+            "question": "How can you login to \"GeM Sellers\" Mobile App?",
+            "answer": "User can Login to the \u201cGeM Sellers\u201d Mobile App by submitting following details:  \u25cf User ID  \u25cf Password  \u25cf Captcha"
+        },
+        {
+            "id": "seller100593",
+            "question": "While accessing the App &amp; adding the Text against User ID, an error message is displayed \"You are not registered as Seller on GeM, Kindly use valid seller credentials\u201d, explain?",
+            "answer": "Please ensure that the User ID is already registered on the GeM Portal. Only registered Seller User ids can successfully login via this app. Any other non-registered User ids on GeM portal will be denied further access with the above mentioned error message."
+        },
+        {
+            "id": "seller100594",
+            "question": "How to reset password for \"GeM\" Seller App?",
+            "answer": "Users will be able to reset passwords using the \u201cForgot Password\" option."
+        },
+        {
+            "id": "seller100595",
+            "question": "Does \"GeM Seller Mobile App\u201d have any tutorial options on the tab available to guide the Sellers?",
+            "answer": "Yes, after Seller logins into the app, an overlay tutorial shall be displayed to the user, for the below mentioned screens of the App. User will be able to navigate to the tutorial from the More options list:  - Homepage - Order history screens - Payment statistics screens - Header with Bell Icon, Account details - Footer with Home, Order, Need help and More - Chat bot - Bid screens - Incident screens - Transaction charge screens"
+        },
+        {
+            "id": "seller100596",
+            "question": "How to access Notification by Sellers in Mobile App \u201cGeM Sellers\u201d?",
+            "answer": "As User clicks on the bell icon placed on the header, user is able to view a notification list as shown. Help me with Quick access links details available in Mobile App \u201cGeM Sellers\u201d? 1. Home - Upon tapping on the home icon, the user should be navigated to \u201cImage 6\u201d. 2. Order - Upon tapping on the order icon, the user should be navigated to order statistics \u201cImage 15\u201d. 3. GeMMy (Chatbot) \u2013shall be integrated with app. 4. More - Upon tapping on more icons, users should be able to view a list of options to navigate to as shown."
+        },
+        {
+            "id": "seller100597",
+            "question": "How to access Order and Payment details in Mobile App \u201cGeM Sellers\u201d?",
+            "answer": "Upon clicking the Order tab on the footer user will be navigated, where user can view following details:  Payment Statistics Order History Orders with Pending Invoice"
+        },
+        {
+            "id": "seller100598",
+            "question": "How to access Seller Dashboard in mobile app?",
+            "answer": "Once sellers log-in the application, sellers would directly navigate to the Dashboard page. Dashboard page will have following panels: o Pending Actions o Core Panel"
+        },
+        {
+            "id": "seller100599",
+            "question": "What are the available options to perform in \"Pending Actions\" on Seller dashboard Mobile App \u201cGeM Sellers\u201d?",
+            "answer": "\u25cf Orders pending Acceptance: Upon clicking on this widget, user shall be navigated to a order listing screen, where user shall be able to view the list of orders with status as \u201cPlaced\u201d.  \u25cf Orders pending Deliveries: Upon clicking on this widget, user shall be navigated to a order listing screen. \u25cf Pending Transaction Charges: Upon clicking on this widget, user shall be navigated to a screen, where user shall be able to view the list of orders with status as \u201cPlaced\u201d. \u25cf Pending Invoice Creation: Upon clicking on this widget, user shall be navigated to a screen, where user shall be able to view the list of orders with status as \u201cAccepted\u201d."
+        },
+        {
+            "id": "seller100600",
+            "question": "What are the available options to perform in \"Core Panel\" on Seller Dashboard on Mobile App \u201cGeM Sellers\u201d?",
+            "answer": "Core Seller Panel in Seller Dashboard shall also have navigation tabs as mentioned below:- \u25cf Bid  Last 10 bids won \u2013 Last 10 bids won by the user. Last 10 opportunities lost \u2013 Last 10 bids the user lost. Bids notified in last one month\u2019s - Last one month bid notified to seller. [Upon clicking on the Bids, user shall be navigated to a bid detail page.] \u25cf Catalogue management -&gt; Catalogue statistics - Count of active products with respective status(s) shall be shown. Upon clicking the count user should be able to view the list of products of respective status on a separate page. -&gt; Category wise listing - Count of active sellers, selling the products of respective category shall be shown. \u25cf Transaction charges Every time a user accepts an order, he/she may incur transaction charges depending on value / accumulated value of transaction and the details of the same will be available to the user under this option. \u25cf Incident -&gt; Sellers can view the count of incidents marked to their account with respective status(s). -&gt; Upon clicking on the count seller would be navigated to the incident listing page, where they can see a summary of specific incident"
+        },
+        {
+            "id": "seller100601",
+            "question": "How to access Order and Payment details in Mobile App?",
+            "answer": "Upon clicking the order tab on the footer user shall be navigated, where user can view the following details: Payment Statistics Order History Orders with Pending Invoice"
+        },
+        {
+            "id": "seller100602",
+            "question": "Is it possible for a Seller to exercise Representation &amp; Challenge window for Bids with shorter duration?",
+            "answer": "Yes, Seller would be able to create representation in the Ongoing Bids for the short duration i.e. where the Bid duration is between 3 to 10 days."
+        },
+        {
+            "id": "seller100603",
+            "question": "How many times is the Seller allowed to create representation at a given time for a particular Bid?",
+            "answer": "The Seller is able to create representation for a particular Bid only once by using single drop down option or from all available drop down options."
+        },
+        {
+            "id": "seller100604",
+            "question": "Within how many days is the Seller able to create representations for a particular Bid w.r.t (with respect to) the Bid duration?",
+            "answer": "Seller will be able to create representations within 1 day for Bids with Bid duration between 3 to 5 day, within 2 days for Bid duration between 6 to 9 days &amp; within 4 days for Bids with Bid duration of 10 or above days. Buyer should respond to the seller's representations 24 hours before the Bid end date and time."
+        },
+        {
+            "id": "seller100812",
+            "question": "Are there any Seller categories exempted from Caution Money?",
+            "answer": "Sellers belonging to the below mentioned categories are exempted from Caution Money 1.Artisans 2.Weavers 3.MSE SC/ST 4.MSE Women"
+        },
+        {
+            "id": "seller95734",
+            "question": "What should I do, when \"Key Person\" validation fails?",
+            "answer": "\"Key Person\" validation fails, when user's \"Aadhaar Name\" &amp; \"Name of Authorized person in the Income Tax Return(ITR)\"are different e.g. If \"Aadhaar Name\" used during registration is Mr. A and Company/ Firm ITR signing Authority's Name is Mr. B, then validation will fail. As per GEM rules, both names should be same."
+        },
+        {
+            "id": "seller95735",
+            "question": "What should I do , if some other person\u2019s name is mentioned in the Company/ Firm ITR?",
+            "answer": "There is an option in Seller Profile to \u201cUpdate Aadhaar\u201d; User can update Aadhaar details of ITR authorized signatory &amp; his/her mobile number ,which is linked with Aadhaar &amp; Verify. Once new Aadhaar is updated, \"Key Person\" validation may be performed again.On Aadhaar update, PAN Validation has to be reverified."
+        },
+        {
+            "id": "seller95736",
+            "question": "What should I do in case I get error of Office Locations' mismatch?",
+            "answer": "Your Office Locations' address should be same as the address mentioned in Income Tax Return (ITR). To rectify this error, the mandatory fields in the address are to be updated as per the address mentioned in Income Tax Return (ITR)."
+        },
+        {
+            "id": "seller95737",
+            "question": "What should I do if I am not able to update profile due to \"MSE Verification\" failure?",
+            "answer": "This happens, when your UAM number has not been validated. To rectify this error, you will have to click on the checkbox \u201cAre you registered with MSME?\u201d, enter UAM number then provide Mobile number / Aadhaar number ( registered with UAM at the time of applying MSME)."
+        },
+        {
+            "id": "seller95738",
+            "question": "How to make a \"Bank Account Number\" as \"Primary\" for receiving payments?",
+            "answer": "The seller can provide multiple Bank Account Numbers but only one can be marked as \"Primary\" by clicking on the corresponding checkbox labeled \"Is Primary Account\". This Bank Account will be used for receiving payments once verified by PFMS."
+        },
+        {
+            "id": "seller95739",
+            "question": "How can I rectify my organisation \"Constitution Type\"?",
+            "answer": "To change \"Constitution Type\" of your organisation, You need to visit \"My Account\" and click on Change Constitution Type. Kindly note that Change Constitution Type is allowed only once. On updation of Constitution Type, all the verification will have to be done again to complete your Profile."
+        },
+        {
+            "id": "seller95740",
+            "question": "What should I do, when \"PAN Validation\" fails?",
+            "answer": "\"PAN Validation\" fails when user's \"Aadhaar Name\" &amp; \"Name of Authorized person in the Income Tax Return(ITR)\"are different e.g. If \"Aadhaar Name\" used during registration is Mr. A and Company/ Firm ITR signing Authority's Name is Mr. B, then validation will fail. As per GEM rules, both names should be same."
+        },
+        {
+            "id": "seller101055",
+            "question": "Can I register a company without CIN?",
+            "answer": "Registration of a company without CIN is available only for special government organizations like state warehouses etc. The Seller/ Service Provider may\u00a0raise a ticket with the undertaking on the organization letterhead duly signed by competent authority. The registration request will be processed by GeM accordingly.\u00a0"
+        },
+        {
+            "id": "seller95741",
+            "question": "What should I do, when Tax Validation is failing?",
+            "answer": "Tax validation failures are attributed to mismatch in data provided to GeM and that present in your ITR. Cases further differ basis constitution type and ITR type. 1. For ITR6, ITR5, ITR4s and ITR3 \"Profit and Gain\" and \"Sale / Gross Receipts of business\" sections need to match with ITR. 2. For ITR4 \"Profit and Gain\" and \"Business and Profession\" needs to match with ITR."
+        },
+        {
+            "id": "seller95742",
+            "question": "What should I do Tax Validation is failing for ITR6?",
+            "answer": "For ITR6, we would suggest the user to fill the details as follows:  1. Fill \"Profit and Gain\" from Section \u201cPart B - T1 \u201cComputation of Total Income\u201d Point number 2 (vi) [Total] of ITR. 2. For \u201cSale / Gross Receipts of business\u201d,fill the details from Part A of Section \u201cProfit and Loss Account\u201d Point number 1 \u201cRevenue from Operations\u201d A (vi) [Total] of ITR.Onward assessment year 2017-18 If you are maintaining your books of account as per indian accounting standards then you need to select the provided option accordingly."
+        },
+        {
+            "id": "seller95743",
+            "question": "What should I do Tax Validation is failing for ITR5, ITR4s or ITR3?",
+            "answer": "If the ITR type is ITR5, ITR4s or ITR3, we would suggest the user to fill the details as follows:  1. Fill \"Profit and Gain\" from ITR Section \u201cPart B - T1. \u201cComputation of Total Income\u201d Point number 2 (v) [Total] of ITR.  2. For \u201cSale / Gross Receipts of business\u201d, fill the details from Section \u201cProfit and Loss Account\u201d Point number 1 \u201cRevenue from Operations\u201d A (iv) [Total] of ITR."
+        },
+        {
+            "id": "seller95744",
+            "question": "What should I do Tax Validation is failing for ITR4?",
+            "answer": "If the ITR type is ITR4, we would suggest the user to fill the details as follows: 1. Fill \u201cProfit and Gain\u201d section from ITR Section \u201cPart B - T1. \u201cComputation of Total Income\u201d Point number 2 (v) [Total] of ITR. 2. Fill the \u201cBusiness and Profession\u201d section amount from \u201cE1a and E1b\u201d in the ITR."
+        },
+        {
+            "id": "seller95745",
+            "question": "What should a seller do if the published bid has concessional rate of GST mentioned?",
+            "answer": "The seller should quote the final price after taking into account the concessional rate of GST while participating in the Bid. No revision of the price is allowed once the Bid has been opened."
+        },
+        {
+            "id": "seller101056",
+            "question": "How can I update my turnover if I file ITR7?",
+            "answer": "The Seller/ Service Provider may\u00a0raise a ticket with\u00a0 ITR Acknowledgement Summary duly signed by CA, Audited Financial Statement/Audited Balance Sheet and Turnover Certificate for required years. The request to update turnover will be processed by GeM subject to successful verification of the submitted documents."
+        },
+        {
+            "id": "seller95746",
+            "question": "I am not allowed to upload my products or my products have been removed from GeM because I am not an OEM or Authorized Reseller?",
+            "answer": "Please note that in certain categories (Quadrant 1 and Quadrant 2 as per CMS 2.0), only OEMs or their Authorized Resellers are allowed to transact at GeM. This is required to ensure that Buyers get authentic products along with the necessary assurances and warranties as offered by the OEMs.  GeM undertakes continuous assessment of performance of OEMs/Resellers offering products in such categories and makes recommendations to expand the number of Resellers based on outcome of such assessment."
+        },
+        {
+            "id": "seller95747",
+            "question": "How should I upload products on GeM?",
+            "answer": "To upload your product, follow these steps: login &gt; click on the catalog &gt; click on Products&gt; click on \"Add New\" &gt; enter Search Category &gt; enter the Category / Product name in search bar and select from drop down&gt; enter General Information&gt; enter the catalog information &gt; offer quantity and price&gt; enter product specification&gt; upload images &gt; click Save / Proceed&gt; Review Terms and Conditions &gt; Click PUBLISH"
+        },
+        {
+            "id": "seller95748",
+            "question": "What Is the Turn Around Time (TAT) of product approval?",
+            "answer": "The Turn Around Time for product approval is for 96 hours for all products."
+        },
+        {
+            "id": "seller95749",
+            "question": "What should I do, If I am not able to \"Upload Product\"?",
+            "answer": "This situation usually arises, when you upload products in the \"wrong category\", or with Incorrect specification(s) , Image, Model, Price, etc. Reasons for product rejection can also be checked in the draft or rejected tab of the catalogue. Also If the valid category is not available, you may come back to portal later as new categories are frequently added or may request the prospective buyer to request GeM for category creation."
+        },
+        {
+            "id": "seller95750",
+            "question": "What is the common reason for Brand Rejection?",
+            "answer": "Brand may be rejected, or put on hold if the representation of the brand name is not correct or consistent with the trademark/authorization letter/website for the category where brand is requested. Hence, it cannot be validated."
+        },
+        {
+            "id": "seller95751",
+            "question": "How can I change/add specifications of the product?",
+            "answer": "You cannot change or add specifications of the product. You have to raise ticket from \"Support Desk\" if have any concern related to this."
+        },
+        {
+            "id": "seller95752",
+            "question": "What should you do if your product got rejected due to \" incorrect category\"? Also, same product is already published under the same category.",
+            "answer": "If your product has been rejected due to \"incorrect category\",you will have to offer your product in the correct category which can be be searched though the seller panel or GeM portal."
+        },
+        {
+            "id": "seller95753",
+            "question": "What should I do if my product got rejected due to \"Invalid BIS or Test Report Number\"?",
+            "answer": "You must add correct BIS or Test Report Number. If your product is rejected even though you have provided correct BIS or Test Report Number, then you will have to raise a \"Support Ticket\" with all the details and relevant documents. You can raise a ticket from \"Support Desk\" option on the portal."
+        },
+        {
+            "id": "seller95754",
+            "question": "What are the major reasons for Product Rejections?",
+            "answer": "Major reasons for Product Rejections are:  - Model number which cannot be verified from OEM website - Product listing in wrong category - Invalid price range - Uploading wrong images - Force fitting the Technical parameters"
+        },
+        {
+            "id": "seller95755",
+            "question": "Can a Seller republish/ relist discontinued product on market place?",
+            "answer": "Once a Seller discontinues a product on the marketplace, the same can\u2019t be relisted/republished."
+        },
+        {
+            "id": "seller95756",
+            "question": "What should I do if the catalog shows \"already exists\" while adding new product?",
+            "answer": "If the catalog shows \"already exists\" while adding new product,this means that the catalog has already been uploaded."
+        },
+        {
+            "id": "seller95757",
+            "question": "What should I do if a seller complains that his product has not been approved?",
+            "answer": "Please check if reason for product rejection is notified on the seller panel. If yes, kindly correct the same and re-upload the product for review. If there is no notification, the user may raise a ticket along with the product details , so that case may be escalated to the concerned department."
+        },
+        {
+            "id": "seller100204",
+            "question": "What if I am not satisfied with the reason for rejecting my product upload request?",
+            "answer": "In such a case, kindly contact the helpdesk team and elaborate your standpoint in a mail with a documentary proof to substantiate the same."
+        },
+        {
+            "id": "seller100205",
+            "question": "What is the TAT for approving category requests for the OEM panel?",
+            "answer": "The TAT is 15 days however OEM approval is given at a category level, please raise separate requests for different categories."
+        },
+        {
+            "id": "seller100206",
+            "question": "Why is my OEM Panel pending for the requested Category?",
+            "answer": "Please check the panel for the status of the request. In case further information is requested by the GeM Team, please share the same over the panel itself. There will be only 3 attempts, so incase of disagreement kindly raise a ticket with the helpdesk team."
+        },
+        {
+            "id": "seller100221",
+            "question": "How can I verify myself as an OEM on GeM?",
+            "answer": "To get verified as an OEM, login into GeM, go to My Account \u2192 OEM Panel.  Under \u201cRequest OEM Authority for Brand\u201d select your category and Brand. Upload relevant documents (Brand Ownership\\Trademark documents), and click on Create Request.  GeM team will verify the request and if validated, you will be granted OEM rights for the brand in the selected category."
+        },
+        {
+            "id": "seller100222",
+            "question": "I am an OEM. I have requested for OEM rights for a brand and category. When my request will get approved?",
+            "answer": "OEM can check the status of the requests in the \u2018All Requests\u2019 section on OEM Panel. GeM approval team will go through the request and take required action."
+        },
+        {
+            "id": "seller100223",
+            "question": "I am unable to see OEM Panel link. What should I do?",
+            "answer": "Please complete your seller profile, kindly see some important checks that have to be green- 1. Active bank accounts should be there. 2. Office locations should be there. 3. Tax Assessment details should be there for last 3 financial year. 4. If the seller registered himself as a company, then CIN, directors info has to be there. 5. Seller has to be vendor assessed or exempted from vendor assessment."
+        },
+        {
+            "id": "seller100224",
+            "question": "I want to upload my product on GeM. However, I am not able to find a relevant category. What can I do?",
+            "answer": "If the particular category is not available on GeM , you may either wait for it to be added or you can ask the Buyer who uses your product to make a request to GeM for category addition."
+        },
+        {
+            "id": "seller100225",
+            "question": "Is it possible to edit the product catalog after uploading?",
+            "answer": "After product gets publised its not possible to edit catalogue except stocks and price"
+        },
+        {
+            "id": "seller100226",
+            "question": "My brand is not available on GeM. What should I do?",
+            "answer": "If your brand is not available on GeM, you can request for addition of new brand by clicking on \"Add New Brand\" option. Once it is approved, you will be notified."
+        },
+        {
+            "id": "seller100227",
+            "question": "What are the precautionary measures I should take while uploading an image of a product?",
+            "answer": "For uploading an image, please ensure the following: a) Upload actual image of the product with clean white background and without watermark, brand logos, or any sort of identification mark b) Maximum Image size should be 300kb in jpg or png file format c) Upload three centre aligned images of the product preferably from three product angles d) Image should comply with the technical parameters e) Do not add Product description, certifications or specifications to the image f) Do not upload partial product image, diagrams or sketches g) Do not Photoshop the image to distort from the original image h) Do not upload image of bunch of products, upload single product image i) \u00a0Do not upload the images of product packaging, carton or outer box."
+        },
+        {
+            "id": "seller95761",
+            "question": "How to participate in Bid / RA?",
+            "answer": "Detailed instructions are available in form of Video Guides on GeM portal. Kindly refer to different aspects of Bid Creation on https://gem.gov.in/training/videos/sellers  You can also refer to further questions under \"Bid/RA Participation\" section of this FAQ."
+        },
+        {
+            "id": "seller95762",
+            "question": "What should I do if I am not able to participate in Bid due to product not found?",
+            "answer": "In order to participate in a Bid, the seller should have the offering in the required category and the offered product should comply with the allowed values of Golden Parameters mentioned in the bid document."
+        },
+        {
+            "id": "seller95763",
+            "question": "What should I do if Company Name is not visible in the Technical BID?",
+            "answer": "The seller may raise a support ticket with the BID details, so that the same can be highlighted to the concerned department by the Customer Support."
+        },
+        {
+            "id": "seller95764",
+            "question": "What should I do if system redirects to login page, while participating in BID?",
+            "answer": "In this case, the user may try again after 30 - 40 mins or as notified. If the Issue persists, a support ticket may be raised. You can raise a ticket from \"Support Desk\" option."
+        },
+        {
+            "id": "seller95765",
+            "question": "When is the EMD returned to unsuccessful bidders?",
+            "answer": "EMD of unsuccessful bidders shall be returned by the Buyer within 15 days after the award of contract or expiry of bid validity, whichever is earlier."
+        },
+        {
+            "id": "seller100228",
+            "question": "Can a Seller/ Service Provider withdraw participation from Bid/RA?",
+            "answer": "Yes, participation from the Bid/ RA can be withdrawn by the Seller/ Service Provider using the \"Withdraw\" option."
+        },
+        {
+            "id": "seller100229",
+            "question": "What are the documents a seller needs to upload if demanded by the buyer?",
+            "answer": "You would need to upload your Experience Certificate with Government, Turnover Certificate, MSE Registration Certificate, Certificates as per Additional Terms &amp; Condition and OEM Authorization Certificate."
+        },
+        {
+            "id": "seller100365",
+            "question": "I am a Seller. Where do I get the provision to upload PDF File/Financial document for consumables/spares? How do I know PDF option is available for Seller?",
+            "answer": "Seller gets to upload the PDF file of Financial document in the Upload section of the Bid participation."
+        },
+        {
+            "id": "seller100366",
+            "question": "How many files can a Seller upload for Financial document for Prices for the Consumables/Spares&amp; what is the type of file &amp; Max File Size available?",
+            "answer": "Seller gets to upload only One file of the Type PDF with file size of 10 MB."
+        },
+        {
+            "id": "seller100367",
+            "question": "How many times can a Seller upload the Financial document of prices for consumables/spares?",
+            "answer": "Seller gets to upload the PDF File during Seller participation only. This facility is not available for upload during RA or during L1 Negotiation or during price match/counter offer request."
+        },
+        {
+            "id": "seller100368",
+            "question": "During Bid to RA, in case L1 Bidder is non MSE/MII &amp; MSE/MII Bidders fall within price band but happen to be outside the RA Qualifying rule then shall MSE/MII Bidders be eligible for Participating in RA?",
+            "answer": "Yes, in case L1 Bidder is non MSE/ non MII then MSE/MII Bidders shall be eligible for participating in the RA falling in the required price band. MSE/MII Exclusion shall be applicable for both 50% Technically qualified seller elimination rule and H1 elimination rule provided : A] 50% RA eligibility rule If L1 is MSE, L1+15% Band eligibility will not be considered for RA qualification as per the 50% Bid to RA qualification rule. If L1 is MII, L1 + 20% Band eligibility will not be considered for RA Qualification. as per the 50% Bid to RA qualification rule. B] H1 elimination  If L1 is MSE in Bid; H1 will be eliminated irrespective of their MSE status. If L1 is MII in Bid, H1 will be eliminated irrespective of their MII status."
+        },
+        {
+            "id": "seller100369",
+            "question": "What is the minimum count up to which Sellers &amp; OEM can go ahead in Bid to RA without being Eliminated?",
+            "answer": "During Bid to RA, offers of minimum 3 Sellers &amp; 2 OEM's are required to be considered without being Eliminated."
+        },
+        {
+            "id": "seller100370",
+            "question": "What is ePBG?",
+            "answer": "The term ePBG Stands for Electronic Performance Bank Guarantee. This status of ePBG is available to the buyer on the bill detail page."
+        },
+        {
+            "id": "seller100371",
+            "question": "What are the different status of the ePBG?",
+            "answer": "There are 2 possible status of ePBG 1. \u201cVerified\u201d: This represents that the ePBG status is verified. 2. \u201cePBG non-verified\u201d: This represents that the ePBG status is either not initiated or not verified."
+        },
+        {
+            "id": "seller100372",
+            "question": "How many types of RA Qualifiying criterias are available for the Buyer to select from?",
+            "answer": "The Buyer gets a choice to select any one from the two RA Criteria, 1) 50% Technically qualified Bidders to ahead in RA, 2) H1 elimination, the bidder whose Prices remain the highest gets eliminated."
+        },
+        {
+            "id": "seller102444",
+            "question": "Can Service provider quote less than floor price set by GeM or Buyer?",
+            "answer": "Service provider quoting less than floor price set by buyer or GeM will be disqualified automatically"
+        },
+        {
+            "id": "seller95766",
+            "question": "How can I update PFMS Unique Code?",
+            "answer": "The PFMS Unique Code can be updated by clicking on \"PFMS Code Verification button\" in Bank Details section of Seller Profile."
+        },
+        {
+            "id": "seller100208",
+            "question": "What needs to be done if the ePBG is showing pending for verification?",
+            "answer": "The ePBG Request document can be generated from Order details and the same has been uploaded on the portal by the Seller. Once the ePBG document is uploaded the status becomes \"Pending\". Buyer can be asked to verify the same so that the status will get updated to \"Verified\"."
+        },
+        {
+            "id": "seller100272",
+            "question": "What are the steps to Generate an Invoice?",
+            "answer": "Please follow the steps mentioned below to generate an invoice: 1. Login with User id and Password and submit 2. Click on 'Order' 3. Search your order number for which you want to generate an invoice and click on 'View Details' 4. Click on 'Generate' and enter invoice details like Supply Quantity, CGST, SGST, Cess, etc. 5. Check all the details of the invoice and click on 'Create'"
+        },
+        {
+            "id": "seller100383",
+            "question": "How many invoices will be raised in case of staggered delivery order?",
+            "answer": "Each lot of the staggered delivery order will have at least one invoice. Hence, the minimum number of invoices for a staggered delivery order will be equal to the number of lots."
+        },
+        {
+            "id": "seller100384",
+            "question": "What is the use of TDS upload functionality available to me?",
+            "answer": "TDS upload functionality is available to all sellers to upload the certificate for the TDS deducted while paying the applicable Transaction charges."
+        },
+        {
+            "id": "seller100605",
+            "question": "Is Transaction Charge payable in addition to the Annual Milestone Charges (AMC)?",
+            "answer": "Yes, Transaction Charge is payable in addition to the Annual Milestone Charges."
+        },
+        {
+            "id": "seller100606",
+            "question": "Is TDS deducted on the Transaction Charges payables in addition to the Annual Milestone Charges (AMC)?",
+            "answer": "Yes TDS is deducted at 2% on the Transaction &amp; Annual Milestone Charges but get applicable once the cumulative value exceeds INR 30000 within a financial year."
+        },
+        {
+            "id": "seller100607",
+            "question": "Is Transaction Charges &amp; Annual Milestone Charges (AMC) applicable for both Product &amp; Services?",
+            "answer": "Yes, both Transaction Charges &amp; Annual Milestone Charges (AMC) are applicable for both Product &amp; Services?"
+        },
+        {
+            "id": "seller100608",
+            "question": "When is Annual Milestone Charges (AMC) levied on the Seller? Is this related to the Bank Guarantee (BG) submitted by the Seller?",
+            "answer": "AMC is levied at 0.5% when the Seller crosses the threshold value of INR 20 Lacs in a given financial year for BG Seller &amp; the same are covered by the BG submitted by the Seller."
+        },
+        {
+            "id": "seller100609",
+            "question": "What shall be the Transaction Charges on Bid Order created before 1st April 2022?",
+            "answer": "Bid Order created before 1st April 2022, shall have old Transaction Charges rules."
+        },
+        {
+            "id": "seller100813",
+            "question": "Where can we check the limit for number of days for Auto CRAC?",
+            "answer": "The limit for number of days for Auto CRAC will be mentioned in the Sanction &amp; Contract document, auto CRAC days will be mentioned."
+        },
+        {
+            "id": "seller101042",
+            "question": "How do I upload the TDS certificate on GeM?",
+            "answer": "Post logging in, you may upload the TDS certificate at Dashboard -&gt; Upload TDS certificate screen."
+        },
+        {
+            "id": "seller100231",
+            "question": "How can I get Vendor Assessment done?",
+            "answer": "As an OEM on GeM, you can initiate Vendor Assessment from your account profile by furnishing required information with respect to Vendor Assessment. This information would be collected through an online form and upon successful submission;  1.Vendor Assessment agency would be assigned for the process.  2. Any requirement for additional documents will be intimated directly by this agency.The required additional documents will be made available on the link provided in the e-mail sent to the vendors. Any updation or change in the status of the information validated at the time of registration or third party assessment shall be enabled for updation by the vendor from time to time with online validation wherever possible."
+        },
+        {
+            "id": "seller95767",
+            "question": "What are the pre-requisites for a primary seller/service provider registration?",
+            "answer": "The pre-requisites for a primary seller/service provider registration are: 1. Constitution Type such as Properitorship, Firm, Company, Trust or Society and Central Government/State Government. 2. Constitution Name. 3. Aadhaar Number or Personal PAN of the user(Authorized signatory of ITR) 4. For Aadhaar based registrations, mobile number which is linked with the Aadhaar is required. 5. Documents such as CIN, PAN, DIPP, UAM, ITR details as per the constitution of the organization may be required for seller registration. 6. Address of the organization. 7. Bank account details of the organization 8. Active email id."
+        },
+        {
+            "id": "seller95768",
+            "question": "Is Aadhaar mandatory for Seller Registration?",
+            "answer": "No, Aadhaar is no longer mandatory for Seller Registration. Sellers now also have an option to use Personal PAN for Identity Verification while doing the seller registration."
+        },
+        {
+            "id": "seller95769",
+            "question": "Whether a registered email id of primary and secondary sellers can be changed/updated ?",
+            "answer": "Yes, registered email id can be changed/updated. Seller can go to ''Profile Update'' under Seller Registration and can change the same."
+        },
+        {
+            "id": "seller95770",
+            "question": "Which email ID do I need to provide for registration?",
+            "answer": "We would advise you to provide the official email ID of the person managing the account so as to not miss out on important notifications, OTP\u2019s etc."
+        },
+        {
+            "id": "seller95771",
+            "question": "Can I change my User ID later?",
+            "answer": "No, User Id once created cannot be edited or deleted."
+        },
+        {
+            "id": "seller95772",
+            "question": "Is it mandatory to create secondary users?",
+            "answer": "Once Seller/Service Provider is registered and account is created on GeM, the Primary user of the Seller/Service Provider can create Secondary User Accounts within Seller/Service Provider Organization with different roles and responsibilities. But it is not mandatory to create secondary users."
+        },
+        {
+            "id": "seller95773",
+            "question": "Who can be the primary user for a seller/service provider organisation?",
+            "answer": "Authorized signatory of ITR should be the primary user for a seller/service provider organization."
+        },
+        {
+            "id": "seller95774",
+            "question": "What type of sellers are exempted from uploading ITR on GeM portal during registration?",
+            "answer": "Organizations whose Date of Incorporation is less than 2 years can be exempted from uploading ITR on GeM Portal during registration."
+        },
+        {
+            "id": "seller95775",
+            "question": "Why do I need to enter my Aadhaar number for registering as a seller/service provider on GeM?",
+            "answer": "Your Aadhaar number on GeM is used solely for user verification. You can also register using your personal PAN (Permanent Account Number)."
+        },
+        {
+            "id": "seller95776",
+            "question": "Can I register myself both as a seller and service provider on GeM?",
+            "answer": "Yes, you can register yourself as a product seller as well as a service provider."
+        },
+        {
+            "id": "seller95777",
+            "question": "What is constitution type?",
+            "answer": "Constitution refers to the type of your organization such as firm, trust/Society &amp; Central Govt., State Govt., company, proprietorship, etc."
+        },
+        {
+            "id": "seller95778",
+            "question": "My constitution is \u2018partnership\u2019, but I am not able to choose this option while registering my firm. What can I do?",
+            "answer": "If your organization is a partnership firm, you can choose \u2018firm\u2019 as a constitution."
+        },
+        {
+            "id": "seller95779",
+            "question": "Whose Aadhaar number would be required during registration if my firm is in partnership?",
+            "answer": "Aadhaar number of the person who files the ITR for your organization would be required while registering on GeM."
+        },
+        {
+            "id": "seller95780",
+            "question": "Is there any specific criteria for creating a password on GeM?",
+            "answer": "Yes, the password must be a minimum of 8 characters in length, containing upper case, lower case, numbers and special characters."
+        },
+        {
+            "id": "seller95782",
+            "question": "My PAN validation is unsuccessful. What can I do?",
+            "answer": "For Proprietorship - Name as mentioned in PAN and it should be authorized signatory of ITR. For Company/Firm/Trust or Society/Center Government or State Government - Organisation name as mentioned in PAN."
+        },
+        {
+            "id": "seller95783",
+            "question": "Why my GSTIN is not appearing in the contract?",
+            "answer": "There could be two possibilities, either GSTIN is not updated in your profile or it was updated post contract creation. Post Updation, all new contracts would encompass GSTIN."
+        },
+        {
+            "id": "seller95784",
+            "question": "How can a MSE register on GeM?",
+            "answer": "During registration on GeM, there is an option available for you to select your organisation as a MSE. Then you need to provide UAM and the mobile number or Aadhaar number linked with the UAM."
+        },
+        {
+            "id": "seller95785",
+            "question": "What is the benefit of registering as MSE?",
+            "answer": "It is mandatory for all government buyers to purchase a certain percentage of products from MSE every year. Hence, if you are registered as MSME, you have the added benefit of sales."
+        },
+        {
+            "id": "seller95786",
+            "question": "How can a Startup register on GeM?",
+            "answer": "During registration on GeM, there is an option available for you to select your organisation as a startup. Then you need to provide DIPP number and the mobile number linked with the DIPP number."
+        },
+        {
+            "id": "seller95787",
+            "question": "To register on GeM as a seller, do I require a DIPP number?",
+            "answer": "DIPP number is required only for Startups.For any startup to register on GeM DIPP number and linked mobile number is mandatory."
+        },
+        {
+            "id": "seller95788",
+            "question": "Who can avail benefit from Startup India Mission on GeM?",
+            "answer": "All DIPP Certified Startups can register as Sellers/ Service Provider on GeM"
+        },
+        {
+            "id": "seller95789",
+            "question": "What are the major benefits for Startups on GeM?",
+            "answer": "The major benefits are: (i) Relaxation of prior experience and prior turnover. (ii) Exemption from submitting \u201cEarnest Money Deposit [EMD]"
+        },
+        {
+            "id": "seller95790",
+            "question": "Can I add multiple bank accounts?",
+            "answer": "Yes, you can add multiple bank accounts provided one is a primary bank account and the others are secondary bank accounts."
+        },
+        {
+            "id": "seller95791",
+            "question": "I am both a reseller and an OEM. Can I offer products/services on GeM?",
+            "answer": "Yes, you can offer products/services on GeM if you are both a reseller and an OEM. However, while uploading your product, you must select whether you are an OEM or a reseller for that particular product."
+        },
+        {
+            "id": "seller95792",
+            "question": "Is entering billing address necessary?",
+            "answer": "Entering billing address is important during registration. During invoice generation, you need to select the billing address to proceed further."
+        },
+        {
+            "id": "seller95793",
+            "question": "What are the pre-requisites for a secondary seller/service provider registration?",
+            "answer": "The pre-requisites for a secondary seller/service provider registration are: 1. Aadhaar Number or Personal PAN of the user 2. For Aadhaar based registrations, mobile number which is linked with the Aadhaar is required 3. Active email ID "
+        },
+        {
+            "id": "seller95794",
+            "question": "How can a primary seller create secondary users?",
+            "answer": "A primary seller needs to follow the below mentioned steps for creating secondary users: 1. Login to account and click on My Team  2. Click on Add secondary user 3. Enter email id of the person you have selected as a secondary user 4. Assign roles to the user such as Participate Bid/RA, Manage Order Fulfillment, Manage Catalogue etc.  5. Click on Add User"
+        },
+        {
+            "id": "seller95795",
+            "question": "How will a secondary user activate his/her account?",
+            "answer": "The steps to activate a secondary user are: 1. Click on the activation link sent to the secondary user's mail id. 2. Click on the \"Verify me Now\" link and provide Aadhaar number and mobile number linked with the Aadhaar number 3. Verify Aadhaar by clicking on \"Verify Aadhaar\" 4. Create a user id and password and click on \"Create Account\""
+        },
+        {
+            "id": "seller95796",
+            "question": "Is PAN and ITR are required for secondary seller registration?",
+            "answer": "It depends on the primary seller registration. If primary seller registration is done through PAN then PAN is required for secondary seller registration as well.\u00a0 Note: ITR is not required for seller registration .It is required for profile updation after getting registered as a primary user."
+        },
+        {
+            "id": "seller95797",
+            "question": "Is it mandatory for a secondary user to provide Aadhaar and mobile number linked with Aadhaar?",
+            "answer": "It depends on the primary seller registration. If primary registration is done through PAN then PAN is required for secondary seller registration.\u00a0If\u00a0primary registration is done through Aadhaar then Aadhaar is required for secondary seller registration."
+        },
+        {
+            "id": "seller95798",
+            "question": "Can the proprietor of a Proprietorship organisation authorize someone to carry out primary registration?",
+            "answer": "No, primary registration should be carried out by Proprietor only. But, the proprietor can authorize secondary users to carry out activities such as uploading product(s)/ service()s), seeking of brand/product approval, Bid/RA participation, order fulfilment etc."
+        },
+        {
+            "id": "seller95799",
+            "question": "Can a Trust, Society and Autonomous Bodies register themselves as Seller as well as Buyer with same Aadhaar number, Aadhaar linked mobile number, user id and email id?",
+            "answer": "Yes, however, the email Id and the user id should to be different for Buyer and Seller registration."
+        },
+        {
+            "id": "seller95800",
+            "question": "Can a Primary Seller activate/edit the account of a secondary user?",
+            "answer": "Yes, the Primary Seller can activate/edit the account of a secondary user."
+        },
+        {
+            "id": "seller95801",
+            "question": "Can a Primary Seller upload product, process an order and participate in Bids without creating secondary users?",
+            "answer": "Yes, a Primary Seller can perform all activities even if he/she has not created any secondary users."
+        },
+        {
+            "id": "seller100233",
+            "question": "What are the major reasons for not being able to log in to my account?",
+            "answer": "Major reasons for not being able to log in : -You are entering invalid user_id and password.\u00a0 Please check the same. -You are entering the incorrect captcha.\u00a0 Please check the same. -Your cache memory is not cleared so either clear it or you can try in incognito mode."
+        },
+        {
+            "id": "seller100234",
+            "question": "Why is my login ID disabled?",
+            "answer": "This might be due to the reason that the account has not been used for more than 3 months. Please share your user_id and PAN with GeM helpdesk for further action."
+        },
+        {
+            "id": "seller100235",
+            "question": "I forgot my user ID to access the GeM portal, how can I reset it?",
+            "answer": "Please contact GeM Helpdesk and provide details like Personal PAN, Company PAN for further assistance."
+        },
+        {
+            "id": "seller100236",
+            "question": "How can I change my Constitution name?",
+            "answer": "Please contact GeM helpdesk and share Govt. document proof (s) for correct/ changed constitution name for further process. Please check for completion of all orders\u00a0and resolution of incidents raised (if any)\u00a0before\u00a0proceeding for change in constitution name\u00a0."
+        },
+        {
+            "id": "seller100237",
+            "question": "How can I update my email ID?",
+            "answer": "Email id can be changed/ updated through the \"Change E-Mail Id\" option given in your profile section. An OTP is sent\u00a0to your registered mail id for updating the e-mail id\u00a0in your GeM profile."
+        },
+        {
+            "id": "seller100238",
+            "question": "Why am I not able to register my account as a Seller on GeM?",
+            "answer": "This might be due to the following reasons: -Please check if you already have an account at GEM. -The details of PAN and Aadhaar entered during registration should be correct. -Mobile number entered for registration should be linked with Aadhar. -While opting for PAN based registration, please ensure the name entered should be the same as in PAN."
+        },
+        {
+            "id": "seller100273",
+            "question": "Whose PAN would be required during registration on GeM?",
+            "answer": "If your constitution type is company/firm/trust/Government, you need to provide the organisation PAN. Only if your constitution is Proprietorship, you need to provide the individual's PAN."
+        },
+        {
+            "id": "seller100373",
+            "question": "How can I opt in for Sahay account?",
+            "answer": "Pease follow below steps:- 1. Login to account. 2. Click on Company profile section. 3. You will get option to Opt in for Sahay (Yes / No). 4. Select \u2018Yes\u2019 to opt in for Sahay account."
+        },
+        {
+            "id": "seller100374",
+            "question": "While Sahay account gets activated and added , will my profile get impacted for completeness?",
+            "answer": "No, Sahay Account creation and activation shall not impact your profile completion; all other functionality is available as it is."
+        },
+        {
+            "id": "seller100375",
+            "question": "What is e-invoice Declaration?",
+            "answer": "This section in My Company is declaration for the applicability of e-invoicing 1. For users having verified ITR saved in Tax assessment section - Max turnover in 3 years will be considered in the tab and shall appear automatically. 2. Users must also declare if the Specific category is excluded from the compliance to e-invoicing as notified (Yes / No). 3. Declaration can be saved with OTP verification. 4. For users having unverified ITR/new user , they shall get option to enter the values and declare for the Specific category excluded from compliance to e-invoicing as notified (Yes /No) and save the same."
+        },
+        {
+            "id": "seller100380",
+            "question": "What is SAHAY?",
+            "answer": "SAHAY is an online Platform that provides the loan against Orders and accepted invoices to the sellers."
+        },
+        {
+            "id": "seller100381",
+            "question": "Who can opt for SAHAY?",
+            "answer": "Proprietors registered as Sellers on GeM portal can opt for SAHAY"
+        },
+        {
+            "id": "seller95802",
+            "question": "What is Vendor Assessment?",
+            "answer": "The Vendor Assessment is a facility, mandatory for OEMs, with certain exemptions. The Vendor Assessment Policy covers three distinct aspects of vendors that are captured and validated. 1. The vendors profile related information, which include Personal identity, Nature of business entity, Financial and Professional status. These are validated through online integration. 2. Second aspect is relating to the business entity\u2019s profile with respect to the supplying capacity and past experiences. This is applicable only for Original Equipment Manufacturers (OEM).  3. Third aspect is the performance of vendors in GeM portal. Once registered and validated either as an OEM or authorized re-seller, the credentials are dynamically validated based on their performance and rating on the platform."
+        },
+        {
+            "id": "seller95804",
+            "question": "How can I get Vendor Assessment Exemption done?",
+            "answer": "As an OEM, you can initiate Vendor Assessment Exemption from your account profile by furnishing required information &amp; document with respect to Vendor Assessment Exemption. This information would be collected through an online form and upon successful submission, QCI would validate the information and the document uploaded by the OEM in the 2 working days. Once the details are validated and appoved, the OEM shall be exempted from the Vendor Assessment."
+        },
+        {
+            "id": "seller95805",
+            "question": "What if I\u2019m not satisfied with the Assessment report?",
+            "answer": "If there\u2019s any disagreement with the report, it can be addressed to the Vendor Assessment Agency within 5 working days of the report being made available to them. In case of dispute/disagreement, the same has to be settled between 15th to 20th day."
+        },
+        {
+            "id": "seller95806",
+            "question": "Is Vendor Assessment mandatory for all the sellers?",
+            "answer": "No, Vendor Assessment is not mandatory for all the sellers,\u00a0it is only mandatory for all OEMs &amp; resellers ( in select categories), unless they come under exempted category."
+        },
+        {
+            "id": "seller95807",
+            "question": "What is the time line for Vendor Assessment by the approved agency?",
+            "answer": "A Vendor Assessment report shall be completed and made available to the Seller within 15 working days after receiving the request for vendor assessment"
+        },
+        {
+            "id": "seller95809",
+            "question": "Who conducts vendor assessment?",
+            "answer": "M/s Quality Council of India (QCI) have been engaged in conducting vendor assessments."
+        },
+        {
+            "id": "seller95811",
+            "question": "What is the validity period of Vendor Assessment?",
+            "answer": "The validity of Vendor Assessment shall be 3years from the date of issue. Seller can also apply for a fresh assessment at his choice at any time on payment of requisite fee. After receipt\u00a0of the new\u00a0Vendor Assessment report, the old VA report will become invalid. For sellers who have got Vendor assessment done from agencies other than QCI, Vendor Assessment validity is two years from the date of assessment."
+        },
+        {
+            "id": "seller100239",
+            "question": "Why is the option of vendor assessment not visible to me?",
+            "answer": "You can refer and check the assessment report sent by QCI for reasons and remarks of rejection."
+        },
+        {
+            "id": "seller100240",
+            "question": "How\u00a0can I cancel my submitted application for vendor assessment?",
+            "answer": "There is a discard button available once you create a vendor assessment option. You can discard if it is done wrong. But once submitted there will be no option available on GeM.You need to\u00a0contact\u00a0the QCI team with your vendor assessment ID."
+        },
+        {
+            "id": "seller100241",
+            "question": "What are the reasons for rejection of my vendor assessment?",
+            "answer": "You can refer and check the assessment report sent by QCI for reasons and remarks of rejection."
+        },
+        {
+            "id": "seller100242",
+            "question": "How does GeM recognize OEMs who are Brand Owners but do not have a self owned manufacturing facility. How can such OEMs proceed with Vendor Assessments?",
+            "answer": "Non manufacturing OEMs, who are brand owners but do not have self owned manufacturing of the products can still claim OEM status if they are having contract manufacturing arrangements with some other manufacturers. During vendor assessment, Such OEM has to provide the contract / agreement between the OEM and the Contract Manufacturer to the assessing agency. This will be used to derive information about Ownership of Manufacturing Site (of the Contract Manufacturer), Manufacturing Capacity (Agreement should indicate to what extent it is committed to the OEM), Product Quality concerns (Both Contract Manufacturer and the OEM have to indicate their own quality control plans) and Availability of Raw Material etc."
+        },
+        {
+            "id": "seller100274",
+            "question": "How many times I can apply for vendor Exemption?",
+            "answer": "Vendor exemption can apply multiple times if the previous request marked as failed by the assessment agency(QCI) and if assessment agency (QCI) marked the request as passed then seller can not submit the new request."
+        },
+        {
+            "id": "seller102350",
+            "question": "Which Vendors are exempted from Vendor Assessment?",
+            "answer": "a) Sellers having annual turnover of Rs. 500 Crore or more, at least in one of the latest three years as captured during registration. b) Central / State PSUs. c) All sellers who are validated through, PAN or, GSTN or MCA-21 and offering products only for direct selling (Products up to the value of Rs.25,000 per unit and whose yearly turnover is not more than Rs.5,00,000. Sellers who are offering products as OEM shall not be covered under this exemption. d) Sellers offering products like Artwork, handicrafts, and other such items where, there is no standard manufacturing process exists. The exempted categories shall be specified by the category owner.  e) Sellers who are Registered Societies/ Trusts or any other bodies with Government Representation.  f) KVIC, WDO, Coir Board, TRIFED.  g) OEMs holding BIS License (CML) for the particular product category which are validated through BIS database. Normal validity for this exemption will be three years. Seller is mandated to notify GeM in case cancellation of BIS license and exemption will be withdrawn.  h) Sellers recommended for exemption for specific categories (created specifically for the Buyer Organization (s) recommending VAE) and specified validity period by any CPSE, Central and State Government Departments/ Authorities. The following prerequisites shall be met for such exemptions:  i. Seller(s) and procurement item(s) shall be recommended by competent authority at buyer organization for exemption ii. Procurement item(s) / List of categories is approved by ACEO, GeM (in charge of Catalogue Management) for exemption certifying that the recommended categories are Buyer Specific categories created for the recommending Buyer organization(s).  iii. The recommendation of exemption of any seller (corresponding to a category) shall be verified / confirmed (by QCI, or any other agency) with both (1) Nodal officer of buyer organization, (2) Category manager at GeM.  i) Any other category of sellers as notified with the approval of CEO-GeM."
+        },
+        {
+            "id": "seller95813",
+            "question": "I am an OEM. I have same brand in multiple categories. Do I need to create an OEM request for each category?",
+            "answer": "Yes, it is required to create an OEM request for each category."
+        },
+        {
+            "id": "seller95815",
+            "question": "Why my OEM request was rejected?",
+            "answer": "Request status can be checked under \u2018All Requests\u2019 section of OEM panel. The comments area will show the reason for rejection."
+        },
+        {
+            "id": "seller95816",
+            "question": "What should I do if I cannot see my brand in the list for creating OEM request?",
+            "answer": "You can use the \u2018Request New Brand\u2019 option to request for creation of your brand in the category. Follow the steps on the screen to do so."
+        },
+        {
+            "id": "seller95817",
+            "question": "The OEM of my brand does not sell directly in India, but the OEM has authorized my company to represent the brand in India. How can I register as OEM on GeM?",
+            "answer": "You can register on GeM as \u2018Deemed OEM\u2019 of the brand. In the OEM application process, in the upload documents section, kindly upload the pre-defined Deemed OEM Authorization Letter on OEM\u2019s letterhead duly signed with all required details provided clearly."
+        },
+        {
+            "id": "seller95818",
+            "question": "What is expected from a Deemed OEM?",
+            "answer": "As deemed OEM, seller is expected to undertake all responsibilities as an OEM for the brand on GeM. This includes managing catalog sanity, authorized resellers, coverage etc."
+        },
+        {
+            "id": "seller99922",
+            "question": "Why am I getting 'quantity change disabled' message while updating stock for a catalog?",
+            "answer": "If the Seller rejects or fails to accept the Direct Purchase/ L1 order within a specified time, the stock of the product will get marked as \u20180\u2019 for a period of 15 days. For an active listing on the market, the seller would be able to update the stock only after 15 days, from the date of rejection or last day of order acceptance."
+        },
+        {
+            "id": "seller100385",
+            "question": "What is MII?",
+            "answer": "MII (Make In India) content which the seller declares for the product while uploading. This value defines the minimum local content percentage required in a product to be considered Make in India compliant."
+        },
+        {
+            "id": "seller100386",
+            "question": "Can Reseller declare MII content as OEM?",
+            "answer": "Yes, now resellers as well can declare MII yet its only applicable for the brands where there are no OEMs on GeM and sellers have to accept the declaration."
+        },
+        {
+            "id": "seller100387",
+            "question": "At what stage MII option will be visible while uploading the catalog?",
+            "answer": "If a seller has selected a country of Origin as India then it will ask for the MII option as Yes or NO"
+        },
+        {
+            "id": "seller100388",
+            "question": "What if the OEM comes later will he be able to change the OEM as the owner?",
+            "answer": "Yes, if OEM comes later and pairs with resellers catalog then the OEM will have the right to change the MII content and the same will be applicable to resellers too."
+        },
+        {
+            "id": "seller100389",
+            "question": "Do we show in the marketplace that MII is declared by the reseller?",
+            "answer": "Yes, we show as a note which states that - \u201cPlease Note: Local Content value is as declared by reseller since OEM is not registered on GeM\u201d."
+        },
+        {
+            "id": "seller100390",
+            "question": "What is FSSAI?",
+            "answer": "The Food Safety and Standards Authority of India (FSSAI) is a legal authority that offers a food license to all food business operators (FBO) in India."
+        },
+        {
+            "id": "seller100391",
+            "question": "If there is an OEM will they have to take retailer/whole seller license as well?",
+            "answer": "Now if a OEM comes and uploads a catalog then he will have to enter one FSSAI number only that is OEM FSSAI number in catalog information tab and the same will be shown as pre populated in seller FSSAI number which is in Offering and quantity tab"
+        },
+        {
+            "id": "seller100392",
+            "question": "Can reseller also upload catalog with only one license number that is manufacturer?",
+            "answer": "NO In case of reseller coming and uploading product in FSSAI category then he/she will have to enter both FSSAI numbers that is Product as well as Seller FSSAI number"
+        },
+        {
+            "id": "seller100497",
+            "question": "How can we search women entrepreneur products in market place?",
+            "answer": "Women Entrepreneur products can be searched in any category by applying filters under MSE section and selecting 'Women' tab."
+        },
+        {
+            "id": "seller100620",
+            "question": "I wish to change the price offered for Products related to Categories.What is the duration for enabling such changes in the Catalogues?",
+            "answer": "Seller cannot increase offered price within 30 days of increased, decreased price or first time entry of offered price."
+        },
+        {
+            "id": "seller100621",
+            "question": "I wish to decrease Percentage of the quantity based discount offered for Products/Services related for any slab of Categories.What is the duration for enabling such changes in the Catalogues?\u00a0",
+            "answer": "Percentage of the quantity based discount cannot be decreased for any slab within 30 days of entry of slab discount."
+        },
+        {
+            "id": "seller100622",
+            "question": "I am unable to change the slab discount to reduce the percentage of the discount for any quantity?",
+            "answer": "Slab cannot be changed to reduce the percentage of the discount for any quantity\u00a0\u00a0within 30 days of entry of slab discount."
+        },
+        {
+            "id": "seller100623",
+            "question": "I am unable to remove quantity based discounts.",
+            "answer": "Quantity based discount cannot be removed\u00a0\u00a0within 30 days of entry of discount."
+        },
+        {
+            "id": "seller100624",
+            "question": "I am not able to increase the offered price in catalogue?",
+            "answer": "You shall be able to increase the offered price in the catalogue post 30 days duration from the date of last updated price."
+        },
+        {
+            "id": "seller95819",
+            "question": "What is EAN?",
+            "answer": "EAN stands for European Article Number. This is a barcode standard, a 13 digit product identification code."
+        },
+        {
+            "id": "seller95820",
+            "question": "What is SKU?",
+            "answer": "SKU stands for Stock Keeping Unit. It is a product and service identification code."
+        },
+        {
+            "id": "seller95821",
+            "question": "Who can create a catalogue on GeM portal?",
+            "answer": "Seller can create a catalogue on GeM. The secondary user can create a catalogue on GeM only if the primary seller authorizes him/her."
+        },
+        {
+            "id": "seller95823",
+            "question": "How can I search for the correct category for my product on GeM?",
+            "answer": "To search for the correct category of your product, you can search your product in the search box during the product upload process. Please read and understand the technical parameters of the category to ascertain that your product is best fitting the chosen category."
+        },
+        {
+            "id": "seller95825",
+            "question": "Is it possible to upload a product without a brand?",
+            "answer": "Yes, it is possible to upload a product without a brand by selecting the \"Unbranded\" or \"NA\"option."
+        },
+        {
+            "id": "seller95826",
+            "question": "Do I have to provide BIS number mandatorily while uploading the product catalogue?",
+            "answer": "For selected categories, it is mandatory for seller to provide BIS number while uploading the catalogue."
+        },
+        {
+            "id": "seller95827",
+            "question": "How do I offer my product for an ongoing Bid and expedite its approval process?",
+            "answer": "Products shall be reviewed only as per the queue. GeM does not give preference to any product during approval process even if the product is uploaded for an ongoing bid."
+        },
+        {
+            "id": "seller95828",
+            "question": "If my product is certified by an agency, how can I upload the certification documents along with the product?",
+            "answer": "If your product is certified by any agency, you can click on \"Yes\" besides Certified by Agency and provide the certification details along with your product."
+        },
+        {
+            "id": "seller95829",
+            "question": "If I am selling my product as an OEM, what are the mandatory documents that I must submit on GeM?",
+            "answer": "As an OEM of your product, please send supporting documents that you are an OEM to \"upload.product@gem.gov.in\" with the subject line \"Brand OEM Documents\". The email should mention details and include documents such as registered organization name, brand name(s), GeM product categories and brand ownership documents such as trademark and vendor assesment report. You are also required to enter other information like SKU and HSN in the system."
+        },
+        {
+            "id": "seller95830",
+            "question": "Is it mandatory for a reseller to upload their authorization documents?",
+            "answer": "Yes, it is mandatory for a reseller to upload their authorization documents for the categories where OEMs list the product. Hence, resellers need to map themselves for the same."
+        },
+        {
+            "id": "seller95831",
+            "question": "Can I change the specifications of a product after uploading it?",
+            "answer": "Once a product is published, you cannot change any specification apart from the offer price."
+        },
+        {
+            "id": "seller95832",
+            "question": "What is a slab discount?",
+            "answer": "Slab discount is a discount offered by the seller on offer price. This is usually offered for slabs of bulk orders and may vary for different bulk quantities of order over and above the price the seller is offering on a unit of product. However, it is not mandatory for a seller to offer slab discount."
+        },
+        {
+            "id": "seller95835",
+            "question": "How can I upload my PMA/MI compliant products on GeM?",
+            "answer": "You can upload PMA/ MI compliant products as per the normal catalog upload process. While uploading the catalog, you will need to input the percentage of domestic content in your product, confirming PMA/ MI compliance."
+        },
+        {
+            "id": "seller95836",
+            "question": "How can I upload a catalog using GTIN number provided by GS1?",
+            "answer": "On GS1 enabled categories, during catalog upload, you can enter the 13-digit number to automatically fetch all the product details from GS1. GS1 can provide key details of a product (Brand. Attributes. MRP etc) based on the 13-digit number (\u2018GTIN\u2019). You will only need to enter the stock, serviceability and offer price to create your catalog."
+        },
+        {
+            "id": "seller95837",
+            "question": "Where can I find the GTIN for my product?",
+            "answer": "The GTIN is usually printed under the barcode on the product\u2019s packaging. You can also contact the brand\u2019s OEM/ manufacturer to get the GTINs for your products."
+        },
+        {
+            "id": "seller99970",
+            "question": "Can a Brand be mapped to a product after it is published at the marketplace?",
+            "answer": "No, Brand cannot be mapped against any product after the product is live in the marketplace."
+        },
+        {
+            "id": "seller99971",
+            "question": "What all can I share in Price Reference document?",
+            "answer": "The Price Reference document should contain the Company name, Brand and Product Name. Product Brochure/Weblink/ Latest purchase orders displaying the price can be shared as Price Reference document."
+        },
+        {
+            "id": "seller99972",
+            "question": "What is MOQ?",
+            "answer": "MOQ stands for Minimum Order Quantity. It refers to the minimum quantity in an order required by a seller to accept and fulfill the order."
+        },
+        {
+            "id": "seller99973",
+            "question": "What is UOM?",
+            "answer": "UOM stands for Unit of Measurement. It refers to the unit by which the product is measured , Eg : pieces, kilograms, litres etc"
+        },
+        {
+            "id": "seller99974",
+            "question": "What should be provided in the text fields given in the technical parameters?",
+            "answer": "Text field should be filled considering the technical parameter that it pertains to."
+        },
+        {
+            "id": "seller100352",
+            "question": "What is the difference between OEM Cartridge and Compatible Cartridge?",
+            "answer": "OEM Cartridge is the one where the Cartridge Brand is the same as the Printer Brand.  Whereas, Compatible Cartridge is the one where Cartridge Brand is different from the Printer Brand but the compatible cartridge OEM has claimed that the same is compatible for use in the particular Printer Model of a particular brand."
+        },
+        {
+            "id": "seller100353",
+            "question": "How can a vendor be recognized as an Original Equipment Manufacturer under vendor assessment for the cartridge category (OEM &amp; Compatible)?",
+            "answer": "A vendor having proper manufacturing facility and adhering to proper manufacturing processes and quality check parameters would be considered as Original Equipment Manufacturer (for both OEM Cartridges and Compatible Cartridges). Non-manufacturing OEMs, who do not have a self-owned manufacturing facility can still claim OEM status if they are having contract manufacturing arrangements with a 3rd party manufacturer. During vendor assessment, such OEM has to provide the contract / agreement between the OEM and the Contract Manufacturer to the assessing agency. The vendors barely holding a brand name and performing refilling/ refurbishment or assembling components will not be considered as a cartridge manufacturer for either OEM or compatible category."
+        },
+        {
+            "id": "seller100498",
+            "question": "How can I upload a Product under Womaniya as OEM?",
+            "answer": "OEM has to provide the MSE declaration in the \u201cOffering Quantity &amp; Price\u201d section. These products then appear under the \u201cWoman\u201d filter on the marketplace ."
+        },
+        {
+            "id": "seller100499",
+            "question": "Are there any restrictions while applying for brand in market place by the OEM?",
+            "answer": "Yes, the rules applicable for applying for brands are as mentioned below:- 1. If an OEM has already created an OEM Dashboard requests for Registered Brand, the OEM is not allowed to create OEM Dashboard requests for unbranded. OEM can create OEM Dashboard requests for unregistered brands (maximum 2) in any category. 2. If OEM has already created OEM Dashboard requests for Un-Registered Brand, OEM shouldn\u2019t be allowed to create OEM Dashboard requests for unbranded. OEM can create OEM Dashboard requests for Registered brands in any category. 3. If OEM has already created OEM Dashboard requests for Unbranded type, OEM is not allowed to create new OEM dashboard requests for both Unregistered &amp; Registered brands in any category."
+        },
+        {
+            "id": "seller101043",
+            "question": "What Are ODOP Categories?",
+            "answer": "ODOP categories are One District One Product categories, where district specific products can be enlisted for selling on GeM."
+        },
+        {
+            "id": "seller101044",
+            "question": "How can a seller sell products in ODOP category?",
+            "answer": "A seller can pair with already existing catalogs uploaded by OEMs of the ODOP category and sell the product."
+        },
+        {
+            "id": "seller101045",
+            "question": "Who can upload a catalog in ODOP category?",
+            "answer": "Only OEMs can upload catalogs in ODOP category, Resellers can pair and sell the products."
+        },
+        {
+            "id": "seller101046",
+            "question": "Can a reseller pair catalogs in ODOP category if caution money is not paid?",
+            "answer": "Yes. Only ODOP categories are exempted from caution money."
+        },
+        {
+            "id": "seller95838",
+            "question": "What is CMS Version 2 or CMS 2?",
+            "answer": "On GeM, certain categories are classified in two groups. One set of categories can have only verified OEMs as sellers ('Q1') whereas another set of categories have verified OEMs and resellers (authorized by the OEMs as sellers) ('Q2'). The OEMs are solely responsible for managing their catalogs, coverage on the marketplace &amp; additionally their resellers. This collectively is the CMS 2 system."
+        },
+        {
+            "id": "seller95839",
+            "question": "Which categories are part of CMS 2?",
+            "answer": "Some of the categories that have been moved to CMS 2 Q2 are - Desktop Computers, Laptop-Notebook, Multifunction Machines, Printers, Scanners, Plotter Printers, All in one PC, Computer Servers, Computer Workstation, Blade Server, Chassis for Blade Server, Tape Library, Maplitho Paper, OEM Cartridge/Consumable etc. More categories are being added to this on an ongoing basis"
+        },
+        {
+            "id": "seller95840",
+            "question": "How will I know a category I am selling in has been moved to CMS 2?",
+            "answer": "If you are selling as an OEM, you will get an email from GeM Helpdesk. If you are an authorized reseller for a brand, your brand's OEM should inform you about the change."
+        },
+        {
+            "id": "seller95841",
+            "question": "Will there be any change for categories that have not been moved to CMS Q1 or CMS Q2?",
+            "answer": "No, there is no change. All other categories' processes will remain as is."
+        },
+        {
+            "id": "seller95842",
+            "question": "I am an OEM and my category is in CMS 2. What are my responsibilities?",
+            "answer": "If the category is in CMS Q1, you are responsible for managing the catalogs for your brand. If the category is in CMS Q2, you are responsible for managing the catalogue as well as authorized resellers for your brand. This is in addition to the responsibilities as a seller defined in GeM GTC."
+        },
+        {
+            "id": "seller95843",
+            "question": "My OEM request for a brand in a CMS 2 Q2 category has been approved. How do I manage my resellers?",
+            "answer": "You can use the Manage Resellers link in the \u2018Approved Requests\u2019 table against the category and brand name to manage your resellers."
+        },
+        {
+            "id": "seller95844",
+            "question": "I am an OEM. How can I manage resellers using the \u2018Manage Resellers\u2019 option?",
+            "answer": "Resellers can be managed by uploading authorization codes. Go to \u2018Manage Resellers\u2019 in the relevant category/brand, which will open the OEM ReSellers Panel page. You can upload and view authorization codes on this page. Once you have uploaded authorization codes, share the same with your resellers. The Reseller would need to authorize themselves using the authorization code from the Reseller Panel on their \u2018My Account page\u2019. Once reseller is authorized, you can see reseller\u2019s name against the authorization code on your OEM Panel."
+        },
+        {
+            "id": "seller95845",
+            "question": "What is an authorization code?",
+            "answer": "An authorization code is an unique alphanumeric code that an OEM can create and assign to each of their resellers."
+        },
+        {
+            "id": "seller95846",
+            "question": "I am an OEM. I have uploaded authorization codes on OEM Panel. How can my resellers authorize themselves?",
+            "answer": "You can share the authorization codes with your resellers. The reseller would need to navigate to their My Account page and click on Reseller Panel. On the Reseller Panel, reseller will select the category and brand. In the box titled \u2018Authorization No.\u2019, they would need to enter the authorization code and click on \u2018Request\u2019. If the authorization code entered by reseller matches with the auth code you have uploaded, a message will be displayed \u2018Your AuthCode is successfully validated\u2019. If auth code does not match, a message will be displayed \u2018Invalid Auth Code\u2019."
+        },
+        {
+            "id": "seller95847",
+            "question": "I am a Reseller. I received an authorization code from my OEM. How can I get authorized?",
+            "answer": "Navigate to \u2018My Account\u2019 page and click on \u2018Reseller Panel\u2019. On the Reseller Panel, select the category and brand. In the box titled \u2018Authorization No\u2019, enter the authorization code and click on \u2018Request\u2019. If the authorization code entered matches with the auth code uploaded by OEM, a message will be displayed \u2018Your AuthCode is successfully validated\u2019. If auth code does not match, a message will be displayed \u2018Invalid Auth Code\u2019."
+        },
+        {
+            "id": "seller95848",
+            "question": "I am a reseller and have been authorized by my OEM. I am trying to upload a catalog but after entering Golden Parameters there is no option to \u2018Proceed with new item\u2019.",
+            "answer": "In this case your OEM may not have uploaded the product. Once the OEM has created the catalog, you can pair with the same. Kindly contact the concerned OEM."
+        },
+        {
+            "id": "seller95850",
+            "question": "Why am I unable to create a catalog in CMS Q2 Category?",
+            "answer": "Only OEMs can create catalogs in CMS Q2 categories. If you are an authorized reseller, you can still sell a product by pairing with the OEM's catalog in the category."
+        },
+        {
+            "id": "seller95851",
+            "question": "What are CMS Q3 and CMS Q4 categories?",
+            "answer": "In CMS Q3 category, OEMs as well as Resellers can upload their catalog and sell on the market. In CMS Q4, any seller can upload their catalog and sell on the market.\u00a0"
+        },
+        {
+            "id": "seller95852",
+            "question": "What is the difference between CMS Q2 and CMS Q3?",
+            "answer": "In CMS Q2, Resellers authorized by OEMs can only pair and sell on the marketplace. In CMS Q3, OEMs can create catalog and resellers can pair, also Resellers can create a catalog and OEM may approve it."
+        },
+        {
+            "id": "seller95853",
+            "question": "How can I participate in a Bid?",
+            "answer": "Login to your account and click on Bid. After login, search your Bid by using the Bid item or Bid Number. Now click on 'Participate', Product Bid:  1. Select your product(s), cross-check technical bid specifications and save.  2. Enter your product price at per unit level &amp; save.  Services Bid: 1. Submit your offering as per bid requirement, in the provided form, press \"Save and Continue\" Verify your bid by OTP authorization."
+        },
+        {
+            "id": "seller95854",
+            "question": "Where can I download an EMD document and submit it?",
+            "answer": "You can download the EMD document from the bidlist or notification tab. The EMD document should be submitted to your bank (issuing bank), which will then notify the advisory bank provided by the Buyer."
+        },
+        {
+            "id": "seller95855",
+            "question": "Is MSE seller exempted from Experience with Government and Annual Turnover for bid participation?",
+            "answer": "If the Buyer selects \u201cMSE exemption for Years of Experience and Annual Turnover\u201d as Yes during bid creation, only then the exemption is applicable. The same is reflected in bid document."
+        },
+        {
+            "id": "seller95856",
+            "question": "If Purchase Preference has been applied and L1 is a MSE seller, will other MSEs be eligible for the order?",
+            "answer": "As per the defined policy, 100% Bid quanity would be awarded to the L1 MSE Seller."
+        },
+        {
+            "id": "seller95857",
+            "question": "I am unable to participate in a Bid though the specifications of product offered by me are exactly matching to that specified in the Bid document?",
+            "answer": "If a Buyer has created PAC (Proprietary Article Certificate) Bid then only those Sellers who are offering product of the Make/Model as specified in the Bid Document are allowed to participate in the Bidding process."
+        },
+        {
+            "id": "seller95858",
+            "question": "Is it possible to change the price once I encrypt &amp; save it?",
+            "answer": "No, it is not possible to change the price once it is encrypted and saved."
+        },
+        {
+            "id": "seller95859",
+            "question": "Is it possible to add/edit technical specification(s) in a Bid?",
+            "answer": "No, it is not possible to add/edit technical specification(s) in a Bid."
+        },
+        {
+            "id": "seller95860",
+            "question": "Is it possible for me to check a consignee location in a Bid?",
+            "answer": "Yes, consignee location and all other Bid related information will be available in Bid document."
+        },
+        {
+            "id": "seller95861",
+            "question": "How can I participate in an ongoing Bid for a product/service which has not been uploaded?",
+            "answer": "You will have to check the Bid details and upload the product/service offering. Once the product/service is approved on GeM, you can participate in the ongoing Bid."
+        },
+        {
+            "id": "seller95862",
+            "question": "On what amount EPBG and EMD is applicable?",
+            "answer": "If the estimated bid value is above Rs. 5 lakhs, EPBG is applicable and if the estimated bid value is above 5 lakhs, EMD is applicable. This is applicable for both, products and services."
+        },
+        {
+            "id": "seller95863",
+            "question": "If I do not receive any notification on my mobile/email regarding any particular Bid for which I offer service or product, can I participate in that Bid?",
+            "answer": "Yes, you can participate in that Bid, if the product or service offered by you is approved on GeM and \"Participate\" button is visible to you."
+        },
+        {
+            "id": "seller95864",
+            "question": "Are Bids inclusive of GST?",
+            "answer": "Yes, the offer submitted by the seller/service provider at the time of Bid participation is inclusive of GST."
+        },
+        {
+            "id": "seller95865",
+            "question": "What is Bunch Bid?",
+            "answer": "Bunch Bid is grouping of connected products or services in a single Bid."
+        },
+        {
+            "id": "seller95866",
+            "question": "How to participate in Bunch Bid?",
+            "answer": "Login to your account and click on \"Bids\", then click on \"Bunch Bid\" option to view all Bunch Bids. Select the Bunch Bid you want to participate in and click on \"Participate\" button."
+        },
+        {
+            "id": "seller95867",
+            "question": "Is it possible to add/edit technical specification(s) while participating in Bunch Bid?",
+            "answer": "No, you cannot add or edit technical specification(s) while participating in a Bunch Bid."
+        },
+        {
+            "id": "seller95868",
+            "question": "Is it possible to edit the offer price while participating in a Bunch Bid?",
+            "answer": "Yes, you can edit the offer price on a product unless it has been encrypted before."
+        },
+        {
+            "id": "seller95870",
+            "question": "Under Buyer Details, what does \"Buyer Payment Status: Orange\" indicate?",
+            "answer": "\"Buyer Payment Status: Orange\" is mentioned against those Buyers who have not released payments of more than 20 orders and CRAC has been generated for more than 70 days."
+        },
+        {
+            "id": "seller95871",
+            "question": "Under Buyer Details, what does \"Buyer Payment Status: Red\" indicate?",
+            "answer": "\"Buyer Payment Status: Red\" is mentioned against those Buyers who have not released payments of more than 30 orders and CRAC has been generated for more than 70 days."
+        },
+        {
+            "id": "seller95873",
+            "question": "Can active contracts be counted in years of experience with govt. (For ex- a contract running from last 5 years)?",
+            "answer": "Yes, all active contracts would be counted under years of experience."
+        },
+        {
+            "id": "seller95874",
+            "question": "What is the turnover condition for sellers to participate in the bid?",
+            "answer": "Turnover criteria as eligibility for bid participation is decided by the buyer. GeM has capped the required turnover at 0.5 times the estimated value of the Bid."
+        },
+        {
+            "id": "seller95875",
+            "question": "Is Annual turnover and Experience with Government criteria exempted for Small/medium/startup companies?",
+            "answer": "The buyer may chose for such an exemption in bid. If exempted, Registered MSEs and Startups are exempted from turnover and experience conditions, the same is mentioned in the Bid document."
+        },
+        {
+            "id": "seller100213",
+            "question": "Can sellers raise a representation against a rejected Bid?",
+            "answer": "Bidders, whose Bids have been disqualified in technical evaluation may review the reason(s) for rejection by the Buyer and raise a one-time representation to challenge the rejection for disqualification within 48 hours after technical evaluation is completed. Buyer shall respond to all such representations before proceeding with the Financial Bid Opening."
+        },
+        {
+            "id": "seller100275",
+            "question": "How do Sellers add the PVC rates?",
+            "answer": "On the Invoice page, Sellers have an option to update this \u201cUnit Price\u201d (PVC revised rates) against the Bid/RA order for which PVC is applicable.Sellers can also provide the item wise revised price along with the supporting document."
+        },
+        {
+            "id": "seller100332",
+            "question": "DO I need to have a Category/Catalogue uploaded in the CMS for Participation in Tender/Bids published in GeM.",
+            "answer": "No, a Seller need not have to upload or have an offering in the Market place few participations in BOQ based bidding."
+        },
+        {
+            "id": "seller100333",
+            "question": "Can every Seller participate in BOQ based bidding?",
+            "answer": "Yes, any Registered Seller of GeM can participate in the BOQ base bidding."
+        },
+        {
+            "id": "seller100334",
+            "question": "In bunch bid of BOQ with Category/Catalogue based Products can every Seller participate in the Tender Published?",
+            "answer": "No, only those Sellers/Bidders can participate who have offered their catalogues in the categories of the Products that are bunched with items of the BOQ."
+        },
+        {
+            "id": "seller100336",
+            "question": "Is splitting applicable in BOQ based bidding?",
+            "answer": "No, splitting is not applicable for this functionality as Quantity by default is set as '1'."
+        },
+        {
+            "id": "seller100337",
+            "question": "I am a Registered Seller of GeM. Shall I get notifications incase BOQ based Tender is Published?",
+            "answer": "Depending on the category selection by the Buyer in which he/she has an option of selection of three number of categories closest to the BOQ items to be procured, any Seller which falls under these selected categories put under display would receive the Tender Publish notification."
+        },
+        {
+            "id": "seller100338",
+            "question": "I am a Seller trying to provide specifications in a BOQ based bidding. Where can I upload my specifications for buyer scrutiny/evaluation.",
+            "answer": "A Seller can add Technical specifications along with any other relevant Catalogue details in the section 'Compliance to BOQ Specification &amp; supporting documents'."
+        },
+        {
+            "id": "seller100339",
+            "question": "Can Seller able to submit Revised Prices for the L1 negotiation request made by the Buyer?",
+            "answer": "Yes, L1 Seller shall be able to upload a revised BOQ in the system and submit the Revised/Final prices as the case maybe."
+        },
+        {
+            "id": "seller100340",
+            "question": "I am a Seller, in case I am declared as a L1 bidder and Buyer request for further price negotiation, do I have to refill the BOQ sheet?",
+            "answer": "Yes, Seller has to revise the prices in the BOQ excel sheet and upload the same during negotiation process if at all called for by the Buyer."
+        },
+        {
+            "id": "seller100341",
+            "question": "Will the Contract document capture price break up of the BOQ based bidding system?",
+            "answer": "Yes, the Contract document shall contain the individual line item break up along with Price, Consignee and Delivery Period details."
+        },
+        {
+            "id": "seller100342",
+            "question": "I am a Seller(L1), Buyer has sent me a negotiation request. What is the time frame within which I must my Revised price?",
+            "answer": "Seller shall get a time duration of 72 hours to submit the Revised price(s)."
+        },
+        {
+            "id": "seller100343",
+            "question": "I am a Seller (L1), Buyer has sent L1 negotiation request. Where do I get to view the same?",
+            "answer": "Seller gets to view the L1 negotiation request against the Participated Bid in discussion with a message \u201cUpdate Final Price: Click here\u201d."
+        },
+        {
+            "id": "seller100344",
+            "question": "I am a Seller (L1), Buyer has sent me negotiation request, it is possible to view my current offered price and then update the revised price?",
+            "answer": "Yes, a Seller can review the current price and then offer New/Revised price(s)."
+        },
+        {
+            "id": "seller100345",
+            "question": "I am a Seller; Buyer has sent me L1 price negotiation request. Do I have to update &amp; add the unit price or the total price? The prices have to be all inclusive including GST?",
+            "answer": "Yes, Seller has to revise and offer unit price. This unit price shall be all inclusive including GST. System shall auto calculate Total negotiated Price ( all-inclusive incl. GST)."
+        },
+        {
+            "id": "seller100346",
+            "question": "I am Seller, Buyer has sent me L1 negotiation request. I have submitted Revised price. However, I feel I need to withdraw or change/edit my Revised price(s) offered. Can I do so?",
+            "answer": "No, a Revised price once offered/submitted cannot be withdraw or edited."
+        },
+        {
+            "id": "seller100351",
+            "question": "Can a bidder represent against technical disqualification of his bid by the buyer?",
+            "answer": "As per clause 7.4.2 of Manual for Procurement of Goods 2017 (Right of Bidder to question rejection at Techno-Commercial Stage) the Bidder has the right to question rejection at Techno-Commercial Stage in case he feels that a proper procurement process is not being followed and/or his techno-commercial bid has been rejected wrongly. However, the bidders\u2019 representations should be considered within the ambit of provisions of Clause 7.3.5 of Manual for Procurement of Goods 2017. The bidders can submit such representations against technical disqualification by the buyer online on GeM portal."
+        },
+        {
+            "id": "seller100500",
+            "question": "I am a Seller, Buyer has selected Input Tax Credit (ITC) in the Bid, what price do I have to enter in the System-All inclusive including GST component or exclusive of GST?",
+            "answer": "Seller shall have to enter Prices inclusive of all taxes including GST during participation in Bids.However provision is made in the system for the Seller to add/input the applicable GST amount in percentage along with GST Cess where ever applicable separately."
+        },
+        {
+            "id": "seller100501",
+            "question": "During Seller Participation, few Sellers are unable to enter GST % &amp; GST Cess % in the Price Offer, why is this so?",
+            "answer": "If Seller is unregistered under GST, &amp; Buyer has chosen RCM, Seller will not be able to enter GST, GST Cess 1 (Percentage) &amp; GST Cess 2 (Quantum).Liability of payment of GST and GST cess is in Buyer\u2019s scope. GST and GST cess as indicated by the buyer in the bid document will be applicable, and payment of GST and GST Cess will be the liability of the Buyer. Else, also if Seller is under Composition Scheme, there is no liability of payment of GST and GST cess either on the Seller or Buyer [A composite vendor neither collects tax from the recipient of supplies nor passes on any credit of input tax. Hence, no GST is computed if the purchases are made from a composite vendor]."
+        },
+        {
+            "id": "seller100502",
+            "question": "Can I take part in few items from the BOQ file since I am unable to offer all the products of the Tender/ Bid?",
+            "answer": "If the Type of Evaluation method is Schedule wise (Item wise/Group wise) then you may participate in one schedule while prefer not to quote for remaining schedules.However you shall have to quote for all the items present in a particular schedule without skipping any."
+        },
+        {
+            "id": "seller100536",
+            "question": "Which type of BOQ File can a Buyer/Seller upload for filling the BOQ Priced sheet. What is its File Size?",
+            "answer": "Upload File type shall be CSV Type &amp; File Size is up to 10 MB."
+        },
+        {
+            "id": "seller100814",
+            "question": "I have entered the value in class 1 but field for entering value in class 2 does not appear?",
+            "answer": "Class 1 and Class 2 local content pop up come by default. In case, bid is MII reserved then class 2 local content field not required hence not appear"
+        },
+        {
+            "id": "seller100815",
+            "question": "As a Seller, I am not able to participate in Bid as class 1 Seller?",
+            "answer": "Seller needs to check the MII content of the catalogue being offered in the bid. In case this being less than the value of the MII content defined then the Buyer shall not be able to participate. In case of Bunch bids, only the local content of item belonging to the Primary category is checked."
+        },
+        {
+            "id": "seller100816",
+            "question": "What is the time limit for challenge rejection window in case of Covid categories?",
+            "answer": "The time limit for challenge rejection window is 24 hrs. in case of Covid categories."
+        },
+        {
+            "id": "seller95876",
+            "question": "What is the difference between Technical Offering &amp; Financial Offering?",
+            "answer": "\u00b7 Technical Offering : In this, sellers are required to submit their technical offering without quoting price. \u00b7 Financial Offering : All sellers who are technically qualified will be invited to submit their prices and participate in the RA."
+        },
+        {
+            "id": "seller95877",
+            "question": "How to participate in RA \u2013 Technical Offering?",
+            "answer": "Login to your account and click on Ongoing Bids/RA through Bids. Search the RA by using the RA item or RA Number. Click on 'Participate'. Select your product &amp; cross-check Technical Bid Specifications and save. Verify your bid by clicking on \"Verify OTP\"."
+        },
+        {
+            "id": "seller95878",
+            "question": "How to participate in RA \u2013 Financial Offering?",
+            "answer": "Login to your account and click on Ongoing Bids/ RA through Bids. Now search your RA by using the RA item or RA Number. Click on 'Offer Price' and complete OTP verification. Enter your product/ service price at per unit level &amp; save it. Revise and submit prices in compliance with RA decrement rules."
+        },
+        {
+            "id": "seller95879",
+            "question": "Is it possible to add/ edit technical specification in RA once verified using OTP?",
+            "answer": "No, it is not possible to add/ edit technical specification in RA, once technical offering has been verified."
+        },
+        {
+            "id": "seller95880",
+            "question": "Is it possible for me to check a consignee location in RA?",
+            "answer": "Yes, you can download the RA document where all the RA related information and consignee details are available."
+        },
+        {
+            "id": "seller95881",
+            "question": "What happens if a RA price is offered very close to the RA end time?",
+            "answer": "If you participate in the last 15 minutes of RA end time, the system will auto extend RA by 15 minutes. The number of extensions will be as per the buyer\u2019s selection i.e. a minimum of 3 times. Any RA price submission after the RA end time will not be recorded."
+        },
+        {
+            "id": "seller95882",
+            "question": "Is it possible to re-participate in a RA?",
+            "answer": "Yes, it is possible to re-participate in RA by reducing prices in accordance with RA decrement rules."
+        },
+        {
+            "id": "seller100503",
+            "question": "I am a Seller, Buyer has selected Input Tax Credit (ITC) in the Bid, what price do I have to enter in the System-All inclusive including GST component or exclusive of GST?",
+            "answer": "Seller shall have to enter Prices inclusive of all taxes including GST during participation in Bids.However provision is made in the system for the Seller to add/input the applicable GST amount in percentage along with GST Cess where ever applicable separately."
+        },
+        {
+            "id": "seller100504",
+            "question": "During Seller Participation, few Sellers are unable to enter GST % &amp; GST Cess % in the Price Offer, why is this so?",
+            "answer": "If Seller is unregistered under GST, &amp; Buyer has chosen RCM, Seller will not be able to enter GST, GST Cess 1 (Percentage) &amp; GST Cess 2 (Quantum).Liability of payment of GST and GST cess is in Buyer\u2019s scope. GST and GST cess as indicated by the buyer in the bid document will be applicable, and payment of GST and GST Cess will be the liability of the Buyer. Else, also if Seller is under Composition Scheme, there is no liability of payment of GST and GST cess either on the Seller or Buyer [A composite vendor neither collects tax from the recipient of supplies nor passes on any credit of input tax. Hence, no GST is computed if the purchases are made from a composite vendor]."
+        },
+        {
+            "id": "seller100505",
+            "question": "Can I take part in few items from the BOQ file since I am unable to offer all the products of the Tender/ Bid?",
+            "answer": "If the Type of Evaluation method is Schedule wise (Item wise/Group wise) then you may participate in one schedule while prefer not to quote for remaining schedules.However you shall have to quote for all the items present in a particular schedule without skipping any."
+        },
+        {
+            "id": "seller95883",
+            "question": "How is the reference price decided for a product or service in RA?",
+            "answer": "While converting BID to RA, L1 price of Bid is set as reference price for the RA."
+        },
+        {
+            "id": "seller95884",
+            "question": "What happens if I submit prices within the last 15 minutes of the RA end time?",
+            "answer": "In this case RA will auto extend by 15 minutes. It can be extended from minimum 3 to maximum 10 times."
+        },
+        {
+            "id": "seller95885",
+            "question": "Can a Seller/ Service Provider re-participate in a Bid/ RA after withdrawal?",
+            "answer": "Yes,\u00a0Seller/Service Provider can re-participate in the Bid/RA after withdrawal. Re-participation is allowed only for a maximum 2 times."
+        },
+        {
+            "id": "seller95886",
+            "question": "Is it possible to re-participate in Bid to RA?",
+            "answer": "Yes, it is possible to re-participate in Bid to RA by reducing prices in accordance with RA decrement rules."
+        },
+        {
+            "id": "seller95887",
+            "question": "Why I have not received an invitation to participate in RA, despite technically qualifying for the Bid?",
+            "answer": "Only those Sellers whose price offering is amongst the top 50% of technically qualified sellers, will receive an invitation for RA participation."
+        },
+        {
+            "id": "seller95888",
+            "question": "Bid to RA is not been enabled for a Bid, yet RA has been created. How?",
+            "answer": "In case of a tie for L1 position, Buyer has to mandatorily go for a RA."
+        },
+        {
+            "id": "seller100506",
+            "question": "I am a Seller, Buyer has selected Input Tax Credit (ITC) in the Bid, what price do I have to enter in the System-All inclusive including GST component or exclusive of GST?",
+            "answer": "Seller shall have to enter Prices inclusive of all taxes including GST during participation in Bids.However provision is made in the system for the Seller to add/input the applicable GST amount in percentage along with GST Cess where ever applicable separately."
+        },
+        {
+            "id": "seller100507",
+            "question": "During Seller Participation, few Sellers are unable to enter GST % &amp; GST Cess % in the Price Offer, why is this so?",
+            "answer": "If Seller is unregistered under GST, &amp; Buyer has chosen RCM, Seller will not be able to enter GST, GST Cess 1 (Percentage) &amp; GST Cess 2 (Quantum).Liability of payment of GST and GST cess is in Buyer\u2019s scope. GST and GST cess as indicated by the buyer in the bid document will be applicable, and payment of GST and GST Cess will be the liability of the Buyer. Else, also if Seller is under Composition Scheme, there is no liability of payment of GST and GST cess either on the Seller or Buyer [A composite vendor neither collects tax from the recipient of supplies nor passes on any credit of input tax. Hence, no GST is computed if the purchases are made from a composite vendor]."
+        },
+        {
+            "id": "seller100508",
+            "question": "Can I take part in few items from the BOQ file since I am unable to offer all the products of the Tender/ Bid?",
+            "answer": "If the Type of Evaluation method is Schedule wise (Item wise/Group wise) then you may participate in one schedule while prefer not to quote for remaining schedules.However you shall have to quote for all the items present in a particular schedule without skipping any."
+        },
+        {
+            "id": "seller95893",
+            "question": "From where can I download a contract Document?",
+            "answer": "Please follow the steps mentioned below in order to download a contract: 1. Login with User Id &amp; Password and submit 2. Click on 'Order' 3. Search your order number for which you want to download the contract and Click on 'View Details' 4. To download the contract, click on 'Download Contract'."
+        },
+        {
+            "id": "seller95894",
+            "question": "Is it possible to select the billing address according to my billing location while generating the Invoice?",
+            "answer": "Seller can add their multiple billing addresses in the Profile page through Office Location tab, and can select, at the time of billing, the desired address amongst the addresses provided in Profile."
+        },
+        {
+            "id": "seller95896",
+            "question": "Can I generate multiple invoices for any order?",
+            "answer": "Yes, you can generate multiple Invoices for an Order"
+        },
+        {
+            "id": "seller95901",
+            "question": "I am not able to find my billing address while creating invoice. What should I do now?",
+            "answer": "You should login to the account and select View Profile. You can update billing address under Office Location. Once the Billing Address is updated on your profile, the same would be available for selection while generating an Invoice."
+        },
+        {
+            "id": "seller95902",
+            "question": "Where can I update the delivery date for the Shipment?",
+            "answer": "You can login to the account, click on the order for which delivery date needs to be updated and then click on \"Shipment wise\" to select the delivery date."
+        },
+        {
+            "id": "seller100279",
+            "question": "Where can I download my Generated Invoices?",
+            "answer": "You can view the Generated Invoices in 'Shipmentwise' view avaliable in Order Details. Follow the Steps below to view an Invoice: 1. Login with User id and Password and submit 2. Click on 'Order' 3. Search your order number for which you want to view an invoice and click on 'View Details' 4. Click on 'Shipmentwise' option to view all the generated invoices for the selected Order. 5. Click on 'Download' option to download the Invoice"
+        },
+        {
+            "id": "seller100280",
+            "question": "Can I edit an Invoice?",
+            "answer": "Only Supplier Invoice Number, Mode of Dispatch and Billing address can be edited in an Invoice. Rest of the Information is non editable. If consignment get rejected during PRC/ CRAC then also you can generate supplementary invoice with updated information."
+        },
+        {
+            "id": "seller100281",
+            "question": "What are the Steps to Regenerate an Invoice?",
+            "answer": "Please follow the steps mentioned below to generate an invoice: 1. Login with User id and Password and submit 2. Click on 'Order' 3. Search your order number for which you want to regenerate an invoice and click on 'View Details' 4. Click on 'Regenerate' option avaliable for an Invoice 5. Check all the details of the invoice and click on 'Regenerate'"
+        },
+        {
+            "id": "seller100282",
+            "question": "Where can I view the CRAC and Payment Details for an Invoice?",
+            "answer": "You can view the CRAC and Payment Details in 'Shipmentwise' view avaliable in Order Details. Follow the Steps below to view an Invoice: 1. Login with User id and Password and submit 2. Click on 'Order' 3. Search your order number for which you want to view an invoice and click on 'View Details' 4. Click on 'Shipmentwise' option to view all the generated invoices for the selected Order 5. Click on 'View Details' option to view the details of CRAC and Payment"
+        },
+        {
+            "id": "seller100283",
+            "question": "How can I Download the ePBG request document?",
+            "answer": "For Orders where the Buyer has asked for ePBG to be submitted, the ePBG Request document can be generated from Order details. Please follow the steps mentioned below : 1. Login with User id and Password and submit 2. Click on 'Order' 3. Search your order number for which you want to download the ePBG request document' 4. Click on 'Downlod' option avaliable in ePBG details section"
+        },
+        {
+            "id": "seller100284",
+            "question": "Where should I specify the ePBG details and upload the ePBG Scanned copy?",
+            "answer": "Once you receive the ePBG document from the Bank, you can upload the same in Order Details. Follow the steps below: 1. Login with User id and Password and submit 2. Click on 'Order' 3. Search your order number for which you want to Upload the ePBG document' 4. Click on verify option avaliable in ePBG details section 5. Specify the ePBG details and upload the document."
+        },
+        {
+            "id": "seller100285",
+            "question": "What will happen if I do not upload the ePBG document?",
+            "answer": "The buyer has right to deduct the ePBG equivalent amount during Bill generation post CRAC."
+        },
+        {
+            "id": "seller100286",
+            "question": "What is E-Invoicing?",
+            "answer": "Electronic invoicing refers to a method of processing invoices electronically, on a unified platform or between suppliers and buyers. The complete e-invoicing cycle is digital, from creation and transmission to processing and finalization on the buyer\u2019s end. Currently, it is mandatory for all sellers whom annual turnover is more than 20Cr."
+        },
+        {
+            "id": "seller100287",
+            "question": "Who all are exempted from the provisions of E-invoicing?",
+            "answer": "The following are exempted from the provisions of E-invoicing: \u2022 SEZ (Special Economic Zone units) \u2022 Financial institutions \u2022 Insurance companies \u2022 Banking sectors (including non-banking financial companies) \u2022 Goods transport agencies (GTAs) providing services solely for the \u00a0 transportation of goods by road \u2022 Passenger transportation services, \u2022 Multiplexes"
+        },
+        {
+            "id": "seller100288",
+            "question": "Is E-Invoice declaration mandatory for all the sellers?",
+            "answer": "Yes, it is mandatory to provide the E-Invoice Declaration."
+        },
+        {
+            "id": "seller100376",
+            "question": "What is the CBIC Guideline for e-Invoicing?",
+            "answer": "W.e.f 1st April 2022, e-invoicing is currently mandatory for registered persons whose aggregate turnover (based on PAN) in a financial year exceeds INR 20 Cr and it gets updated time to time."
+        },
+        {
+            "id": "seller100509",
+            "question": "Can a Seller initiate DP amendment request for Orders with Staggered Delivery?",
+            "answer": "Yes Seller can initiate/raise as DP amendment request for Orders with Staggered Delivery yet this being applicable for Bid/RA Orders only."
+        },
+        {
+            "id": "seller100817",
+            "question": "Can I book the shipment of the consignment (invoice) online via India Post?",
+            "answer": "Yes the shipment of the consignment can be booked online via India Post. GeM has integrated with India Post to facilitate the Sellers for the same"
+        },
+        {
+            "id": "seller100818",
+            "question": "What are the type of deliveries available to book the shipment via India Post",
+            "answer": "The seller can select either Pick up (the consignment to be picked up by India Post personnel) or Drop (the seller to drop the consignment at India Post Delivery Post office) as the type of delivery."
+        },
+        {
+            "id": "seller100819",
+            "question": "Can the Seller ship multiple boxes as part of booking done with India Post?",
+            "answer": "Yes the Seller can ship multiple boxes as part of the booking being done with India Post for shipment of the consignment"
+        },
+        {
+            "id": "seller100820",
+            "question": "What is the maximum number of boxes which can be booked as part of shipment of one consignment (invoice) with India Post",
+            "answer": "Maximum of 10 boxes can be shipped by the Seller as part of one consignment (invoice) with India Post"
+        },
+        {
+            "id": "seller100821",
+            "question": "How can I track the shipments booked via India Post online?",
+            "answer": "Yes the status of the shipments booked via India Post online can be tracked under India Post Dashboard"
+        },
+        {
+            "id": "seller100822",
+            "question": "How can the Seller check the current status of the booking done via India Post online?",
+            "answer": "The Seller can check the current status of the booking done via India Post online by clicking on Check Status tab available in India Post Dashboard against the tracking id generated as part of the booking"
+        },
+        {
+            "id": "seller100823",
+            "question": "How can the Seller download the label to be pasted on the boxes to be shipped as part of the booking done by India Post online",
+            "answer": "The seller can download the label by clicking on Print Label tab available in India Post Dashboard"
+        },
+        {
+            "id": "seller100824",
+            "question": "Can the seller cancel the tracking id generated as part of booking done via India Post online?",
+            "answer": "Yes the seller can cancel the booking for any tracking id generated as part of the booking done via India Post online by clicking on \"Cancellation\" tab available in India Post Dashboard"
+        },
+        {
+            "id": "seller95906",
+            "question": "Who has to pay the Transaction Charge?",
+            "answer": "\"The transaction charge will be paid by the Seller / Service Provider: a) before order acceptance in case of Direct purchase b) before invoice generation for Bid/RA orders\""
+        },
+        {
+            "id": "seller95907",
+            "question": "Is Transaction charge applicable on all Contracts?",
+            "answer": "Transaction charges would be applicable on all contracts\u00a0 valued Rs.5 lacs or more after a seller reaches the Seller Merchandise Value\u00a0 of INR 20 lacs as mentioned in the Transaction charges Policy."
+        },
+        {
+            "id": "seller95908",
+            "question": "How is the Transaction charge to be paid?",
+            "answer": "The Transaction charge would be paid online. The Seller / Service Provider would have the option to pay by Net banking, NEFT, RTGS."
+        },
+        {
+            "id": "seller95909",
+            "question": "How much is to be paid as transaction charge?",
+            "answer": "\"The Transaction Charges consist of two components mentioned below. In addition, The GST of 18% would also be applicable on Transaction Charges: a) A one-time charge titled \u201cAnnual Milestone Charge\u201d shall be levied @ 0.5% on all sellers clocking a threshold Seller Merchandise Value. of Rs. 20 lacs in each financial year. b) For all the sellers who have clocked the threshold seller merchandise value, a Transaction Charge shall be levied on all orders equal to or above Rs. 5 lakhs. For Transaction charges rates, please refer the transaction charges policy.\""
+        },
+        {
+            "id": "seller95912",
+            "question": "Who is Exempted from paying the Transaction Charge?",
+            "answer": "The following Sellers/Service Providers are exempted: 1) Khadi and Village Industries Commission 2) ACASH 3) TRIFED 4) WDO 5) Coir Board"
+        },
+        {
+            "id": "seller100289",
+            "question": "Would I get the Receipt for the Transaction Charge paid to GeM?",
+            "answer": "Yes, the Seller / Service Provider will get the receipt/Tax Invoice on successful payment of the transaction charge."
+        },
+        {
+            "id": "seller100290",
+            "question": "From when does the new Transaction charges policy become effective?",
+            "answer": "The new Transaction charges policy would become effective from 1st April 2022."
+        },
+        {
+            "id": "seller100291",
+            "question": "Would Transaction charges be payable on contracts/bids placed before the 1st April 2022?",
+            "answer": "The new Policy of Transaction charges would become effective from 1st April 2022 and would be applicable on all orders placed on or after 1st April 2022 and all bids published on or after 1st April 2022. For all the Orders placed before 1st April 2022 and bids published before 1st April 2022, the Transaction charges as per the old Transaction charges policy would be applicable."
+        },
+        {
+            "id": "seller100610",
+            "question": "What are the Transaction Charges that are applicable on the Orders?",
+            "answer": "html style table, th, td { border:1px solid black; } /style body h2 Transaction Charges are applicable depending on the Order Value as Tabulated below:-/h2 table style=width:10 /table table tr th Product Order Value(INR)/th th Transaction fee slab (INR)/th /tr tr td\u2265 5 lakh but 50 Cr./td td0.5 of order value/td /tr tr td\u2265 50 Cr. but 100 Cr./td td25 lakh +0.4 of order value above 50 Cr./td /tr tr td\u2265 100 Cr. but 200 Cr./td td45 lakh +0.3 of order value above 100 Cr./td /tr tr td\u2265 200 Cr. but 300 Cr./td td75 lakh +0.2 of order value above 200 Cr./td /tr tr td\u2265 300 Cr. but 500 Cr./td td95 lakh +0.1 of order value above 300 Cr./td /tr tr td\u2265 500 Cr./td td115 lakh Flat Fees./td /tr /table /body /html"
+        },
+        {
+            "id": "seller101038",
+            "question": "Can the contract be accepted without paying the Transaction Charge?",
+            "answer": "In direct/ L1 purchase orders, if acceptance is required, Seller / Service Provider will not be able to accept the contract before paying the Transaction charges if the same are applicable. For direct/ L1 purchase orders where acceptance is not required or orders placed through Bid/RA, they will be deemed accepted but the Seller/Service Provider would not be able to generate the Invoice before paying the Transaction charges."
+        },
+        {
+            "id": "seller101039",
+            "question": "How can I make the Annual Maintenance/ Transaction Charges payment?",
+            "answer": "You can pay the Annual Maintenance/ Transaction Charges w.r.t the order by clicking on Pay AMC/ TC button on the order screen. On click, you will see the payment bifurcation and a Pay now button. On click of Pay now button, you can make the payment via NEFT/ RTGS/ Net Banking mode."
+        },
+        {
+            "id": "seller100276",
+            "question": "Can I accept or Decline an Order Placed throgh Bid/RA on GeM?",
+            "answer": "No, you cannot accept or Decline an Order placed through Bid/RA. All Orders placed through Bid/RA are deemed accepted as Seller has participated in the Bid/RA and agreed to the Terms and conditions."
+        },
+        {
+            "id": "seller101037",
+            "question": "Can I accept or Decline a Direct Purchase Order Placed on GeM?",
+            "answer": "You can accept/ decline a Direct Purchase order in the following 2 scenarios. - If the order is placed by a red flagged buyer - If the order is freight intensive You will get 120 hours to accept/ decline the order. In case of no action, the order will be auto accepted post 120 hours."
+        }
+    ]
+}

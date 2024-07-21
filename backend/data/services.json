@@ -1,0 +1,399 @@
+{
+    "FAQ": [
+        {
+            "id": "services95930",
+            "question": "How many minimum service providers are required for comparison?",
+            "answer": "A minimum of 3 service providers are required for comparision."
+        },
+        {
+            "id": "services100512",
+            "question": "How frequently blocking should be topped up for Service Orders?",
+            "answer": "The User can do top-up as many times as he wants till the blocked fund is not equal to the Total Contract amount."
+        },
+        {
+            "id": "services100625",
+            "question": "What are Professional Services?",
+            "answer": "Professional Services are typically Services offered by entities (not individuals) having specialised domain knowledge and proven track record for advising (Consultancy), implementing (Operations), managing (Analytics etc) and supporting (Training, Certifying etc). Buyers in government across multifarious sectors ranging from IT, Finance, Marketing &amp; Communication, Legal etc. may require these services."
+        },
+        {
+            "id": "services100654",
+            "question": "Can I define the minimum price/Floor Price for services procurement?",
+            "answer": "Buyer can define the Minimum Price/Floor Price while creating bids. This option is not available for Central Govt. buyers."
+        },
+        {
+            "id": "services100782",
+            "question": "Does the buyer need to include GST while providing Minimum Wage?",
+            "answer": "No, the Minimum Wages provided by the buyer are exclusive of GST. The applicable GST is added by the GeM platform while displaying the Offered Price on the market."
+        },
+        {
+            "id": "services100787",
+            "question": "Can I opt for optional fund blocking during end of financial year?",
+            "answer": "Buyers will get the optional Fund Blocking option if it meets the below criteria. 1. Order should be in demand state i.e., blocking should not be done by the user 2. The order confirmation date should be &gt;= 1 Jan And First billing cycle falls after 15th March or in next financial year"
+        },
+        {
+            "id": "services100788",
+            "question": "Can I opt for Item wise Evaluation incase of Services",
+            "answer": "Yes, This option is available, Buyer needs to select Evaluation method as \u201cItem wise evaluation\u201d on bid details page while creating bid"
+        },
+        {
+            "id": "services100853",
+            "question": "Can I define the payment terms on milestone basis?",
+            "answer": "Yes, Buyer can define the payment terms on the basis of milestones while creating a bid. Service provider will raise the invoice based on the payment terms defined in the bid document/contract."
+        },
+        {
+            "id": "services100861",
+            "question": "For which Services is Quality &amp; Cost Based Selection(QCBS) is available?",
+            "answer": "QCBS as a method of selection is generally used for Consulting or highly technical and complex projects. However, DOE vide OM F.1/1/2021-PPD dated 29th October 2021 has now permitted use of QCBS even for non-consulting services where the Estimated value of procurement doen't exceed Rs. 10 Crores or where the procurement has been declared to be quality oriented procurement (QOP). QCBS has been provided as an option to Buyers in all the applicable Services on GeM."
+        },
+        {
+            "id": "services95936",
+            "question": "Is it mandatory to give MSE &amp; Startups exemption for turnover and project experience?",
+            "answer": "No, Its not mandatory. Buyer has been given a choice to whether they want to give exemption to MSE &amp; Startups for turnover and project experience."
+        },
+        {
+            "id": "services95940",
+            "question": "What is the minimum estimated Bid value for which Buyer can opt ePBG in a service Bid?",
+            "answer": "Buyer can opt for ePBG during Bid creation if the estimated bid value is equal to or greater than 5 Lakhs"
+        },
+        {
+            "id": "services95941",
+            "question": "Can a Buyer edit Service Quantity and Consignee Details before publishing the Bid?",
+            "answer": "Yes, Buyer can edit service quanity and consignee details before publishing the Bid."
+        },
+        {
+            "id": "services95948",
+            "question": "Is Pre-Bid available for a Quality &amp; Cost Based Selection (QCBS) enabled bid?",
+            "answer": "The Buyer may call for a Pre-Bid interaction with all the participating Service Providers specifying the Pre-Bid venue and Pre-Bid date which should be before the Bid End Date. Pre-Bid interaction may be called with an objective to discuss, clarify and understand the scope of the service from the Buyer\u2019s perspective. Changes, if any, may be made through the Corrigendum to Bid based on the minutes of the Pre Bid meeting."
+        },
+        {
+            "id": "services100528",
+            "question": "Is it Mandatory for a CPSE &amp; State Government Buyer to set Floor Price in every bid?",
+            "answer": "No, Buyer can continue to create normal bid without setting any Floor Price as this selection is not Mandatory."
+        },
+        {
+            "id": "services100613",
+            "question": "Is RA(Bid to RA) Possible for Services where categories have Minimum Floor price enabled?",
+            "answer": "Yes, RA (Bid to RA)is possible for Services with categories for which Minimum Floor price."
+        },
+        {
+            "id": "services100626",
+            "question": "Can Buyer access email id or contact details of service providers in Financial Evalution?",
+            "answer": "Buyer can view email ID of only L1 service providers after L-1 selection."
+        },
+        {
+            "id": "services100636",
+            "question": "How is the Negotiation carried out for MSE Preference in Services?",
+            "answer": "Firstly, the Buyer Engages in the Negotiation with the L1 (in case Non MSE) and then price match request is sent to MSE bidders in L1+15% band."
+        },
+        {
+            "id": "services100677",
+            "question": "If L-1 is not an MSE and MSE Service Provider (s) has/have quoted price(s) within L-1+ 15% of margin of purchase preference as defined in the relevant policy can the Buyer award 100% Order quantity on such a MSE Service Provider?",
+            "answer": "Buyer may with the approval of Competent Authority decide to award 100% quantity to such a MSE Bidder provided this MSE Bidders accepts the counter offer price of the Non-MSE L1 Bidder."
+        },
+        {
+            "id": "services100755",
+            "question": "Uploaded Price in the Price break up sheet V/s the Price available on the GeM Marketplace Portal are different, is it acceptable?",
+            "answer": "In case of mismatch between the prices mentioned in the Price breakup format and the lumpsum quoted amount, then lumsum amount will prevail. Buyer can ask for the revised breakup from service provider offline."
+        },
+        {
+            "id": "services100784",
+            "question": "How can Buyer incorporate Buyer specific terms and conditions?",
+            "answer": "Buyer Specific Terms and conditions may be added by buyer in Additional Terms and Conditions section while creating the bid. Option for uploading the document (word format) as well as Text based inputs is provided to buyer."
+        },
+        {
+            "id": "services100830",
+            "question": "Can turnover be selected as an eligibility criteria by the Buyer?",
+            "answer": "Yes, annual turnover can be selected as an eligibility criteria. However, buyer will have to verify the turnover of the bidder from the submitted documents during technical evaluation."
+        },
+        {
+            "id": "services100831",
+            "question": "Can Buyer use prior Government Experience as an eligibility criteria for his Bid?",
+            "answer": "Yes, prior Government Experience can be selected as an eligibility criteria. Buyer may define the eligibility criteria while creating the bid. However, evaluation of the bid with respect to the eligibility criteria needs to be done by the buyer during technical evaluaiton. It is not done through system by GeM.  In case, the buyer selects Yes for Past Experience of Similar Services then following project experience clause is printed in the bid document: The Bidder must have successfully executed / completed at least one single order of 80 % of the Estimated Bid Value or  2 orders each of 50 % of the Estimated Bid Value or  3 orders each of 40 % of the Estimated Bid Value for similar service(s) in last three years to any Central / State Govt Organization / PSU / Public Listed Company. Copies of contracts / work orders and documentary evidence of successful execution / completion in support of Past Experience of Similar Services along with names, address and contact details of clients shall be uploaded with the bid for verification by the Buyer."
+        },
+        {
+            "id": "services100832",
+            "question": "Does estimated Bid value includes GST?",
+            "answer": "Yes, estimated bid value includes GST. GeM has now provided an option to the buyer to choose whether they want to print the Estimated Bid Value in the bid document or not."
+        },
+        {
+            "id": "services100833",
+            "question": "Can Buyer mandate Service Providers to provide certificates or other documents to fulfill eligibility criteria of bid participation?",
+            "answer": "Yes, buyer can mandate service provider to provide mandatory certificates or other documents. During bid creation, the buyer can select requisite documents to be submitted by the bidder pertaining to Turnover and Past Experience. In addition to above, he can also seek additional documents through Additional Terms and Conditions (ATC)."
+        },
+        {
+            "id": "services100834",
+            "question": "Can I provide the details for Pre-Bid interaction meeting while bid creation?",
+            "answer": "The Pre-bid functionality is now available in all services. The Buyer may call for a Pre-Bid interaction with all the participating Service Providers specifying the Pre-Bid venue and Pre-Bid date which should be before the Bid End Date. Pre-Bid interaction may be called with an objective to discuss, clarify and understand the scope of the service from the Buyer\u2019s perspective. Changes, if any, may be made through the Corrigendum to Bid based on the minutes of the Pre Bid meeting."
+        },
+        {
+            "id": "services100835",
+            "question": "What is 'minimum capping'\u00a0 in services bids? Where can I define it?",
+            "answer": "Minimum Capping is the price below which bidders will not be allowed to quote. However, Bid can be created without any Minimum Capping. If considered un-avoidable, Buyer may prescribe Minimum Capping with proper approval from the Competent Authority of Buyer Organization. Buyer can define Minimum capping for a service while creating a bid. This option is not available for Central Govt. buyers."
+        },
+        {
+            "id": "services100837",
+            "question": "What are different methods of Evaluation in Bid other than L1 in case of Service Bid?",
+            "answer": "Besides L1 selection, the buyer can also choose Least Cost Method or QCBS as method of evaluation of bids depending upon the type of services. (i) for both LCS and QCBS, The buyer will have to declare in the bid document the details of technical parameters on which scoring will be done and also the documents required for such assessment. (ii) The bidders will get an option to upload the documents against each parameter as sought by the Buyer."
+        },
+        {
+            "id": "services100838",
+            "question": "I need to add few SLA clauses to the already existing SLA of the category related to a Particular Bid of Services.",
+            "answer": "Yes, Buyer can add his/her own additional SLAs pertaining to a particular Bid as a Text on need basis through \u201cBuyer Added Bid Specific SLA\u201d in the \"ATC Section\" ."
+        },
+        {
+            "id": "services100839",
+            "question": "Can MSE preference be exercised by a Buyer for Service Orders?",
+            "answer": "Yes, Buyer can select MSE Preference for a Service Order (as per GoI guidelines enforced time to time)."
+        },
+        {
+            "id": "services100840",
+            "question": "If buyer has opted for MSE purchase preference and in case of Multiple L1 and all are Non MSE bidders and L2 bidder is MSE, then amongst which Service Providers shall a Run L1 option be provided by the System?",
+            "answer": "In the above case, Run L1 option will not be provided to Non MSE L1 Bidders. Price Match option will be provided to the next lowest MSE Bidders within the L1+15% band. Post denial of the Price Match request by all the MSE Bidders in L1+15% band, Run L1 option shall be provided to all the Non MSE L1 Bidders."
+        },
+        {
+            "id": "services100842",
+            "question": "I have awarded Service Order/Contract to a particular Service Provider yet this Service Provider failed to accept the order or has declined the order, what can be done?Do I have to publish the whole Bid &amp; start the Process from Scratch?",
+            "answer": "To avoid incidents of refusal to execute the contract by service providers, a new feature has been introduced wherein system selected bidder is asked to confirm within 72 hours whether he is willing to execute the contract. If he says No or does not reply, system enables Re-Run L1. Suitable action is taken against the defaulter bidder as per the Incident Management Policy of GeM."
+        },
+        {
+            "id": "services100844",
+            "question": "How can Buyer check for the price breakup in Services?",
+            "answer": "For certain service categories, the option for Price breakup is enabled by GeM. If the buyer opts for the Price Breakup option, they will have to upload the price breakup format. All the bidders will have to upload the PDF of the filled price breakup in the given format while participating in the bid. This shall be a Mandatory upload. L-1 evaluation will be done on the basis of the Lumpsum price quoted by the bidder and price breakup will not have any impact on the L-1 discovery."
+        },
+        {
+            "id": "services100845",
+            "question": "Shall a Buyer be able to split the Service order between L1&amp;L2?",
+            "answer": "The splitting functionality is presently not available for Services. However, the buyer can declare the intent of splitting in the bid document through ATC and GeM will provide necessary backend support at the time of ordering. Alternatively, the buyer can also use the functionality of item/schedule wise evaluation for this purpose."
+        },
+        {
+            "id": "services100846",
+            "question": "Will the buyer be able to disqualify the L1 Bidder after opening of financial bid?",
+            "answer": "No. However, if the buyer is of the opinion that rate quoted by some bidders are unworkable then he can request GeM to remove the unworkable bids along with justification and approval of competent authority. GeM will remove the unworkable bids &amp; next eligible bidder will be selected as new L-1."
+        },
+        {
+            "id": "services100847",
+            "question": "What happens if there is a discrepancy between Lump Sum Price quoted on the portal and Uploaded Price break up sheet?",
+            "answer": "In case of any discrepany between the Lump Sum quoted price on the portal and uploaded Price breakup by the bidder, the Lump Sum price will prevail. Buyer can ask for the revised breakup from service provider offline."
+        },
+        {
+            "id": "services101041",
+            "question": "What can a Buyer do if EMD is not provided by service provider during technical evaluation?",
+            "answer": "During Technical evaluation, Buyer should verify if the service provider is exempted from submission of EMD. If not, Buyer may choose to disqualify such bidder."
+        },
+        {
+            "id": "services101047",
+            "question": "For service Bids, how L1 is identified in case the same price is offered by multiple sellers in Financial Evaluation?",
+            "answer": "In case of multiple L1 bidders against a service bid, the buyer will have to use 'Run L1 selection' feature wherein the system would randomly identify a L1 seller. It works on pseudorandom number generator algorithms which is the system generator based on linear congruential algorithm."
+        },
+        {
+            "id": "services101048",
+            "question": "How many times shall I get the option to re-run L1 for services?",
+            "answer": "The system selected L1 bidder is required to confirm within 72 hours whether he is willing to execute the contract. If he says \u201cNo\u201d or does not reply, system will enable Re-Run L1. This process will continue till the system selected L1 bidder confirms the willingness for execution of contract. Suitable action is taken against the defaulter bidders as per the Incident Management Policy of GeM."
+        },
+        {
+            "id": "services102344",
+            "question": "What is Least Cost Selection (LCS) method?",
+            "answer": "Least Cost Selection is a method of selection of service provider, where a minimum qualifying mark criterion is declared by buyer in the Bid Document, along with the evaluation methodology.Financial bid of only technically qualified bidders is opened. L-1 offer out of the technically qualified bidders is selected for award of contract."
+        },
+        {
+            "id": "services102345",
+            "question": "How LCS is different than the QCBS (Quality &amp; Cost Based Selection) Method?",
+            "answer": "In case of QCBS, the weightage is given to both Technical &amp; Financial ranking of bidder, to find the successful bidder. However, in case of LCS, no weightage is given to the technical score/ranking of bidder. The technical score in LCS acts only as a Pass or Fail criterion. The final selection is based on the least cost among the technically qualified bidders."
+        },
+        {
+            "id": "services102346",
+            "question": "How LCS is better than the L-1 selection Method?",
+            "answer": "LCS method is largely similar to the L-1 selection method for procurement of Goods. While in L-1 method, buyer can define the set of pre-qualification conditions (such as turnover/experience/capacity etc.), all of which act as a pass or fail criteria individually. No additional weightage is given to a better qualified bidder. E.g., if minimum average turnover condition is Rs. 1 Cr in last 3 FY, &amp; there are 2 bidders with the average turnover of Rs. 1 Cr &amp; 10 Cr, both bidders are equally eligible to get the award based on their financial bids. However, in case of LCS, the buyer can award score for each qualifying parameter as indicated in the bid document and only those bidders qualify whose total technical score is more than the threshold value."
+        },
+        {
+            "id": "services102347",
+            "question": "LCS is suitable for what type of service requirements?",
+            "answer": "LCS can be considered suitable for all the service procurement cases, where QCBS is not applicable. It is the simplest &amp; quickest system of selection &amp; under normal circumstances, this method of evaluation may be used as default method since it allows for minimum satisfactory technical efficiency with economy."
+        },
+        {
+            "id": "services102348",
+            "question": "What is the basic Do\u2019s &amp; Don\u2019ts while finalizing the technical criteria in LCS method?",
+            "answer": "Below are a few points to keep in mind while deciding the technical criteria in LCS method: \u2022 Technical criteria should be relevant &amp; proportional to the requirement of quality of assignment. \u2022 Selection process should be rigorous enough so that no technically unsatisfactory bid should be able to get through a loose criterion. \u2022 On the other hand, the selection process should not be highly restrictive so that no technical satisfactory bid is ruled out due to a very stringent criterion. \u2022 The evaluation methodology for technical criteria should be as objective as possible. In case of any subjective criterion, a system of grading the responses &amp; their marking may be laid down in the bid document."
+        },
+        {
+            "id": "services102349",
+            "question": "What should be the total qualifying marks &amp; how many criteria can be added in LCS parameters?",
+            "answer": "There is no limit on the definition of qualifying marks, but normally this can be in a range of 60 to 80 marks out of 100 and can vary as per buyer\u2019s requirements. Similarly, there is no limit on the number of criteria to be added in the LCS, but normally this can be in the range of 4 to 6 and can vary as per buyer\u2019s requirements. The maximum marks for all the criteria must add up to 100."
+        },
+        {
+            "id": "services102379",
+            "question": "Which all service categories can be bunched together?",
+            "answer": "Below are the criteria for bunching of service categories: 1. Buyer can bunch multiple items within the same service category with each other. 2. Categories which have been enabled for bunching by GeM can be bunched together. The criterion for enabling the bunching is mainly the nature of services &amp; the possibilities of having common service providers for these services. 3. \u201cCustom Bid for Services\u201d can not be bunched with any other category. 4. Buyer can bunch multiple items of\u201cCustom Bid for Services\u201d with each other."
+        },
+        {
+            "id": "services100378",
+            "question": "How much amount needs to be blocked by the buyer while creating a service order with online blocking payment methods?",
+            "answer": "If there are more than 2 billing cycles, the buyer needs to block an amount equivalent to 2 billing cycles at the time of order placement. If there are less than 2 billing cycles, the entire contract value needs to be blocked."
+        },
+        {
+            "id": "services100530",
+            "question": "I am a Service Provider, an invoice raised by myself has been rejected, and can I resubmit a fresh invoice?",
+            "answer": "Service Provider needs to go for a supplementary invoice in case of rejection of the first Invoice."
+        },
+        {
+            "id": "services100641",
+            "question": "How to make online payment for Service Orders?",
+            "answer": "The portal supports online processing of payments for service orders with payment methods such as GPA and PFMS."
+        },
+        {
+            "id": "services100642",
+            "question": "Can a Consignee Reject Service Provider's Invoice incase found to be incorrect due to any reason?",
+            "answer": "Yes, Consignee has an option to either process or Reject Service Provider's Service Invoice.Consignee shall have to mention a reason for such rejection in the form of Text.Service Provider shall be able to resubmit the Rejected Invoice as a supplementary invoice."
+        },
+        {
+            "id": "services100848",
+            "question": "Can a buyer increase/decrease the quantity in the running contract?",
+            "answer": "Yes, the buyer can increase the quantity for an ongoing contract placed through Bid . This option is available on the order summary page. Note : (i) The overall quantity increased per order should not exceed 25% of the total contract value. (ii) The functionality of decrease in order quanity is under development."
+        },
+        {
+            "id": "services100849",
+            "question": "Can a buyer\u00a0 increase/decrease the contract period in the running contract?",
+            "answer": "Yes,the buyer can increase the contract period for an ongoing contract placed through Bid. This option is available on the order summary page. Note : (i) The financial implication of increase in contract period should not exceed 25% of the total contract value. (ii) The functionality of decrease in contract period is under development."
+        },
+        {
+            "id": "services100850",
+            "question": "I am not able to select the contract start date as required.",
+            "answer": "This is because some services require minimum lead days for the Service Provider to start the service. Please select any date from the active dates as the start date of the service to proceed ahead.\u00a0"
+        },
+        {
+            "id": "services100852",
+            "question": "How to top up funds for making payment?",
+            "answer": "Buyer will get the top up option under the \u201cManage Budget\u201d section in Order Summary Page. They can also check the top up, unblocking, settled history for their orders."
+        },
+        {
+            "id": "services102380",
+            "question": "I am not able to create a bunch bid for the service. What can be the possible reason for this?",
+            "answer": "There can be multiple reasons for this: 1. It is possible that the service categories selected by buyer are not enabled for bunching by GeM. Only the categories which are enabled by GeM for bunching can be bunched together. Buyer may raise the request for enabling the bunching of services by sending a mail to request-bunch@gem.gov.in 2. Please ensure that buyer has selected \u201cIntent of Buying\u201d as \u201cBid\u201dfor bunching multiple services. 3. Contract Start Date &amp; Contract End Date selected by buyer during creation of bid should be same for all the schedules. 2 schedules with different Start &amp; End dates can not be bunched together."
+        },
+        {
+            "id": "services95968",
+            "question": "My service offering has been completed but firm name and rate offerings are not visible in the list of service providers in market?",
+            "answer": "Each service offering goes through a process of Quality Check at GeM. Service provider's offering might be pending for approval, the status of the same can be checked on the offering page on GeM."
+        },
+        {
+            "id": "services95969",
+            "question": "What is meant by \"GeM Service Provider\" label displayed while selecting Intent to Bid in the market \u00a0?\u00a0",
+            "answer": "\"GeM Service Provider\" Label denotes to the group of service providers having same price offering in the Government e-Marketplace for the listed service."
+        },
+        {
+            "id": "services95970",
+            "question": "Is it mandatory to provide a reason to withdraw from a Service bid?",
+            "answer": "Yes, it is mandatory to provide a valid reason for withdrawing from a Bid."
+        },
+        {
+            "id": "services100825",
+            "question": "In Service Bids as a seller I am unable to enter the offer price?",
+            "answer": "Kindly check whether the prices offered by you are below the maximum value as defined in the CMS. If not change the prices accordingly since validation is set as mentioned earlier."
+        },
+        {
+            "id": "services100826",
+            "question": "What will happen if still the seller is trying to enter the price greater than the maximum value defined in CMS in case of services?",
+            "answer": "The error message will be displayed that \u201cMaximum Price to be offered is \"$max. value\u201d."
+        },
+        {
+            "id": "services100827",
+            "question": "In which case the seller can enter the offer price greater than the maximum value defined in CMS?",
+            "answer": "If the minimum floor price is set by the Buyer than the Seller can enter any value greater than the Buyer defined floor price, during offering a product."
+        },
+        {
+            "id": "services100858",
+            "question": "Is it mandatory to provide a reason to withdraw from a Service bid?",
+            "answer": "Yes, it is mandatory to provide a valid reason for withdrawing from a Bid. Suitable action as per the Incident Management Policy of GeM will be taken in all such cases."
+        },
+        {
+            "id": "services100859",
+            "question": "In a Quality &amp; Cost Based Selection (QCBS) Bid, who defines the ratio between Technical and Financial?",
+            "answer": "Buyer as per his requirement, defines the weight-age of Technical and Financial parameters, which is declared upfront in the Bid Document."
+        },
+        {
+            "id": "services100860",
+            "question": "Where can a seller view minimum capping defined by a Buyer for a service Bid?",
+            "answer": "Service providers can view 'minimum capping' while participating in the bid and enter price offerings equal to or more than the minimum capping defined by the Buyer ."
+        },
+        {
+            "id": "services100296",
+            "question": "Can a Service Provider increase / decrease the quantity in the running contract?",
+            "answer": "Currently this feature is not available for service providers on GeM. Service Providers can request the buyer for the same."
+        },
+        {
+            "id": "services100297",
+            "question": "Can Service Provider\u00a0 increase / decrease the contract period in the running contract?",
+            "answer": "Currently this feature is not available for the Service Provider on GeM. Service providers can request buyers for the same."
+        },
+        {
+            "id": "services100649",
+            "question": "When can a Service Provider generate an Invoice for a billing cycle?\u00a0",
+            "answer": "As per the Payment terms defined in the Contract"
+        },
+        {
+            "id": "services100650",
+            "question": "When can a Buyer draft a Bill and process it for payments?",
+            "answer": "After an Invoice is generated by the Service Provider and Consignee issued the Service Delivery Acceptance Certificate, the Buyer may draft the Bill and process the same for payment.\u00a0"
+        },
+        {
+            "id": "services100644",
+            "question": "What is Quality &amp; Cost Based Selection (QCBS) in bid?",
+            "answer": "Quality &amp; Cost Based Selection (QCBS) in Services is a method of selection which utilises a competitive process among Service Providers and takes into account the quality as well as cost of the Service offerings for the selection of a successful Service Provider. Service Providers are assessed based on weightage based evaluation of technical and cost based parameters as per the buyer requirements."
+        },
+        {
+            "id": "services100855",
+            "question": "How a new category can be added in any service?",
+            "answer": "If a particular service category is not available on GeM , service provider can ask the Buyer who uses that service to make a request to GeM for introduction of the particular service category. Service Providers can also write to GeM for adding any service category."
+        },
+        {
+            "id": "services100856",
+            "question": "Are Consortium/JV bidders allowed to bid in Service bids?",
+            "answer": "Normaly, Offers from Consortium/JV bidders are allowed only for complex and highly technical assignments. The buyer must indicate in the bid document through ATC if the bids from Consortium/JV bidders are allowed for a particular service bid."
+        },
+        {
+            "id": "services100647",
+            "question": "Is it possible for the service provider to upload service without the project experience?",
+            "answer": "Yes, Service Provider can upload the service(s) without project experience."
+        },
+        {
+            "id": "services100791",
+            "question": "In how many days my service offering(s) gets approved?",
+            "answer": "The Service Offering is approved in 5* working days from catalogue updated date, if the details provided are found in order. *Please note that the turnaround time for service offering(s) approval might be more than 5 working days in cases where any further investigation is required with respect to confirm the genuineness of the submitted documents and certificates."
+        },
+        {
+            "id": "services100792",
+            "question": "Is Vendor assessment mandatory for OEM service provider?",
+            "answer": "In case of services, vendor assessment is not mandatory, for any service provider. QCI validates the mandatory/ voluntary compliance required for a service along with last 3 financial years relevant Government/PSU/Public Listed Companies past experience (Service Specific)."
+        },
+        {
+            "id": "services100794",
+            "question": "What kind of project experiences are acceptable in a service offering?",
+            "answer": "Executed projects (service specific) of Government/PSU/Public Listed Companies ending in last 3 financial years are considered as valid project experiences."
+        },
+        {
+            "id": "services100857",
+            "question": "Why I am not able to update my service offerings, if my offering rejected?",
+            "answer": "Service Provider whose offereing has been rejected, due to any reason, is restricted from updating the offering on marketplace for a period of 5 days."
+        },
+        {
+            "id": "services100729",
+            "question": "How many services can a service provider offer?",
+            "answer": "A service provider can offer multiple services provided that particular service category is available on GeM."
+        },
+        {
+            "id": "services100730",
+            "question": "What is Service Level Agreement (SLA)?",
+            "answer": "SLA(Service Level Agreement) means the Contractual Commitment that prevails between the Buyer and Service provider with regard to type of service to be provided, deliverables, desired performance level, reliability and responsiveness, monitoring process and service level reporting, response and issue resolution time frame as well as repercussions/penalties/remedies for service provider in not meeting their commitment."
+        },
+        {
+            "id": "services100731",
+            "question": "Can I deactivate my active service offering catalogue?",
+            "answer": "Yes, there is an option for \"Deactivation of Service Catalogues\" on the service offering page of any service. Once a catalogue is deactivated ,the Service Provider will not be able to reactivate the offerings for 15 days."
+        },
+        {
+            "id": "services100732",
+            "question": "Can I request for new category creation on GeM?",
+            "answer": "Currently, the new category creation request functionality is under revamp. It shall be rolled out shortly."
+        }
+    ]
+}

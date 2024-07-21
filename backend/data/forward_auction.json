@@ -1,0 +1,79 @@
+{
+    "FAQ": [
+        {
+            "id": "forward_auction100412",
+            "question": "What is Forward Auction on GeM?",
+            "answer": "Forward Auctions are auctions used by Government entities registered on GeM to sell their items (Properties, Scrap Materials, e-waste and much more) to many potential buyers."
+        },
+        {
+            "id": "forward_auction100413",
+            "question": "Who is a FA Buyer/Bidder?",
+            "answer": "Vendor assessment is not required as QCI validates the mandatory/ voluntary compliance required for a service along with last 3 years relevant government/PSU experience (Service Specific)."
+        },
+        {
+            "id": "forward_auction100414",
+            "question": "How can a Bidder Participate in Auction?",
+            "answer": "All successfully registered bidders need to accept the terms and condition and then pay the EMD amount (if applicable) to participate in the Live auctions."
+        },
+        {
+            "id": "forward_auction100415",
+            "question": "Are Auction Event Private or Public?",
+            "answer": "All auctions are publically published other than limited auctions for the FA Buyer to participate in the auction. Once the auction starts all the auction events are highly secure and conducted strictly between Auctioneer and set of qualified Bidders on Forward Auction. Post auction end, the auction result is made public for everyone to view and the winning Bidders are intimated on email and product."
+        },
+        {
+            "id": "forward_auction100416",
+            "question": "How can a FA Buyer/Bidder Register on Forward Auction?",
+            "answer": "FA Buyer/Bidder Registration on Forward Auction is a simple process; interested users just need to click on the FA Bidder Registration link under Forward Auction menu header from GeM Home page. Fill all the required details along with the PAN information on the registration page. Post form submission all bidders will need to verify their email id, after which they would get successfully registered on Forward Auction."
+        },
+        {
+            "id": "forward_auction100417",
+            "question": "What is Forward Auction on GeM?",
+            "answer": "Forward Auctions are auctions used by Government entities registered on GeM to sell their items (Properties, Scrap Materials, e-waste and much more) to many potential buyers."
+        },
+        {
+            "id": "forward_auction100418",
+            "question": "Who is a FA Seller/Auctioneer?",
+            "answer": "All Buyers registered on GeM would have the option to auto-enroll as auctioneer/FA seller on Forward Auction Platform. FA seller/Auctioneer would be able to sell their assets on GeM by creating and publishing the auction on GeM platform. To register as FA seller on Forward Auction Platform, the user needs to be first registered as Secondary Buyer on GeM."
+        },
+        {
+            "id": "forward_auction100419",
+            "question": "Are Auction Event Private or Public?",
+            "answer": "All auctions are publically published other than limited auctions for the FA Buyer to participate in the auction. Once the auction starts all the auction events are highly secure and conducted strictly between Auctioneer and set of qualified Bidders on Forward Auction. Post auction end, the auction result is made public for everyone to view and the winning Bidders are intimated on email and product."
+        },
+        {
+            "id": "forward_auction100420",
+            "question": "How can a FA Buyer/Bidder Register on Forward Auction?",
+            "answer": "FA Buyer/Bidder Registration on Forward Auction is a simple process; interested users just need to click on the FA Bidder Registration link under Forward Auction menu header from GeM Home page. Fill all the required details along with the PAN information on the registration page. Post form submission all bidders will need to verify their email id, after which they would get successfully registered on Forward Auction."
+        },
+        {
+            "id": "forward_auction102445",
+            "question": "How EMD is Paid Online?",
+            "answer": "The bidder will pay the EMD amount through the Payment gateways available on GeM."
+        },
+        {
+            "id": "forward_auction102447",
+            "question": "What will be the timeline of Remittance of the EMD amount?",
+            "answer": "The H1 Bidder EMD amount will be auto-remitted within 2 days auction-wise in the auctioneer account after the generation of the sale intimation letter"
+        },
+        {
+            "id": "forward_auction102449",
+            "question": "What will be the timeline for refund of the EMD amount?",
+            "answer": "The EMD of unsuccessful bidders will be auto refunded to their source account within 2 days after the generation of the sale intimation letter through GeM only"
+        },
+        {
+            "id": "forward_auction102446",
+            "question": "In which account EMD is submitted?",
+            "answer": "The EMD amount will be available with the GeM until the intimation letter/Sale letter is generated."
+        },
+        {
+            "id": "forward_auction102448",
+            "question": "Who will update bank account details for remittance?",
+            "answer": "Primary users must update auction account details in their profile."
+        },
+        {
+            "id": "forward_auction102450",
+            "question": "Are the EMD reports available in the system?",
+            "answer": "The entire remittance/refund details can be seen/downloaded in the auction dashboard."
+        }
+    ]
+}

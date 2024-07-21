@@ -1,0 +1,174 @@
+{
+    "FAQ": [
+        {
+            "id": "incident95913",
+            "question": "When is an incident created?",
+            "answer": "Incident can be created be created whenever a deviation is observed. Incident can be created against a BID number, order number or a catalog."
+        },
+        {
+            "id": "incident95914",
+            "question": "Who can create an incident?",
+            "answer": "The incident can be created by Buyers, Sellers, system and GeM Admin. Incidents can be created by the system based on rule engines defined in the incident management policy."
+        },
+        {
+            "id": "incident100209",
+            "question": "How to raise an Incident?",
+            "answer": "For Buyer: Pre-Contract incident can be raised by clicking on \"Report this Product\" option available on the product detail page in the marketplace. Post Contract Incidents can be raised by clicking on the \"Incident\" tab available on the Buyer dashboard by clicking the \"New\" button. For Seller: Pre-Contract incident can be raised by clicking on \"Report this Product\" option, available on the product detail page in the marketplace. Post Contract Incidents can be raised by clicking on the \"Need Help\" option and then \"Report an Incident\"."
+        },
+        {
+            "id": "incident100210",
+            "question": "How to respond to an Incident?",
+            "answer": "Buyer/Seller can respond to an Incident by clicking on the \"Respond\" button available on the Incident detail page."
+        },
+        {
+            "id": "incident100796",
+            "question": "Who all can create an incident against the bid number?",
+            "answer": "Buyer and GEM-admin can only create an incident against a bid number against the seller."
+        },
+        {
+            "id": "incident100797",
+            "question": "At what stage of bid an incident can be created?",
+            "answer": "Incidents can be created after the start of the technical round. Incident creator can select the seller against whom he wants to create an incident from the dropdown list."
+        },
+        {
+            "id": "incident95918",
+            "question": "Can a buyer/seller escalate the issue to GeM Admin on the first day of the incident creation?",
+            "answer": "For incidents created against seller: buyer can escalate incident after 7 days of creation of incident or after first comment on the incident by the seller, whichever is earlier. For incidents created against buyer: seller can escalate incidents after 7 days of creation of incident. For incidents creaed with incident reason \"\"Multiple Auto Cancelled or Declined for DP/L1 purchase\"\" by the system, the incidents auto escalated by the sysem as soon as the incident is created For incidents created by GEM-Admin: incident gets auto escalated after 48 hours of creation. Further GEM-admin can escalate incidents any time after creation of incident"
+        },
+        {
+            "id": "incident95919",
+            "question": "What is meant by acknowledging to Show Cause Notice (SCN)?",
+            "answer": "Acknowledging to Show Cause Notice means that you have read and understood the contents of the Show Cause Notice."
+        },
+        {
+            "id": "incident95922",
+            "question": "When will an action be taken by GeM Admin ?",
+            "answer": "GEM takes action after evaluation of all the relevant facts captured by the system, comments from both the parties and documents uploaded by both the parties."
+        },
+        {
+            "id": "incident95925",
+            "question": "Is there a provision on GeM for Buyers to know Seller\u2019s Incident history?",
+            "answer": "Yes, there is a Red Exclamation Mark against the products on search page and the product description page, which displays seller\u2019s incident history on GeM."
+        },
+        {
+            "id": "incident95926",
+            "question": "Can Buyers view Seller\u2019s incident details?",
+            "answer": "Buyer can view the reason for which the incident was raised against the Seller along with the duration of incident."
+        },
+        {
+            "id": "incident95927",
+            "question": "How are the days calculated for the incidents?",
+            "answer": "All the days are to be calculated as Calendar days."
+        },
+        {
+            "id": "incident100393",
+            "question": "What is the time available for a buyer and seller to sort out the issue reported in an incident before escalating to GeM?",
+            "answer": "Buyer and seller can resolve the incident with in 7 days of creation of incident after which raised by party can escalate the incident. For incidents created against the seller, buyer can escalate the incident after first comment of seller or after 7 days of incident creation whichever is earlier. GEM-admin can escalate incidents even before the incident escalation due date"
+        },
+        {
+            "id": "incident100395",
+            "question": "Will the reporter of the incident get notification to escalate the incident",
+            "answer": "Yes, the reporter of the incident will get an email notification to escalate the incident. In addition, System will put comment, after 7 days of incident creation, on the incident informing the same."
+        },
+        {
+            "id": "incident100397",
+            "question": "What type of action will be taken against a Grave Incident?",
+            "answer": "A. If no deviation at user end\u2013 Incident will be closed B. In case, there is an unsatisfactory explanation by the Buyer/ Seller/ SP the following steps shall be taken: - a)Buyer \u2013 Primary user and competent authority to be notified for necessary action. b)Seller / SP suspended by the GeM admin for a period of \u2022 upto 60 days- for first &amp; second deviation within a period of 180 calendar days \u2022 upto 90 days- for third and subsequent deviations within a period of 180 calendar days (and up to 2 Years with approval from CVO-GEM). C. Deviation reflects in the overall Seller/Buyer rating"
+        },
+        {
+            "id": "incident100398",
+            "question": "Can the system close the incident in case if no response received on Incident by Buyer/Seller?",
+            "answer": "Yes, system will close the incident after 37 days from the date of creation if the incident is due for escalation and not responded by any stakeholder"
+        },
+        {
+            "id": "incident100399",
+            "question": "What would be the impact of SCN on Seller?",
+            "answer": "No Impact of SCN on buyer/Seller, however raised against party is expected to respond to the SCN within the given time period"
+        },
+        {
+            "id": "incident100402",
+            "question": "Is there any provision to rectify the deviation after the escalation of the Incident to GeM?",
+            "answer": "Yes, there is a provision where the seller may express his willingness to rectify the deviation in 10 calendar days on the Incident page itself. This shall be done by seller/service provider within 5 days of receiving show-cause notice."
+        },
+        {
+            "id": "incident100611",
+            "question": "What type of action will be taken against a Severe Incident?",
+            "answer": "A. If no deviation at user end\u2013 Incident will be closed B. In case, there is an unsatisfactory explanation by the buyer/ Seller/ SP the following steps shall be taken: - a) Buyer \u2013 Primary user and competent authority to be notified for necessary action. b) Seller / SP would be suspended by the GeM admin for a period of: \u2022 45 days- for first and second deviation within a period of 120 calendar days \u2022 60 days- for third and subsequent deviations within a period of 120 calendar days (and up to 12 months with approval from CVO-GEM). C. Deviation reflects in the overall Seller/Buyer rating"
+        },
+        {
+            "id": "incident100798",
+            "question": "What is the time period given to respond to the Show cause Notice?",
+            "answer": "5 days are given to respond to the Show cause notice."
+        },
+        {
+            "id": "incident100799",
+            "question": "What happens If raised-against party doesn't respond to SCN within 5 days of SCN?",
+            "answer": "If SCN is not responded within 5 days, the system puts a comment on the incident asking the raise to respond to the SCN with-in next 5 days."
+        },
+        {
+            "id": "incident100800",
+            "question": "What happens if SCN is not responded to even after 10 days of SCN?",
+            "answer": "If SCN is not responded within 10 days from SCN sent, auto action against raised-against party will be taken. The action will be as per Incident management policy."
+        },
+        {
+            "id": "incident100801",
+            "question": "What happens if SCN is responded to within 10 days?",
+            "answer": "Status of the incident will change to respond to SCN and the mapped officer will review the incident, based on available facts, comments on incident and policies."
+        },
+        {
+            "id": "incident95928",
+            "question": "Will any notification go out to buyers and sellers on closing of the incident?",
+            "answer": "Yes, a notification email will be sent to both the buyer and the seller on closing of the incident."
+        },
+        {
+            "id": "incident95929",
+            "question": "Can a buyer/seller close the incident after the show cause notice has been issued by GeM admin?",
+            "answer": "No, only GeM admin can choose to close the incident after the show cause notice has been issued by them."
+        },
+        {
+            "id": "incident100403",
+            "question": "Who can raise the request for mutual resolution?",
+            "answer": "Seller can raise mutual closure request for incidents. The option is only available of incidents created against bid and order and NOT against incidents created against catalog."
+        },
+        {
+            "id": "incident100404",
+            "question": "When will the seller raise the mutual resolution request?",
+            "answer": "Once the action is taken against the seller than seller can raise the request for mutual resolution from the incident detail page."
+        },
+        {
+            "id": "incident100405",
+            "question": "How can Sellers raise the mutual resolution request?",
+            "answer": "Seller can raise the request by clicking on tab \u201cMutual Resolution\u201d from the incident detail page."
+        },
+        {
+            "id": "incident100406",
+            "question": "Who can accept the mutual resolution request?",
+            "answer": "Buyer can accept the mutual closure request for order/BID incidents created against seller. Even if the incident is created by the buyer, the mutual closure request goes to buyer for acceptance"
+        },
+        {
+            "id": "incident100407",
+            "question": "Who can reject the mutual resolution request?",
+            "answer": "Buyer can reject mutual closure request."
+        },
+        {
+            "id": "incident100408",
+            "question": "How the buyer can accept or reject the mutual resolution request?",
+            "answer": "Buyer can respond to the request by clicking on tab \u201cMutual Resolution Request\u201d on incident detail page and can write his comment then submit his response by clicking on \u201cApproved\u201d &amp; \u201cRejected\u201d."
+        },
+        {
+            "id": "incident100409",
+            "question": "How much time is given to the buyer for responding to the request?",
+            "answer": "Buyer can respond from the time when the request is raised and before the suspension period ends."
+        },
+        {
+            "id": "incident100411",
+            "question": "Will the impact of incident on rating be removed?",
+            "answer": "Yes, after accepting the request by buyer, system will closed the incident and impact on rating will be reversed after closing the incident."
+        },
+        {
+            "id": "incident100612",
+            "question": "If action on an incident is taken against buyer and buyer has resolved the issue, how can the incident be closed",
+            "answer": "Once action is taken against buyer, Incident closure request can be sent from primary buyer(HOD). HOD can open the incident page and click on close request. Once the close request is applied the same comes to GEM for evaluation and closure"
+        }
+    ]
+}

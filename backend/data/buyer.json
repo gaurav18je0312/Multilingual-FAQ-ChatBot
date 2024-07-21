@@ -1,0 +1,1979 @@
+{
+    "FAQ": [
+        {
+            "id": "buyer95541",
+            "question": "I forgot my password to access GeM portal, how can I reset it?",
+            "answer": "Please follow following steps to reset your password on GeM portal: 1. Kindly visit https://gem.gov.in/ and click on Login, 2. Click on \"Forgot your Password\" link, 3. Enter your User Id, kindly note that User Id is case sensitive, 4. Type the Characters displayed in the captcha box, press SUBMIT, 5. An E-mail will be sent to your registered E-mail ID with link to Reset password, 6. Click on Reset Link in your E-mail, and Enter new password and confirm the same, Press SUBMIT. Kindly note that your Password must be of 8-20 characters- 1 upper case letter, 1 lower case letter, number, and a special character."
+        },
+        {
+            "id": "buyer95542",
+            "question": "I am a new buyer and wish to learn more about procurement process on GeM?",
+            "answer": "Detailed instructions are available in the form of Video Guides on GeM portal. Kindly refer to different aspects of buyer process on  <a href=\"https://gem.gov.in/training/training_module\">Buyer Videos </a>  ."
+        },
+        {
+            "id": "buyer95543",
+            "question": "What could be the reason for variation in prices between GeM and other Marketplaces ?",
+            "answer": "The variation in retail price and GeM Price of a product could be due to under mentioned factors. 1. The price offering on GeM are inclusive of all taxes. 2. Product on GeM may have a different warranty period. 3. Onsite warranty is offered for some products on GeM.4. Prices could also vary due to Payment Terms of the transaction."
+        },
+        {
+            "id": "buyer95544",
+            "question": "Why am I unable to see the seller's name in the market, while searching for a product on GeM?",
+            "answer": "In order to avoid biases in the selection of seller, for a particular purchase, the seller's name is no longer disclosed on GeM until the Buyer makes a purchase decision."
+        },
+        {
+            "id": "buyer95545",
+            "question": "Is PAC option available for purchase through OEMs only or Resellers can also participate?",
+            "answer": "Yes, PAC purchase can be done from OEMs and Resellers both."
+        },
+        {
+            "id": "buyer95546",
+            "question": "What are the minimum delivery days during direct purchase?",
+            "answer": "The minimum and maximum number of delivery day(s) may vary, specific to the product and service category."
+        },
+        {
+            "id": "buyer95547",
+            "question": "What is concession on GST?",
+            "answer": "Certain Buyer organizations are eligible for concession on GST if goods for which bids have been invited fall under classification of GST concession and the conditions for eligibility of concession are met by the institution."
+        },
+        {
+            "id": "buyer95548",
+            "question": "Why the Buyer is asked to choose between Direct Purchase or Bid/RA when 'Add to Cart' button is clicked?",
+            "answer": "This option is given to Buyers to understand their Intent of Buying so that Buyers can select and verify values for Golden Parameters to create Bid as per the specific requirement for procurement. For more info, please click on the  <a href=\"https://assets-bg.gem.gov.in/resources/pdf/Bid_Process_In_Market_Golden_Parameter_Selection_User_Manual.pdf\">document link</a>  ."
+        },
+        {
+            "id": "buyer95549",
+            "question": "When would the Buyer claim concession on GST?",
+            "answer": "The Buyer would specify the concessional rate of GST while publishing the Bid. The concessional rate of GST, the relevant govt notification number and date would be mentioned in Bid Terms and conditions."
+        },
+        {
+            "id": "buyer95550",
+            "question": "Where can a buyer find the innovative Startup products/services?",
+            "answer": "Buyers can view the list of shortlisted innovative products/services on Startup Runway corner and can request the same for Trial."
+        },
+        {
+            "id": "buyer95551",
+            "question": "What's the grievance redressal mechanism on GeM?",
+            "answer": "In case of any grievance related to deviation / concern related to sellers, buyer can raise an Incident. Kindly refer to \"Incident\" tab under FAQ for more details."
+        },
+        {
+            "id": "buyer95552",
+            "question": "How can I request for Change in specification of existing category?",
+            "answer": "Buyers can request for changes in existing category from Request Management available in their Dashboard. All such requests would be evaluated by GeM."
+        },
+        {
+            "id": "buyer95553",
+            "question": "How can I request for new category addition ?",
+            "answer": "Buyers can request for new category addition online from Request Management available in their Dashboard. All such requests would be evaluated by GeM."
+        },
+        {
+            "id": "buyer95554",
+            "question": "How can I update the Annual Procurement Plan of my Organization or department on GeM?",
+            "answer": "The Buyers can upload the Annual Procurement Plan online through the Request Management available on their Dashboard. GeM would evaluate and consolidate the procurement plans received from the Buyers to create a forecast of the products/services required on GeM."
+        },
+        {
+            "id": "buyer95572",
+            "question": "What is the criterion for a Buyer to decide to go to RA after the Bid?",
+            "answer": "For RA creation, Buyer has to declare upfront if the intent of Bid is RA.In case of multiple L1 or a tie, it is mandatory for the Buyer to go for RA irrespective of the intent."
+        },
+        {
+            "id": "buyer100254",
+            "question": "What are the various modes to verify a document on GeM?",
+            "answer": "The document/transactions on GeM can be verified using OTP, e-sign or Digital signature."
+        },
+        {
+            "id": "buyer100255",
+            "question": "Which documents/transactions can be verified by e-sign or Digital signature?",
+            "answer": "The following documents can be verified: a. Bid/RA publishing by Buyer b. Bid/RA participation by Seller c. Bid Corrigendum Publishing by Buyer d. Contract generation by Buyer e. Contract/amended contract acceptance by Seller f. Invoice generation/regeneration by Seller g. CRAC generation by Consigneeh. Bill generation by Buyer"
+        },
+        {
+            "id": "buyer100256",
+            "question": "Is e-sign different from Digital signature and how can these be availed?",
+            "answer": "Both e-sign and Digital sign allow signing a document or transaction. To perform e-sign the user has to register on e-mudhra using their PAN or Aadhar. To register on e-mudhra, pls copy and paste the below link in your browser: https://esign.e-mudhra.com/UI/subscriptionPlanNewUser.jsp?src=2cba53be42b24a2792ab0 To perform Digital signature, the user has to buy the signature certificate and token from the CCA certified agency. The embridge application must also be installed and running on the user system. To install the application, please copy and paste the below link in your URL and download the installer as per your operating system.https://embridge.emudhra.com/"
+        },
+        {
+            "id": "buyer100257",
+            "question": "Is it mandatory to e-sign or digitally sign the transactions on GeM?",
+            "answer": "You can choose to either verify transactions using esign/ Digital Sign Capability(DSC) or you can continue to use OTP. However the OTP feature is being supported for a limited time and would be decommissioned later. You should get either e-sign or DSC."
+        },
+        {
+            "id": "buyer100258",
+            "question": "Will I be charged for performing e-sign registration on e-mudhra?",
+            "answer": "The registration on e-mudhra and e-signing GeM transactions is free for all GeM users."
+        },
+        {
+            "id": "buyer100259",
+            "question": "Can I purchase the digital signature from any certifying authority?",
+            "answer": "Yes, you can purchase the digital signature from any CCA certified agency and use it to digitally sign the documents/transactions on GeM."
+        },
+        {
+            "id": "buyer100298",
+            "question": "Which Class Certificate can be used for Digital signing on GeM?",
+            "answer": "Only Class 3 Certificates can be used for Digital signing on GeM."
+        },
+        {
+            "id": "buyer100354",
+            "question": "Whether the disruption of the supply chains due to spread of corona is covered in the Force Majeure Clause (FMC)?",
+            "answer": "Please refer to the Office Memorandum (OM) No. F-18/4/2020 dated 19 Feb 2020 issued by Department of Expenditure. As per DoE OM, it should be considered as a case of natural calamity and FMC may be invoked, wherever considered appropriate, following the due procedure."
+        },
+        {
+            "id": "buyer100421",
+            "question": "Do we have the option for Direct Purchase in case of PAC buying?",
+            "answer": "Yes, we have the option for Direct Purchase in PAC buying for all orders of value upto INR 25,000 irrespective of category except automobiles where Buyer may opt to go for Direct Purchase even beyond INR 25,000."
+        },
+        {
+            "id": "buyer100537",
+            "question": "List of Potential sellers to be given by buyers before publishing of bids",
+            "answer": "I am a Buyer &amp; need to ensure that Bids Published reach the potential Sellers incase such Sellers overlook or fail to view the Bids, what is the process to achieve this? &gt;Navigate to gem.gov.in &gt;Login with Buyer Credential &gt; Hover on Bids (Top-menu) &amp; click on Ongoing Bids &gt; Click on Invite Bidder link available on the published bid &gt; In pop up, enter emails ids of the sellers that you intent to invite. Each email ids shall be separated by a comma.&gt; Thereafter Click on Send Invite Button in order to complete the invitation sending process."
+        },
+        {
+            "id": "buyer100538",
+            "question": "How many Potential Sellers can be invited by a Buyer for a particular Bid?",
+            "answer": "Maximum 50 email ids of Sellers. each separated by Comma are allowed for invitation of Bids. Upon exceeding this limit a Message in Red fond appears \u201cCurrent count is [\u2026.] (Maximum 50 emails are allowed) so also the Send Invite button gets disabled."
+        },
+        {
+            "id": "buyer100539",
+            "question": "As a Buyer I have sent invitation once to Potential Seller(S) once without having crossed the maximum limit of 50 emails , can I avail the opportunity of sending invite to additional Potentials Sellers?",
+            "answer": "No, once this facility has been exercised by the Buyer for a Particular Bid another invitation cannot be sent to other prospective Bidders. A pop up message \u201cInvitation has already been sent for this bid\u201d appears."
+        },
+        {
+            "id": "buyer100540",
+            "question": "During Bid Creation, Buyer is not getting an option of Bid Life Cycle for new Bids?",
+            "answer": "Bid Life Cycle feature has been removed hence any new Bids created shall not have this Option in the system."
+        },
+        {
+            "id": "buyer100541",
+            "question": "After Bid Publishing Buyer is unable to view Bid Life Cycle details on the Bid/RA document?",
+            "answer": "Bid Life Cycle feature has been removed hence any newly Published Bids shall not have this Option in the system."
+        },
+        {
+            "id": "buyer100542",
+            "question": "How is the EMD validity calculated in absence of Bids with Bid Life Cycle duration?",
+            "answer": "If the Buyer selects EMD then EMD validity shall be based on the logic of Bid Offer validity i.e. EMD validity will be calculated based on Bid Offer validity + 45 days. Example- If Bid offer validity is 30 days, EMD validity is calculated as Bid offer validity end date (30 days from Bid end date) + 45 days."
+        },
+        {
+            "id": "buyer100543",
+            "question": "MII classification is available for which type of Suppliers?",
+            "answer": "MII classification as per Class 1 &amp; Class 2 Suppliers is available."
+        },
+        {
+            "id": "buyer100544",
+            "question": "Can I define the eligibility of Minimum Local Content for class 1 &amp; Class 2 Suppliers?",
+            "answer": "Yes, Buyers can define the Eligibility of Minimum Local Content to qualify as a Class 1 &amp; Class 2 Local Suppliers."
+        },
+        {
+            "id": "buyer100546",
+            "question": "I have selected Bunch bidding &amp; need to select the Minimum Local Content eligibility, how can I achieve this?",
+            "answer": "In the bunch bid cases, Eligibility of Local Content is applicable for Primary Category selectable amongst any one of the bunched Product/Item only."
+        },
+        {
+            "id": "buyer100547",
+            "question": "How many Maximum items can be added in a Shopping Cart during shopping?",
+            "answer": "Maximum 50 items can be added in a shopping cart at any given time."
+        },
+        {
+            "id": "buyer100802",
+            "question": "What is the Minimum value that can be entered for Class 1 &amp; Class 2 Supplier?",
+            "answer": "If the bidder participates as a Class 1 or Class 2 Local Suppliers, then its content will match with the value submitted by the Buyer during Bid submission."
+        },
+        {
+            "id": "buyer101057",
+            "question": "I forgot my password to access GeM portal, how can I reset it?",
+            "answer": "Please follow following steps to reset your password on GeM portal: 1. Kindly visit https://gem.gov.in/ and click on Login, 2. Click on \"Forgot your Password\" link, 3. Enter your User Id, kindly note that User Id is case sensitive, 4. Type the Characters displayed in the captcha box, press SUBMIT, 5. An E-mail will be sent to your registered E-mail ID with link to Reset password, 6. Click on Reset Link in your E-mail, and Enter new password and confirm the same, Press SUBMIT. Kindly note that your Password must be of 8-20 characters- 1 upper case letter, 1 lower case letter, number, and a special character."
+        },
+        {
+            "id": "buyer95555",
+            "question": "What should I do if I encounter error message \"Contract order not generated yet\" while verifying the Demand?",
+            "answer": "In this case, you may raise a support ticket with Screen Shots and details. You can raise a ticket from \"Support Desk\" option on GeM portal."
+        },
+        {
+            "id": "buyer95557",
+            "question": "What should I do if I encounter error message \"Consignee not found\"?",
+            "answer": "All secondary users such as Consignees are to be added by the HOD of the organization. In case, you are encountering such issues, you may ask your HOD to update or add the consignee details from his/her account, by clicking on \"My Account\"."
+        },
+        {
+            "id": "buyer95559",
+            "question": "Is seller's name visible to the Buyer before order creation?",
+            "answer": "No. Seller's name would be visible once the purchase decision is made by the Buyer and contract is created."
+        },
+        {
+            "id": "buyer95560",
+            "question": "Can I apply 'Seller rating' filter on sellers, who have a rating of less than 4.0?",
+            "answer": "No, Using this filter, Buyers can only select the Seller Rating ranging from 4.0 and above ."
+        },
+        {
+            "id": "buyer100422",
+            "question": "I am not getting \"Direct Purchase\" option, what could be the reason?",
+            "answer": "Direct Purchase option is available for order values upto INR 25,000. For order values more than INR 25,000 &amp; upto INR 5,00,000, Direct Purchase is available after comparision for a L1 product. For orders above INR 5,00,000 buyer has to proceed with Bid/RA creation."
+        },
+        {
+            "id": "buyer100552",
+            "question": "What is a Local Filter?",
+            "answer": "Local Filter is a feature that aids Buyer for Procurement to be done in Difficult Areas where preference may be given based on Price discovery &amp; Buyer\u2019s final decision to \u2018Local Sellers\u2019 found in that particular region/area."
+        },
+        {
+            "id": "buyer100553",
+            "question": "Which areas are termed as \u2018Difficult Areas\u2019?",
+            "answer": "GeM has identified the below regions as \u2018Difficult Areas\u2019 1. Leh &amp; Ladakh 2. Jammu 3. Kashmir 4. Andaman &amp; Nicobar 5. Lakshadweep 6. North East 7. Sikkim"
+        },
+        {
+            "id": "buyer100554",
+            "question": "How can I view the sellers available in \u2018Difficult Areas\u2019 for Procurement to be carried out in Difficult Areas?",
+            "answer": "Upon selection of golden Parameters, Local Filter a particular Consignee can be selected. Thereby all those Sellers who happen to be registered under the Consignee selected \u2018Difficult Area\u2019 shall appear for selection of the catalogue."
+        },
+        {
+            "id": "buyer100555",
+            "question": "What are the Prerequisites for Procuring Products through Local Area Filter?",
+            "answer": "The below are the Prerequisites for Procurement of Products through Local Area Filter:- a) Seller should be registered in that local area selected for Consignee. b) Local area Consignee should be mapped to the Buyer c) It will work only for the mapped local areas under GeM as listed below:- 1. Leh &amp; Ladakh 2. Jammu 3. Kashmir 4. Andaman &amp; Nicobar 5. Lakshadweep 6. North East 7. Sikkimd) New cart will be required for new Local area Purchase, old cart consisting of other local area products/all India products will not work."
+        },
+        {
+            "id": "buyer100556",
+            "question": "Is \u2018The Local Area Filter\u2019 Category specific?",
+            "answer": "No, The Local Area Filter is not category specific this is User specific, i.e. the Secondary Buyer(s) of specific state from \u2018Difficult Area\u2019 alone shall have access to Procurement with \u2018Local Area Filter\u2019."
+        },
+        {
+            "id": "buyer100557",
+            "question": "What are the types of Biddings possible for Procurement with \u2018Local Area Filter\u2019?",
+            "answer": "Direct Purchase up to INR 25,000, Compare &amp; Buy between INR 25,000-INR 5, 00,000 .Any value above INR 5 Lacs shall have to be routed through either Bid/RA."
+        },
+        {
+            "id": "buyer100558",
+            "question": "Which product value is considered for excising \u2018Local Area Filter\u2019?",
+            "answer": "The Product value of L1 purchase would be the benchmark for considering the Local Area Filter. Note the L1 Product value &amp; not the All India level \u2018L1\u2019 Price shall be considered for excising \u2018Local Area Filter\u2019. Example:-In case All India level L1 is 4.5 lac but local L1 price is exceeding 5 Lac, then the procurement via local filter won't be allowed. Buyer shall be directed to opt either of the Bid/RA procurement mode."
+        },
+        {
+            "id": "buyer100559",
+            "question": "Minimum how many Products are required for comparison in Procurement via selection of \u2018local Area Filter\u2019?",
+            "answer": "A minimum of three different OEMs and Sellers offers shall be necessary for carting the product with lowest offer price. In case the filter leads to availability of less than three OEMs and Sellers offers, Carting facility and subsequent purchase shall not be permitted."
+        },
+        {
+            "id": "buyer100560",
+            "question": "I have selected a Local Area Filter for Procurement of Product(s) yet the Price difference between All India L1 &amp; Local Seller L1 prices is greater than or equal to 50%, shall I be able to go ahead for Procurement?",
+            "answer": "No, Buyer won't be able to buy the Local product if the All India L1 &amp; Local L1 price difference is greater than or equal to 50%"
+        },
+        {
+            "id": "buyer100561",
+            "question": "I have selected \u2018Local Area Filter\u2019 &amp; am unable to add Products to the cart for checkout, what could be the reason?",
+            "answer": "Please check whether you have entered all the available GOLDEN parameters, not even a single golden parameter from amongst the entire parameters shall hamper your selection of \u2018Local Area Filter\u2019."
+        },
+        {
+            "id": "buyer100562",
+            "question": "Is \u2018Local Area Filter\u2019 available for Services?",
+            "answer": "Presently \u2018Local Area Filter\u2019 is not applicable for Services; this is applicable only for the Products."
+        },
+        {
+            "id": "buyer95561",
+            "question": "How to create Bid / RA?",
+            "answer": "Detailed instructions are available in the form of Video Guides on GeM portal. Kindly refer to different aspects of Bid Creation on  <a href=\"https://gem.gov.in/training/training_module\">Buyer Videos </a>  ."
+        },
+        {
+            "id": "buyer95562",
+            "question": "If purchase preference for MSEs is applicable, among how many MSE Sellers can the Buyer split the Bid?",
+            "answer": "The Buyer can split the Bid with MSE Purchase Preference among maximum 5 MSE Sellers. Top 5 MSE price offerings, within L1+15%, would be given an option to match L1 price."
+        },
+        {
+            "id": "buyer95563",
+            "question": "How Bid would be awarded, if some eligible MSEs do not match price with L1?",
+            "answer": "In such cases, Bid would be awarded to the remaining eligible MSEs who have matched their price with L1 offer."
+        },
+        {
+            "id": "buyer95564",
+            "question": "What are Golden Parameters ?",
+            "answer": "Golden Parameters of a catalogue are those specifications which have maximum impact on technical aspects. This may directly or indirectly impact the cost of the product."
+        },
+        {
+            "id": "buyer95565",
+            "question": "Where are the Golden Parameters used and how do these impact Bid Creation &amp; Participation?",
+            "answer": "Golden Parameters facilitate a buyer to choose appropriate product(s), further narrowing down the search criteria. It also impacts the cost of the product. The seller should offer a product whose specification matches the Golden Parameters chosen by the buyer to participate in the bid."
+        },
+        {
+            "id": "buyer95566",
+            "question": "What if the Buyer does not choose any filters for Golden Parameters while creating a Bid?",
+            "answer": "If Golden Parameter is not selected by the Buyer, all allowed values of Golden Parameters will be applicable and seller would not find any specific criteria to offer a required product."
+        },
+        {
+            "id": "buyer95567",
+            "question": "Why am I required to select values for all Golden Parameters for creating the Bid?",
+            "answer": "Selection of Values for each of the Golden Parameters helps in defining the Bid, thereby narrowing down to get specific offerings for your Bid. For more info, please click on the  <a href=\"https://assets-bg.gem.gov.in/resources/pdf/Bid_Process_In_Market_Golden_Parameter_Selection_User_Manual.pdf\">document link</a>  ."
+        },
+        {
+            "id": "buyer95568",
+            "question": "Does the buyer have to choose filters for all specifications mentioned in the catalogue?",
+            "answer": "No, it is purely a Buyer's discretion to choose filters or not. Filters are available to help in choosing appropriate products for buyer's convenience and requirement."
+        },
+        {
+            "id": "buyer95569",
+            "question": "What do I do if I do not receive an OTP or the screen goes blank, while publishing BID?",
+            "answer": "This might happen when the popup is blocked. You need to enable the popup in your browser settings. It may also be due to Server or Network issue, in that case the user is advised to try again after some time."
+        },
+        {
+            "id": "buyer95570",
+            "question": "Where are Golden Parameters shown on Bid document?",
+            "answer": "All the specifications in bold letters mentioned in bid document are the Golden Parameters."
+        },
+        {
+            "id": "buyer95571",
+            "question": "How to process the Bid after \u201cwaiting for publish\u201d status?",
+            "answer": "Waiting for Publish status means that Bid is in draft state and not OTP verified. To publish the bid , buyer can proceed with OTP verification."
+        },
+        {
+            "id": "buyer95573",
+            "question": "Why am I unable to place order in Bid/RA?",
+            "answer": "There is a possibility of below mentioned conditions: 1. Your Bid validity has expired 2. Bid Lifecycle has ended 3. Consignee's role has changed or consignee is not active on GeM."
+        },
+        {
+            "id": "buyer100214",
+            "question": "How can a Buyer extend Bid Life-Cycle?",
+            "answer": "Bid Lifecycle extension option is available in Buyer's panel after 80th day from bid publish date. Bid lifecycle can be extended by uploading approval of competent authority, upto a maximum of 180 days"
+        },
+        {
+            "id": "buyer100215",
+            "question": "How can I request for any specific Additional Terms &amp; Conditions (ATC) on GeM?",
+            "answer": "The request for Additional Terms &amp; Conditions can be made through 'Request for ATC' prior to Publishing the Bid. After evaluation, the request is processed within 5 working days and will then reflect under the Buyer Specific ATC section."
+        },
+        {
+            "id": "buyer100355",
+            "question": "What is the maximum delivery period configurable on GeM Portal?",
+            "answer": "The maximum Delivery Period (DP) that can be configured by a Buyer on GeM portal is as provided below: 1. Standard DP for Buyers is 180 days without CA (Competent Authority) approval &amp; 365 days by uploading CA approval. 2. DP for MOD (Ministry of Defense &amp; its associated organizations) incl. Defense PSU is 2190 days with CA approval. 3. DP for CPSU is 2190 days with CA approval.4. DP for Ministry Of Health And Family Welfare is 730 days with CA Approval."
+        },
+        {
+            "id": "buyer100356",
+            "question": "Is there a provision wherein Buyer(s) can take priced offer for consumables/spares from the seller for which the BOM/BOQ (Bill of Material/Quantity) is unknown to the Buyer?",
+            "answer": "Yes, Buyer gets an option to select Financial document as required from the Seller incase this provision is enabled at the Product Category level."
+        },
+        {
+            "id": "buyer100357",
+            "question": "During Bid to RA, in case L1 Bidder is non MSE/MII &amp; MSE/MII Bidders fall within price band but happen to be outside the RA Qualifying rule then shall MSE/MII Bidders be eligible for Participating in RA?",
+            "answer": "Yes, in case L1 Bidder is non MSE/ non MII then MSE/MII Bidders shall be eligible for participating in the RA falling in the required price band. MSE/MII Exclusion shall be applicable for both 50% Technically qualified seller elimination rule and H1 elimination rule provided : A] 50% RA eligibility rule If L1 is MSE, L1+15% Band eligibility will not be considered for RA qualification as per the 50% Bid to RA qualification rule. If L1 is MII, L1 + 20% Band eligibility will not be considered for RA Qualification. as per the 50% Bid to RA qualification rule. B] H1 elimination  If L1 is MSE in Bid; H1 will be eliminated irrespective of their MSE status.If L1 is MII in Bid, H1 will be eliminated irrespective of their MII status."
+        },
+        {
+            "id": "buyer100358",
+            "question": "What is the minimum count up to which Sellers &amp; OEM can go ahead in Bid to RA without being Eliminated?",
+            "answer": "During Bid to RA, offers of minimum 3 Sellers &amp; 2 OEM's are required to be considered without being Eliminated."
+        },
+        {
+            "id": "buyer100359",
+            "question": "What is ePBG?",
+            "answer": "The term ePBG Stands for Electronic Performance Bank Guarantee. This status of ePBG is available to the buyer on the bill detail page."
+        },
+        {
+            "id": "buyer100360",
+            "question": "What are the different status of the ePBG?",
+            "answer": "There are 2 possible status of ePBG 1. \u201cVerified\u201d: This represents that the ePBG status is verified.2. \u201cePBG non-verified\u201d: This represents that the ePBG status is either not initiated or not verified."
+        },
+        {
+            "id": "buyer100361",
+            "question": "How many types of RA Qualifiying criterias are available for the Buyer to select from?",
+            "answer": "The Buyer gets a choice to select any one from the two RA Criteria, 1) 50% Technically qualified Bidders to ahead in RA,2) H1 elimination, the bidder whose Prices remain the highest gets eliminated."
+        },
+        {
+            "id": "buyer100563",
+            "question": "I am a Buyer; I am unable to move to the Technical Evaluation step. What may be the reason?",
+            "answer": "In Order to move ahead in the Technical Evaluation stage no representations created by any of the Sellers ought to be pending at your end for response. Buyer needs to respond to the representations of the seller(s) &amp; then proceed with Technical evaluation."
+        },
+        {
+            "id": "buyer100564",
+            "question": "Within how much time a Buyer can proceed with Financial Bid Opening upon completion of Technical Evaluation for Shorter duration Bids (i.e. Bid end duration between 3 to 10 days",
+            "answer": "Challenge Rejection window is made available for the Seller(S) for shorter duration Bids. However if no Challenge rejection request raised by the Seller, Buyer would be able to proceed to open Financial Bids after 12 hours for short duration bids"
+        },
+        {
+            "id": "buyer100565",
+            "question": "In Bid to RA bidding under which circumstances a RA(reverse Auction ) can be extended?",
+            "answer": "In Bid to RA , a RA is extendable, if there is no Seller participation."
+        },
+        {
+            "id": "buyer100566",
+            "question": "How many times can a Buyer Extend RA in case of Seller non participation in a particular RA?",
+            "answer": "Buyer can extend RA maximum up to three times. Auto extension due to Seller input Price takes place as per Buyer configuration .Please note \u2013\u2018In case of consecutive Price submission by the same Bidder/Seller, the count of Auto extension shall not get changed ; i.e. No decrement of the count w.r.t (with respect to) maximum count configured by the respective Buyer is possible. Counter remains unchanged though the Seller price gets submitted."
+        },
+        {
+            "id": "buyer100567",
+            "question": "The RA decremental counter doesn\u2019t function in spite of Seller having submitted a reduction in Price?",
+            "answer": "Kindly check whether the same Seller is consecutively submitting Price reduction through RA.In such event the Seller\u2019s price gets submitted however there is no effect on the counter."
+        },
+        {
+            "id": "buyer100568",
+            "question": "I wish to View High Value Bids published on GeM portal? How can I do so?",
+            "answer": "Public bid listing page: High value Bids filter checkbox is displayed on Bid listing page (Ongoing Bids) for all the sections. When High value Bids filter is checked, all the Bids with estimation value greater than or equal to 2 Crs will be displayed in the Bid listing page under particular section."
+        },
+        {
+            "id": "buyer100569",
+            "question": "Is schedule/Item wise evaluation possible in case of selection of AMC/CMC?",
+            "answer": "Yes Schedule wise/Item wise evaluation is possible with AMC/CMC selection."
+        },
+        {
+            "id": "buyer100570",
+            "question": "In Bunch bidding Item wise evaluation with selection AMC/CMC, if there are only 2 items out of which single item is enabled for AMC/CMC other item doesn\u2019t have AMC/CMC election at category level, how does the handling take place?",
+            "answer": "In the above scenario the system shall behave as a normal bid &amp; shall capture the details against the Single Item for which AMC/CMC is enabled in the particular category."
+        },
+        {
+            "id": "buyer100803",
+            "question": "I am creating a bid with say 'n' number of items; can I opt for both AMC and CMC in a single item?",
+            "answer": "No, buyer can opt for only one option at a time either AMC or CMC."
+        },
+        {
+            "id": "buyer100804",
+            "question": "As a Buyer, can I select AMC/CMC feature with Buyback as an option?",
+            "answer": "No, in case Buyer is opting for Buyback option then AMC/CMC feature cannot be opted."
+        },
+        {
+            "id": "buyer100805",
+            "question": "AMC/CMC option is not appearing for some products only while creating bunch bid?",
+            "answer": "You may have to check whether the option of AMC/CMC is enabled for that particular product as category owners need to enable this option after that the buyer can opt for AMC/CMC."
+        },
+        {
+            "id": "buyer100806",
+            "question": "In what cases, the option of Auto CRAC days will come?",
+            "answer": "The option is enabled only when Buyer is opting for Post-dispatch inspection while creating bid on bid details page."
+        },
+        {
+            "id": "buyer100807",
+            "question": "What values are allowed to be entered for Auto CRAC days?",
+            "answer": "While cataloging product, there are 2 options i.e. Min. auto CRAC days and Max. Auto CRAC days, buyer is allowed to enter values ranging between these two fields."
+        },
+        {
+            "id": "buyer102443",
+            "question": "Can Service provider quote less than floor price set by GeM or Buyer?",
+            "answer": "Service provider quoting less than floor price set by buyer or GeM will be disqualified automatically"
+        },
+        {
+            "id": "buyer95575",
+            "question": "What should I do if error popped up as \"Seller PFMS unique code missing\" while updating payment in PFMS?",
+            "answer": "This error throws up when sellers bank account is not verified by the PFMS. In such case, you are advised to contact the seller and request him to update his bank account details in his profile by clicking on \"PFMS Code Verification button\" in Bank Details section of Seller Profile."
+        },
+        {
+            "id": "buyer100216",
+            "question": "I have done offline payment for my orders. How can I update my payment steps?",
+            "answer": "Please follow below steps for updating your payment status in Gem Portal: 1. Login to gem portal with buyer user id and password. 2. Click on Dashboard. 3. Click on Bills. 4. Click on that particular contract. 5. Click on show Bill. 6. Click on view bill and process bill. 7. Select the payment mode. 8. Fill the details.9. Click on submit."
+        },
+        {
+            "id": "buyer100217",
+            "question": "How can I get the funds from the previous financial year unblocked in PFMS?",
+            "answer": "As per government rules the balance budget allocation of previous financial year would get lapsed in PFMS on 31st March and payment is to be made from current financial year\u2018s budget."
+        },
+        {
+            "id": "buyer100423",
+            "question": "Is DDO a valid role for \"State\" payment method?",
+            "answer": "No, DDO is not a valid role for \"State\" payment methods. DDO is applicable only for payment methods that have blocking options \"PFMS\", IFMS, CRPF and \"GPA (GeM Pool Account)\"."
+        },
+        {
+            "id": "buyer100218",
+            "question": "How can a primary user deactivate a secondary user?",
+            "answer": "Primary user can de-activate a secondary user by clicking on the \"Deactive/Transfer\" button available beside that particular secondary user under \"Manage Posts\"."
+        },
+        {
+            "id": "buyer100219",
+            "question": "What are the pre-requisites for secondary user registration?",
+            "answer": "The pre-requisites for secondary user registration are: 1. Aadhaar number of the user. 2. Mobile number which is linked with Aadhaar. 3. Email ids register with such domain based email ids, which are hosted by NIC. Note: Only NIC Registered email ids are allowed ( Secondary users of an organization should be either of the same domain or email id ending with gov.in/ nic.in/ gembuyer.in/)\".For Example:- If primary user having a \"bicpu.edu.in\" domain which is hosted on NIC, for secondary users \"bicpu.edu.in\" @gov.in,@nic.in &amp; @gembuyer.in domains are allowed but it should be register at NIC."
+        },
+        {
+            "id": "buyer100220",
+            "question": "What details of the secondary user can a primary user edit?",
+            "answer": "A primary user can edit designation, division and roles of a secondary user after clicking on \"Manage Post\" button."
+        },
+        {
+            "id": "buyer95576",
+            "question": "What are the pre-requisites for primary user registration?",
+            "answer": "\"The prerequisites for primary user registration are: 1. Aadhaar number of the user. 2. Mobile number which is linked with Aadhaar. 3. Email ids hosted by NIC, only NIC registered Email ids are allowed, this would facilitate users from all 1600+ domains to freely register and transact on GeM. 4. Verifying authority details such as name, mobile number and NIC registered email id.Note: In case the user does not have an email id which is hosted by NIC s/he would be directed to open GeM buyer id email.\""
+        },
+        {
+            "id": "buyer95577",
+            "question": "Is Aadhaar mandatory for primary user registration?",
+            "answer": "Yes, Aadhaar is mandatory for primary user registration. Note: Aadhaar details collected by GeM are solely for user verification."
+        },
+        {
+            "id": "buyer95578",
+            "question": "What are the key tasks of a primary user?",
+            "answer": "The key tasks of a primary user are: \u2022 Self registration \u2022 Filling organization details \u2022 Creation/modifications of secondary users  \u2022 Monitoring of orders placed \u2022 Administration of GeM procurements \u2022 In case the primary user gets transferred or retires from the organization, he/she needs to transfer the primary user account"
+        },
+        {
+            "id": "buyer95579",
+            "question": "How can a user verify his/her email ID during registration?",
+            "answer": "You must have a NIC registered email id to register,upon entering the NIC registered email id like gov.in/nic.in etc. during registration, the email will be verified by NIC. On successful validation by NIC, the user will get an email message with a one-time password for continuing with the registration process."
+        },
+        {
+            "id": "buyer95580",
+            "question": "Can a primary user change his/her user ID?",
+            "answer": "No, a primary user cannot change his/her user ID once it is created. It is advisable that the user ID is carefully created as per the designation or department."
+        },
+        {
+            "id": "buyer95581",
+            "question": "I forgot my password. How do I reset it?",
+            "answer": "Go to login page on www.gem.gov.in and click on \"Forgot your password\". Enter your user ID, captcha and click on \"Submit\". A reset password link will be sent to your registered email ID, which can be used to reset your password."
+        },
+        {
+            "id": "buyer95582",
+            "question": "Why have I not received an OTP during registration?",
+            "answer": "One-time password (OTP) is sent on your Aadhaar linked mobile number. If you haven't received the OTP, please ensure that your mobile number is linked with your Aadhaar."
+        },
+        {
+            "id": "buyer95583",
+            "question": "Is there any specific criteria for creating password on GeM?",
+            "answer": "Yes, the password must be a minimum of 8 characters in length, containing upper case, lower case, numbers and special characters. Example Password:Gem@2018"
+        },
+        {
+            "id": "buyer95584",
+            "question": "Who is a verifying authority and what is his/her role in primary user registration?",
+            "answer": "Verifying authority is a person who verifies the details of the primary user. An officer of the same rank /one rank lower/one rank higher, can register as a verifying authority. He/she must have a NIC registered email ID."
+        },
+        {
+            "id": "buyer95585",
+            "question": "Can the verifying authority play any other role in the organisation?",
+            "answer": "Yes, Other roles can be assigned to the verifying authority, except the role of HoD."
+        },
+        {
+            "id": "buyer95586",
+            "question": "Is it possible for the primary user to edit/change personal information?",
+            "answer": "Yes, a primary user can edit his/her personal information like email id, mobile number, designation and password. However, any alteration to the name is not possible."
+        },
+        {
+            "id": "buyer95587",
+            "question": "What happens if the verifying authority clicks on the deactivation link erroneously?",
+            "answer": "The verifying authority receives an email after the primary user completes registration successfully. If the verifying authority clicks on the deactivation link (within 48hrs) by mistake, the primary user will get disabled."
+        },
+        {
+            "id": "buyer95588",
+            "question": "Is it possible to change the verifying authority for the organisation?",
+            "answer": "No, it is not possible to change the verifying authority for the organisation."
+        },
+        {
+            "id": "buyer95589",
+            "question": "Is it mandatory to provide an organisation GSTIN for department?",
+            "answer": "No, It is not mandatory to provide an organisation GSTIN for department."
+        },
+        {
+            "id": "buyer95590",
+            "question": "Can a primary user play the role of a buyer?",
+            "answer": "No, a primary user cannot take part in procurement. Primary user needs to create secondary user, i.e., buyers for procurement. However, a Primary user can be a consignee to receive a product/service."
+        },
+        {
+            "id": "buyer95591",
+            "question": "How many divisions can a primary user create?",
+            "answer": "A primary user can create as many divisions as required for the organization."
+        },
+        {
+            "id": "buyer95592",
+            "question": "Is it possible for the primary user to edit/deactivate the divisions created?",
+            "answer": "Yes, the primary user can edit/deactivate the divisions whenever required."
+        },
+        {
+            "id": "buyer95594",
+            "question": "Is it possible for the secondary user to edit the user ID?",
+            "answer": "No, it is not possible for the secondary user to edit the user ID, as it is created by the primary user."
+        },
+        {
+            "id": "buyer95595",
+            "question": "Is it mandatory for a secondary user to provide Aadhaar and mobile number linked with Aadhaar?",
+            "answer": "Yes, it is mandatory for a secondary user to provide Aadhaar and mobile number linked with Aadhaar. Note: Aadhaar details collected by GeM are solely for user verification."
+        },
+        {
+            "id": "buyer95596",
+            "question": "Who creates the user ID for the secondary user?",
+            "answer": "The primary user creates the user ID of the secondary user. However, the password needs to be created by the secondary user."
+        },
+        {
+            "id": "buyer95597",
+            "question": "Is it possible for the buyer/consignee to play the role of PAO?",
+            "answer": "No, it is not possible for the buyer/consignee to play the role of PAO (paying authority) in the organization."
+        },
+        {
+            "id": "buyer95598",
+            "question": "Is it possible for the primary user to be the payment authority for the organization?",
+            "answer": "No, it is not possible for the primary user to be the payment authority for the organization."
+        },
+        {
+            "id": "buyer95600",
+            "question": "How does a secondary user activate himself?",
+            "answer": "For secondary user activation, Click on the \"Activation link\" sent to email id entered by Primary user, Enter \"Aadhaar Number\" &amp; \"Aadhaar link Mobile Number\", Verify through OTP and create your account's password."
+        },
+        {
+            "id": "buyer95601",
+            "question": "What happens if the primary user enters a wrong email ID while creating a post?",
+            "answer": "If the primary user enters a wrong email ID while creating a post, the secondary user will not be able to receive the activation link. To recitfy the same, the primary user has to create the post again with a change in the designation and enter the correct email ID. or he can go to user tab -&gt; select exisiting post -&gt;enter correct email id."
+        },
+        {
+            "id": "buyer95602",
+            "question": "Why is the status of one of my secondary users still inactive, when I have added all the secondary users successfully?",
+            "answer": "This is because that particular secondary user has not activated himself/herself. To activate, the user needs to click on the activation link received in his/her email ID."
+        },
+        {
+            "id": "buyer95603",
+            "question": "If the payment mode is PFMS, who will be the payment authority?",
+            "answer": "If the payment mode is PFMS, the primary user needs to register DDO as the payment authority."
+        },
+        {
+            "id": "buyer95605",
+            "question": "As a secondary user I am not able to login to my account and the system reflects that I have been disabled. What is the solution?",
+            "answer": "The primary user has deactivated you as a secondary user. Hence, you are not able to login to your account. If you want to activate your account, you may request the primary user to activate your account."
+        },
+        {
+            "id": "buyer95606",
+            "question": "After deactivation, is it possible for the primary user to reactivate a secondary user?",
+            "answer": "After a secondary user is deactivated, the primary user can again activate the same user by clicking on the \"Activate\" button beside the user under \"Manage Posts\"."
+        },
+        {
+            "id": "buyer95607",
+            "question": "What needs to be done if the ministry/department/organization name is not available in the drop down menu?",
+            "answer": "If your ministry/department/organization name is not available in the list, primary user/HOD needs to verify Aadhaar with OTP as well as select organization type after clicking on \"Request for New Organization\" link. Followed by selecting \"Others\" in department drop down and manually entering department name, mentioning the reason in the comment box before clicking on \"Submit Request\u201d."
+        },
+        {
+            "id": "buyer95608",
+            "question": "What is the use of \"Not *** User\" under \u201cMy Profile\u201d?",
+            "answer": "If primary user is going on a short leave or wants to delegate the power for a short period of time, user may select the option NOT THE MENTIONED USER."
+        },
+        {
+            "id": "buyer95609",
+            "question": "If a primary user retires or gets transferred from the organization, how can an organization proceed with the same account on GeM?",
+            "answer": "The primary user needs to click on \"Deactivate Account\" button under \"My Profile\" option and enter the email ID of the new primary user. Upon confirming his/her own deactivation, the account gets transferred to the new primary user. The new primary user will receive activation link in his/her email ID, which can be used to login with the same user ID."
+        },
+        {
+            "id": "buyer100172",
+            "question": "What is the new login process for Buyers with NIC or govt registered email domains to log in on GeM?",
+            "answer": "New process to log in on the GeM portal is as follows: 1. Enter GeM user ID followed by the Captcha as displayed on the screen.2. On a successful validation, the user is required to enter the password for the masked \u2018NIC or the government registered\u2019 email id associated with the GeM user id and submit."
+        },
+        {
+            "id": "buyer100173",
+            "question": "I am a govt. buyer but do not have email domain registered with NIC. What should I do?",
+            "answer": "Govt. buyers whose email domains are not registered with NIC, will be able to register on GeM. However, you are required to get your domain registered with NIC or apply for a gembuyer.in domain account with GeM."
+        },
+        {
+            "id": "buyer100232",
+            "question": "What are the major reasons for not being able to log in to my account?",
+            "answer": "Major reasons for not being able to log in : -You are entering invalid user_id and password. Please check the same. -You are entering the incorrect captcha. Please check the same.-Your cache memory is not cleared so either clear it or you can try in incognito mode."
+        },
+        {
+            "id": "buyer100808",
+            "question": "What is the Indentor role?",
+            "answer": "A Indentor is a new role created under HOD on GeM for searching and adding the product to Cart."
+        },
+        {
+            "id": "buyer100809",
+            "question": "What can Indentor do?",
+            "answer": "The Indentor should be able to search for a product/service on the market place and add it to the cart. After carting, the Indentor should be able to transfer the cart to the normal buyer. Post assignment, normal buyer should be able to carry on with the existing flow."
+        },
+        {
+            "id": "buyer95610",
+            "question": "What are the modes of payment for Central Government?",
+            "answer": "The available modes of payment for Central Government are PFMS and Others."
+        },
+        {
+            "id": "buyer95611",
+            "question": "What are the modes of payment for State Government?",
+            "answer": "The available modes of payment for State Government are GPA, Internet Banking, IFMS and State."
+        },
+        {
+            "id": "buyer95612",
+            "question": "What are the modes of payment for Defence?",
+            "answer": "The available modes of payment for Defence are Internet Banking and CGDA."
+        },
+        {
+            "id": "buyer95613",
+            "question": "What are the modes of payment for Railways?",
+            "answer": "The available modes of payment for Railways are Internet Banking and Railways."
+        },
+        {
+            "id": "buyer95614",
+            "question": "How can I check my contract details?",
+            "answer": "To check contract details, login to your account and go to the \u201cDashboard\u201d. Then click on \"Product/Service Order\""
+        },
+        {
+            "id": "buyer95615",
+            "question": "Can a buyer decline a demand after it has been created?",
+            "answer": "Yes, a buyer can decline a demand after it has been created. The buyer needs to login to his/her account, click on \"Dashboard\" and decline the particular demand under \"All Demands\" section."
+        },
+        {
+            "id": "buyer95616",
+            "question": "What is a \u201cPAC\u201d filter and how does it work?",
+            "answer": "\u201cPAC\u201dor \u201cProprietary Article Certificate\u201d filter is used to purchase a particular make or model. This is a certificate signed by a competent authority which the buyer needs to provide."
+        },
+        {
+            "id": "buyer95617",
+            "question": "How can a buyer buy a product from \u201cMSE\u201d (Micro, Small Enterprises)?",
+            "answer": "In order to purchase MSE product, buyer needs to select \"MSE\" filter available under \"Administrative\" section. This filter will enable the buyer to view only the MSE sellers."
+        },
+        {
+            "id": "buyer95618",
+            "question": "What is \u201cMake in India\u201d filter?",
+            "answer": "\"Make in India\" filter enables the buyer to view only those products which are manufactured in India. This filter is available under \"Administrative\" section."
+        },
+        {
+            "id": "buyer95620",
+            "question": "Where can a buyer select consignee location?",
+            "answer": "Under \"Administrative filter\" section, click on \"Select Consignee\" and select the consignee details."
+        },
+        {
+            "id": "buyer95621",
+            "question": "For how long does a product remain in the cart after its addition?",
+            "answer": "A product remains in the cart for 10 days, after its addition."
+        },
+        {
+            "id": "buyer95623",
+            "question": "What tools are available on GeM to ensure Price reasonability?",
+            "answer": "Procurement decision including price is prerogative and responsibility of Buyer. GeM provides a robust decision support system for ensuring price reasonableness for Buyer. Buyer can also view price trends basis the historical transaction of that product on GeM."
+        },
+        {
+            "id": "buyer95625",
+            "question": "Is it mandatory for a buyer to verify contract through OTP?",
+            "answer": "Yes, it is mandatory for a buyer to verify a contract through OTP/ DSC/ e-Sign."
+        },
+        {
+            "id": "buyer100424",
+            "question": "What is Direct Purchase?",
+            "answer": "Direct Purchase enables a buyer to buy products upto Rs. 25,000 without comparison(except automobiles where Direct Purchase does not have any limit), through any of the available sellers on GeM, meeting the requisite quality, specification and delivery period."
+        },
+        {
+            "id": "buyer100425",
+            "question": "Is it possible for a buyer to edit the delivery days?",
+            "answer": "No, it's not possible for the buyer to edit the Delivery date, Buyer can amend the Delivery period post contract generation."
+        },
+        {
+            "id": "buyer100426",
+            "question": "What are the eligibility criteria for Delivery Period(DP) amendment?",
+            "answer": "Orders created through any payment gateway and any purchase mode, irrespective of the order value, can be eligible for delivery period amendment before the invoice creation of all the shipments."
+        },
+        {
+            "id": "buyer100427",
+            "question": "Who will issue the amendment letter/ document?",
+            "answer": "For Both Seller/Buyer initiated amendment, Buyer will always issue the amendment document."
+        },
+        {
+            "id": "buyer100428",
+            "question": "For how many times DP amendment is allowed?",
+            "answer": "DP amendment can be allowed multiple times before the invoice creation of all the shipments."
+        },
+        {
+            "id": "buyer100429",
+            "question": "Will my contract number get changed if I process a DP amendment?",
+            "answer": "Contract number cannot change. System will only generate an amendment document."
+        },
+        {
+            "id": "buyer95627",
+            "question": "What is a comparison sheet and from where can a buyer download it?",
+            "answer": "For L1 purchase, the buyers need to compare three OEMs and the comparison sheet reflects the specifications, price, etc. Comparison sheet can be downloaded from the cart."
+        },
+        {
+            "id": "buyer95628",
+            "question": "How many OEMs does a buyer need to compare for L1 purchase?",
+            "answer": "A buyer must compare three OEMs to proceed for L1 purchase."
+        },
+        {
+            "id": "buyer95629",
+            "question": "If my payment mode is PFMS, is it mandatory to enter the IFD diary number?",
+            "answer": "Yes, it is mandatory to enter the IFD diary number and date if your payment mode is PFMS."
+        },
+        {
+            "id": "buyer95630",
+            "question": "Why am I not able to view PAO/DDO in my drop down list while creating a contract?",
+            "answer": "You are not able to view PAO/DDO in your drop down list while creating contract because the primary user has not created PAO/DDO."
+        },
+        {
+            "id": "buyer100430",
+            "question": "What is L1 purchase?",
+            "answer": "L1 purchase enables direct purchase for order values between INR 25,000 to INR 5 lakhs by way of comparison between at least three different OEMs or Service Providers on GeM, who meet the buyers requisite quality, quantity, specifications and delivery period."
+        },
+        {
+            "id": "buyer95634",
+            "question": "What is Intent Bid?",
+            "answer": "Buyer can choose \"Intent of Bid\" to create a bid without comparison of products/ services. He/She will be able to browse through all the products/services in the market (without any restriction of quantity or State)."
+        },
+        {
+            "id": "buyer95635",
+            "question": "Till when a Buyer can extend an Ongoing Bid?",
+            "answer": "Buyer can extend the Bid End Date till the 69th Day of Bid life-cycle. Bid Life-cycle is default 90 days from Bid Start Date."
+        },
+        {
+            "id": "buyer95636",
+            "question": "What is Bid Life Cycle?",
+            "answer": "Bid Life Cycle is the period within which a Buyer has to complete the entire life cycle i.e technical evaluation, financial evaluation and order creation of Bid process. By default, it is 90 days from the date of Bid publication."
+        },
+        {
+            "id": "buyer95638",
+            "question": "What is Bid Offer Validity?",
+            "answer": "Bid Offer Validity is the period during which Seller Offer is valid from the Bid End Date. The Buyer needs to award the Order within the Bid Offer Validity Period."
+        },
+        {
+            "id": "buyer95640",
+            "question": "How is Bid Offer Validity different from Bid Life-Cycle?",
+            "answer": "Bid Offer Validity commences from Bid End Date whereas Bid Life-cycle commences from Bid Start/Publish Date."
+        },
+        {
+            "id": "buyer95641",
+            "question": "Can buyer mention Inspection Clause during bid creation?",
+            "answer": "Yes, Buyers can select the Inspection Clause while creating bid under Buyer Specific Additional Terms &amp; Conditions."
+        },
+        {
+            "id": "buyer95642",
+            "question": "Can buyer give exemption for turnover and experience to startup in bid?",
+            "answer": "If the Buyer selects \u201cStart-up exemption for Years of Experience and Annual Turnover\u201d as 'Yes' during bid creation, only then the exemption is applicable. The same is reflected in bid document."
+        },
+        {
+            "id": "buyer95643",
+            "question": "If only one seller has qualified in technical evaluation, can buyer proceed with awarding of Bid?",
+            "answer": "It is at buyers discretion to award the bid even if only one seller has qualified in technical evaluation"
+        },
+        {
+            "id": "buyer95644",
+            "question": "Can buyer ask for Earnest Money Deposit (EMD) in Bid?",
+            "answer": "Yes, buyer can opt for EMD for bids whose estimated bid value is above Rs. 5 Lakhs."
+        },
+        {
+            "id": "buyer95645",
+            "question": "Can buyer ask for Electronic Performance Bank Guarantee (ePBG) in Bid?",
+            "answer": "Yes, buyer can opt for ePBG for bids whose estimated bid value is above Rs. 5 Lakhs."
+        },
+        {
+            "id": "buyer95647",
+            "question": "How many consignees can be uploaded through the excel template?",
+            "answer": "The buyer can upload consignees as per the requirement. These consignees should be registered on GeM which are then required to be mapped prior to awarding Bid."
+        },
+        {
+            "id": "buyer95648",
+            "question": "Can I add more consignees during the creation of Bid?",
+            "answer": "Yes, you can add more consignees during the creation of Bid by uploading excel sheet under the consignee list. Later, unregistered consignees need to be resistered mapped by the primary user and then mapped by the buyer."
+        },
+        {
+            "id": "buyer95649",
+            "question": "Is it possible to change the quantity of product/service and delivery days while creating a Bid?",
+            "answer": "Yes, it is possible to change the quantity of product/service and delivery days during the creation of Bid under consignees."
+        },
+        {
+            "id": "buyer95650",
+            "question": "What are the additional documents a Buyer can demand from the seller for Bid participation?",
+            "answer": "A Buyer can demand for documents such as Experience Certificate with Government, Turnover Certificate, MSE Registration Certificate, Certificates as per Additional Terms &amp; Conditions and OEM Authorization Certificate."
+        },
+        {
+            "id": "buyer95652",
+            "question": "Can a Buyer edit \"Buyer Specific Terms and Conditions\" post publishing the Bid?",
+            "answer": "Yes, a Buyer can edit \"Buyer Specific Additional Terms and Conditions\" at any time, prior to three days to the Bid end date, provided no sellers have participated in the Bid. A corrigendum will be issued for the revision and will override the previous version of \"Buyer Specific Terms and Conditions\" mentioned in the Bid document."
+        },
+        {
+            "id": "buyer95653",
+            "question": "Can a Buyer evaluate seller's technical offering on the basis of Sample/POC ?",
+            "answer": "No, the evaluation of the Bids is to made as per the laid down technical specifications and eligibility criteria in an objective manner without any scope of subjectivity."
+        },
+        {
+            "id": "buyer95654",
+            "question": "If a technically qualified seller, is Suspended or Disabled during Technical Evaluation, what action will be taken against such sellers?",
+            "answer": "All Suspended and Disabled sellers will be auto disqualified by the system on Financial Opening."
+        },
+        {
+            "id": "buyer95657",
+            "question": "If a Bid has Ended, can the Buyer extend the Bid?",
+            "answer": "If number of total participation in Bid is upto 2, Buyer has option to either extend the Bid or Open Technical Bid."
+        },
+        {
+            "id": "buyer95658",
+            "question": "How can I request L2 /L3 Seller(s) to match L1 Price in Split Bid?",
+            "answer": "Buyer can click on 'Request for L1 Price Match' with L2/L3 sellers. The price match is completed within 3 days time frame from the request date."
+        },
+        {
+            "id": "buyer95659",
+            "question": "In split Bid, If L2&amp; L3 sellers do not match L1 price, can the remaining quanity be awarded to L1 seller?",
+            "answer": "Yes, The remaining quanity can be awarded to L1 seller."
+        },
+        {
+            "id": "buyer95660",
+            "question": "Is it possible to edit a CRAC after it is generated?",
+            "answer": "No, there is no option to edit CRAC after it is confirmed."
+        },
+        {
+            "id": "buyer95661",
+            "question": "Can Buyers ask for changes in EMD, ePBG &amp; Delivery Days of Bid after Order/ Contract creation?",
+            "answer": "No, the terms and conditions of the bidding document are sacrosanct and the resultant contract is legally governed by these conditions. Deviating from those conditions unilaterally and unnecessarily may create hurdles in smooth execution of the contract. No Deviation from the contract is permissible."
+        },
+        {
+            "id": "buyer95662",
+            "question": "Can vendor rating be applied as a participation criteria for Bid participation?",
+            "answer": "No, Buyers can only apply the Vendor Rating as a filter in the market. It cannot be applied as a participation criteria in Bid."
+        },
+        {
+            "id": "buyer95663",
+            "question": "What are the two stages of Bid Awarding?",
+            "answer": "The two stages of Bid Awarding are technical and financial."
+        },
+        {
+            "id": "buyer95664",
+            "question": "Is it possible to cancel a Bid after opening it?",
+            "answer": "Yes, it is possible to cancel a Bid after opening it."
+        },
+        {
+            "id": "buyer95665",
+            "question": "If the buyer has rejected a seller during selection of technical specifications, will he/she be able to view that seller's financial offering?",
+            "answer": "No, the user will not be able to view the financial offering of those sellers who he/she has rejected during evaluation of technical specifications."
+        },
+        {
+            "id": "buyer95666",
+            "question": "Is it mandatory to enter a comment when the buyer accepts or rejects a Bid?",
+            "answer": "Yes, it is mandatory to enter a comment when the buyer accepts or rejects a Bid."
+        },
+        {
+            "id": "buyer99935",
+            "question": "What details do I need to share with GeM for Bid Life cycle extension?",
+            "answer": "For Bid Life Cycle Extension, the Buyer needs to share below mentioned details with GeM: i) Existing Validity of the Bid ii) If the Bid is opened or not, if not when is the expected Bid opening date iii) Valid reason for extension of Bid Validity iv) Consent from L1 seller v) Approval taken from Competent Authority."
+        },
+        {
+            "id": "buyer99936",
+            "question": "How long is an offer validity extension request valid?",
+            "answer": "Seller has to accept/reject the offer validity request within 5 days from the initiated date."
+        },
+        {
+            "id": "buyer100179",
+            "question": "What does Bid opening Date/Time signify?",
+            "answer": "Bid opening Date/Time is published as an indicative time, to notify sellers regarding the scheduled Bid opening time. Buyers can proceed with Bid opening only after the published bid opening time."
+        },
+        {
+            "id": "buyer100180",
+            "question": "Can a Buyer edit Bid opening time?",
+            "answer": "No, Bid opening time is default set as Bid end date + 30 Minutes. It cannot be edited by the buyer."
+        },
+        {
+            "id": "buyer100211",
+            "question": "How much time does the bidder have to respond to a clarification request raised by the Buyer online?",
+            "answer": "The Bidder has to respond within 48 hours from the clarification request initiation time. Buyers can seek as many clarifications required from the Bidder, provided it is before technical evaluation end time."
+        },
+        {
+            "id": "buyer100268",
+            "question": "What are the Eligibility criteria for PVC(Price variation Clause)?",
+            "answer": "PVC (Price Variation Clause) is applicable only for BID/RA orders.PVC is applicable only for the product orders of categories against which PVC is enabled."
+        },
+        {
+            "id": "buyer100269",
+            "question": "How do buyers opt for PVC?",
+            "answer": "For the PVC enabled categories, buyers will get an option to select whether they want to add the PVC applicability clause against that Bid or not."
+        },
+        {
+            "id": "buyer100270",
+            "question": "What are the steps to seek offer validity extension before contract creation?",
+            "answer": "Buyer can request the extension starting from 2 days up to 30 days, multiple times up to bid life cycle date.Seller gets the request and is able to Accept/Reject the offer validity. If the seller rejects the request, the buyer can raise a fresh offer validity extension request again."
+        },
+        {
+            "id": "buyer100350",
+            "question": "Can a buyer seek clarifications against a bid submitted by the bidder?",
+            "answer": "Clause 7.3.5 of Manual for Procurement of Goods 2017 (Clarification of Bids/Shortfall Documents) permits the buyer to seek clarifications against a bid submitted by the bidder, during evaluation and comparison of bids. However, No change in prices or substance of the bid shall be sought, offered or permitted. Further, the shortfall information/documents should be sought only in case of historical documents which pre-existed at the time of the tender opening and which have not undergone change since then. Such clarifications can be sought by the buyers online on GeM portal."
+        },
+        {
+            "id": "buyer100362",
+            "question": "I have sent a Request for Offer validity extension to all the Sellers irrespective of their ranking, after opening the financial bids. However all the Sellers have not accepted the offer validity request but the Sellers on whom I wish to place Order on have Lowest onwards. Can I possibility go ahead with Order generation on partial offer validity acceptance?",
+            "answer": "Yes, during financial evaluation, it may so happen that few Sellers may reject offer validity extension request. As long as the Lowest Bidder(s) on whom the Order needs to be placed has accepted the offer validity extension, System shall allow bid award to such shortlisted Vendors irrespective whether other Bidder(s) have accepted this validity request or not."
+        },
+        {
+            "id": "buyer100434",
+            "question": "I wish to Evaluate-undertake demonstration of Products related to Medical Equipment or any other via this Portal, how can I do so?",
+            "answer": "Buyer may add Buyer specific ATC Clause through ATC for demonstration of Products/Equipment by providing detailed instructions to the Bidders if any. The evaluation of demonstration of this Product/Equipment can be uploaded by the Buyer via TER (Technical Evaluation Report) facility available during the stage of Technical Evaluation."
+        },
+        {
+            "id": "buyer100435",
+            "question": "What happens if more than one Bidder is at the same Price level during Bid where Buyer is forced to Create a Reverse Auction (RA), yet the RA ends without any Participation?",
+            "answer": "The Buyer needs to select one of the Two Options provided to him. 1. Cancel the Bid.2. Proceed to select Manually the L1 Bidder from among the various L1 Bidders by clicking on the button 'Select' of the column from Technically Qualified Bidders."
+        },
+        {
+            "id": "buyer100436",
+            "question": "Can I change my decision of Manual selection of L1 Bidder in case of Multiple L1 Bidders when none have participated in the Reverse Auction (RA)?",
+            "answer": "Yes, Once selected a particular L1 Bidder, another Bidder can be re-selected for awarding the contract multiple times until the point wherein Buyer has not clicked on the button 'Submit &amp; Proceed'."
+        },
+        {
+            "id": "buyer100437",
+            "question": "I Wish to add BOQ Title for Bid, is this possible?",
+            "answer": "Yes, Buyer can add their own BOQ Title as per their procurement in consideration."
+        },
+        {
+            "id": "buyer100438",
+            "question": "What is Max character size that can be added for the BOQ Title?",
+            "answer": "Buyer can add Maximum 100 characters &amp; Minimum 5 Characters."
+        },
+        {
+            "id": "buyer100439",
+            "question": "What is Input Tax Credit (ITC)?",
+            "answer": "Input credit means at the time of paying tax on output, you can reduce the tax you have already paid on input purchase and pay the balance amount to the Government."
+        },
+        {
+            "id": "buyer100440",
+            "question": "Who is eligible for Input Tax Credit (ITC)?",
+            "answer": "ITC can be claimed by a person registered under GST if he/she fulfills ALL the conditions as prescribed below: a. The dealer should be in possession of tax invoice. b. The said goods/services have been received. c. Returns have been filed. d. The tax charged has been paid to the government by the supplier. e. When goods are received in installments ITC can be claimed only when the last lot is received. f. No ITC will be allowed if depreciation has been claimed on tax component of a capital good."
+        },
+        {
+            "id": "buyer100441",
+            "question": "What can be claimed an Input Tax Credit (ITC)?",
+            "answer": "ITC can be claimed only for business purposes. ITC will not be available for goods or services exclusively used for:- a. Personal use. b. Exempt supplies.c. Supplies for which ITC is specifically not available."
+        },
+        {
+            "id": "buyer100442",
+            "question": "If Input Tax Credit (ITC) is selected by the Buyer during Bid publishing, is the net ITC Benefit calculated for Financial Evaluation?",
+            "answer": "Yes, during Financial Evaluation of the BID, L1 Bidder is shortlisted based on the calculation considering the Input Tax Credit (ITC) as L1 evaluation is on the Net landed Cost to be incurred by the Buyer."
+        },
+        {
+            "id": "buyer100443",
+            "question": "What is the minimum &amp; maximum capping for GST incase of Input Tax Credit (ITC) Selection?",
+            "answer": "There will be no Minimum capping for GST% while Maximum capping is set to 28% for both Products/Services.All inclusive Prices along with GST% &amp; GST cess shall be printed in the Contract Document."
+        },
+        {
+            "id": "buyer100444",
+            "question": "Is Input Tax Credit (ITC) based Financial Evaluation selection Mandatory?",
+            "answer": "No, ITC selection is not Mandatory. Buyer gets an option 'Yes/No 'to select ITC based evaluation during Bid creation. If Buyer selects 'Yes' Buyer can input the ITC Amount in Percentage for GST &amp; GST Cess."
+        },
+        {
+            "id": "buyer100445",
+            "question": "What is the Range of Input Tax Credit (ITC) selectable by a Buyer?",
+            "answer": "The Range of ITC selectable in Percentage is from 0 to 100%."
+        },
+        {
+            "id": "buyer100446",
+            "question": "Is the Input Tax Credit (ITC) Percentage Amount selected displayed in the Bid Document in Public View?",
+            "answer": "Yes, the amount of ITC benefit in Percentage is displayed in the Bid/Tender document published."
+        },
+        {
+            "id": "buyer100447",
+            "question": "What is Reverse Charge Mechanism (RCM)?",
+            "answer": "Reverse Charge Mechanism (RCM) is a mechanism wherein the Recipient of the Goods or Services is liable to pay Goods and Services Tax (GST) instead of the Supplier."
+        },
+        {
+            "id": "buyer100448",
+            "question": "Under what circumstances is Reverse Charge Mechanism (RCM) applicable?",
+            "answer": "RCM is applicable on Sections 9(3),9(4) &amp; 9(5) of Central GST and State GST Acts-for intrastate transactions. Also on Sections 5(3), 5(4) and 5(5) of the Integrated GST Act-for inter-state transactions. 9(3)-Supply of certain goods and services specified by the CBIC. 9(4)-Supply from an unregistered dealer to a registered dealer.9(5)-Supply of services through an e-commerce operator."
+        },
+        {
+            "id": "buyer100449",
+            "question": "Who can avail Input Tax Credit (ITC) under Reverse Charge Mechanism (RCM)?",
+            "answer": "Buyers who are registered for RCM can avail ICT functionality."
+        },
+        {
+            "id": "buyer100450",
+            "question": "Reference ITC /RCM, what is Self Invoicing?",
+            "answer": "Self-invoicing is to be done when Procurement is done from an unregistered Supplier, &amp; such purchase of Goods or Services falls under RCM (Reverse Charge Mechanism).This is because the unregistered supplier cannot issue a GST-compliant invoice to the Buyer, &amp; thus Buyer is liable to pay taxes on the behalf of such unregistered Supplier. Self-invoicing, in such circumstances, becomes necessary."
+        },
+        {
+            "id": "buyer100451",
+            "question": "Is Input Tax Credit (ITC) allowed under Reverse Charge?",
+            "answer": "Yes, Tax paid on a reverse charge basis will be available for ITC if such Goods or Services are used, or will be used for business. The recipient, i.e., who pays reverse tax, can avail the ITC."
+        },
+        {
+            "id": "buyer100452",
+            "question": "In case L1 Bidder is an unregistered GST Seller, who is accountable for the Payment of Tax liability?",
+            "answer": "In the event of Procurement of Goods from unregistered Sellers, the Tax liability falls on the Buyer Provided Buyer is notified Under Section 9(4) of GST."
+        },
+        {
+            "id": "buyer100453",
+            "question": "What is the Unit of Measurement for GST Cess amount for ITC Selection?",
+            "answer": "GST Cess(GST Cess) amount incase of ITC Selection is in Percentage."
+        },
+        {
+            "id": "buyer100454",
+            "question": "What is the Unit of Measurement for GST Cess amount for RCM Selection?",
+            "answer": "GST Cess(GST Cess 1) amount incase of ITC Selection is in Percentage so also incase GST Cess(GST Cess 2) in quantum is Absolute Value."
+        },
+        {
+            "id": "buyer100455",
+            "question": "Can Splitting&amp; MSE/MII be selected for Input Tax Credit (ITC) based calculation in Financial Evaluation Ranking System?",
+            "answer": "Yes, If Buyer opts for Splitting, MSE/ MII; System will proceed with the Price match based on Total ITC applied on the Price of L1 Bidder."
+        },
+        {
+            "id": "buyer100456",
+            "question": "W.r.t RCM,In case I happen to Select 'Notified under 9 (4) ' as 'NO' &amp; Opt for 9(3) what is the consequence of this selection?",
+            "answer": "As a Buyer you shall select 'No' if not notified under section 9 (4) but opt for categories where RCM is applicable as under section 9(3) then GST &amp; GST cess shall not be an input text for the Seller during Seller participation. The types of Seller under consideration are as mentioned below: 1.Registered Seller who have Opt to choose out of FCM(Forward Charge Mechanism). 2. Sellers who are not registered under GST.3. Sellers under composition Scheme."
+        },
+        {
+            "id": "buyer100457",
+            "question": "Is Splitting enabled when MSE-MII Reservation is applied by the Buyer for Goods?",
+            "answer": "Yes, Buyer can select Splitting option with MSE/MII Reservation for Goods."
+        },
+        {
+            "id": "buyer100459",
+            "question": "I need to add &amp; save elaborate text as summary 'Seller/Bidder wise' during Technical Evaluation, is this possible?",
+            "answer": "Yes, Provision to provide Technical Evaluation summary is available to the Buyer.Provision as mentioned below is made available in the Technical evaluation Tab this being apart from the facility to upload the Technical Evaluation Report.Details as mentioned below:- 1. A comment box is provided to the Buyer to mention comments for each Seller/Bidder &amp; save it. 2. Buyer is able to view the saved comments for a later stage.3. After qualifying/disqualifying Bidder, Buyer can view the comments in the summary for a Particular Seller."
+        },
+        {
+            "id": "buyer100460",
+            "question": "I need to seek clarification(s)from the Seller for a Particular document(s) along with which I also need to upload a file for the Seller/Bidder to view which contains information relating to the clarification(s) sought?Is this possible?",
+            "answer": "Yes, Buyer gets to select a Seller Document &amp; enter the clarifications to be sought on the document(s). The clarification can be of maximum 1000 characters in text description (for each document). Additionally, Buyer also gets to upload a PDF File (upto 5 MB) for seeking clarification from the Seller.The text description is Mandatory field for the Buyer, whereas the document upload is optional."
+        },
+        {
+            "id": "buyer100461",
+            "question": "What is the Minimum percentage that a Seller can enter for either AMC/CMC?",
+            "answer": "The Minimum Percentage that a Seller can enter for AMC/CMC amount is 3 %, Seller cannot enter an amount below the value 3 during Bid Participation."
+        },
+        {
+            "id": "buyer100462",
+            "question": "Can AMC, CMC and ICT be taken in single bid? Shall Buyer be able to exercise L1 Negotiation for all the components including the Product, ICT, AMC and CMC?",
+            "answer": "Yes, Buyer shall be able to negotiate L1 Prices for Products including ICT, AMC and CMC, resubmit the revised Rates/Prices."
+        },
+        {
+            "id": "buyer100463",
+            "question": "I need to show Bid Estimate Value in the Bid Document.How can I do so?",
+            "answer": "In the Bid creation step 'Bid Details' step no 3, option is provided to the Buyer to make the Bid estimate Value Visible in the Public View to all the Viewers. Buyer has to selection the radio button 'Yes/No' for this Purpose.On selecting 'Yes' Bid estimate value shall be displayed in the Bid document."
+        },
+        {
+            "id": "buyer100464",
+            "question": "I have selected the option Yes for 'Show Bid estimate value' &amp; also have edited the Bid estimate value during Bid creation step3 'Bid details'.Which value shall be displayed in the Bid document, the Market Price (Unit Price x Total Qty) or the edited Bid estimate value as Revised by the Buyer?",
+            "answer": "The Edited/Revised Bid estimate value as provided by the Buyer shall Supersede over the Market price &amp; this edited amount by the Buyer (Total Value=Unit Price x Qty) shall be displayed in the Bid document."
+        },
+        {
+            "id": "buyer100465",
+            "question": "Upto which date is the Approval of Competent Authority(CA) for MSE/MII Preference exception (applicable in case of Central Government only) accepted by the System?",
+            "answer": "The System shall accept the date within one year from the current date as the date of CA Approval sought for an Entity/Ministry coming under Central Government preview."
+        },
+        {
+            "id": "buyer100466",
+            "question": "Mandatory uploading of Approval of Competent Authority (CA) for MSE/MII Preference exception (applicable in case of Central Government only) is applicable for which type of Procurement?",
+            "answer": "CA approval for MSE/MII is applicable for Procurement of all categories under Goods &amp; Services."
+        },
+        {
+            "id": "buyer100467",
+            "question": "Can a Seller enter Buyback Price lesser than the Product price under consideration?",
+            "answer": "Yes, the Offered Price for Procurement of New Product can be less than the Buyback Price however this depends on the Quantity(Qty) under consideration.The Net Total Value/Price of Buyback must not be equal to or greater than the Net price of the Procurement of the New product. The Resultant Price (Net Price [new Product to be procured]-Net Price [Buyback] must not be equal to Zero or Negative] shall always remain Positive."
+        },
+        {
+            "id": "buyer100468",
+            "question": "Can a Quantity (Qty) of Buyback be More than the Qty of product to be procured?",
+            "answer": "Yes, Qty of Buyback item to be exchanged can be either &gt; or &lt;or= the Quantity of new items to be procured."
+        },
+        {
+            "id": "buyer100469",
+            "question": "Is Splitting allowed in buyback?",
+            "answer": "No, Splitting feature is currently disabled for Buyback."
+        },
+        {
+            "id": "buyer100470",
+            "question": "How the buyback feature can be enabled for a particular category?",
+            "answer": "The Category Manager (GeM Official) has the provision to enable and disable the buyback option for a particular category."
+        },
+        {
+            "id": "buyer100471",
+            "question": "What is the Minimum Estimate Proposal Value required for BOQ based bidding?",
+            "answer": "INR 5 Lacs is the Minimum Estimated Proposal Value required for selecting BOQ based bidding."
+        },
+        {
+            "id": "buyer100472",
+            "question": "What are the Types of Evaluation Methods available for BOQ based bidding.",
+            "answer": "Total Value wise, Item wise &amp; Group wise are the methods available for BOQ based Bidding."
+        },
+        {
+            "id": "buyer100473",
+            "question": "What type of File is supported for uploading a Technical Specification for BOQ based bidding.",
+            "answer": "PDF File of size not exceeding 25 MB is supported for uploading Technical Specifications in BOQ Based bidding."
+        },
+        {
+            "id": "buyer100474",
+            "question": "What is the type of File supported for uploading BOQ item list for a BOQ based bidding?",
+            "answer": "CSV type of file size not exceeding 25 MB is supported for uploading List of BOQ items in a BOQ based Bidding."
+        },
+        {
+            "id": "buyer100475",
+            "question": "Which types of Buyers are eligible for creation of Custom Bid?",
+            "answer": "The following categories of Buyers are eligible for the creation of custom bids within the eligibility of 5 Lacs (i) Central Government (including Defense and Railways) (ii) Central PSU (iii) Central Autonomous (iv) Statutory BodiesOther Buyers shall remain restricted from creation of Custom Bids. Central, as well as state buyers are allowed for custom bids with the eligibility of 5 lacs."
+        },
+        {
+            "id": "buyer100476",
+            "question": "Up to how much estimated Proposal/Bid value is required to create a Custom Bid.",
+            "answer": "The estimated value for creation of Custom bid is Equal to or Greater than 5 Lacs for Central as well as States Buyers."
+        },
+        {
+            "id": "buyer100477",
+            "question": "Is category selection Mandatory for Custom Bid?",
+            "answer": "Yes, selection of at least one related category is Mandatory for Custom Bids. Universal category selection is not allowed in Custom Bid cases."
+        },
+        {
+            "id": "buyer100478",
+            "question": "Who is accountable for the Rate reasonability for the orders being placed?",
+            "answer": "As per the Rule 149 of GFR of 2017 while making Procurement of Goods/Services through GeM, The Procuring Authorities is accountable for certifying the reasonability of rates for order placement."
+        },
+        {
+            "id": "buyer100532",
+            "question": "Can a Buyer extend Bid Offer Validity?",
+            "answer": "Yes, during Technical Evaluation as well as Financial Evaluation, Buyer can send a request to all the Sellers for seeking Offer validity extension."
+        },
+        {
+            "id": "buyer100571",
+            "question": "What is Technical Evaluator?",
+            "answer": "Technical Evaluator is a Role defined in the system for enabling Technical Members/Tender Committee of the department/organization for evaluating Bids during Technical Evaluation stage."
+        },
+        {
+            "id": "buyer100572",
+            "question": "Why is the Role of Technical Evaluator required?",
+            "answer": "As per GFR rule 189, evaluation of Technical Bids must be carried out by a CEC (Consultancy evaluation Committee) constituted by the Ministry or Department. Hence to facilitate the transfer of rights of Bids-Technical evaluation, an independent Role \u2018Technical Evaluator\u2019 apart from Buyer has been created."
+        },
+        {
+            "id": "buyer100573",
+            "question": "Who can register/create a Role of Technical Evaluator?",
+            "answer": "Primary User- Head of Department (HOD) can create Secondary user\u2019s Role of Technical Evaluator under the same Office Zone."
+        },
+        {
+            "id": "buyer100574",
+            "question": "How can I create a Role of Technical Evaluator?",
+            "answer": "The process of the creation of Technical Evaluator Users is the same as of Buyer, Consignee, and PAO. HOD (Head of Department) can create/update this Role for both New Users as well as for Existing Users. HOD would be able to create the Technical evaluator user under the same office zone. HOD will be able to update existing Technical evaluator profile."
+        },
+        {
+            "id": "buyer100575",
+            "question": "Which types of Combinations of Primary &amp; Secondary Users are possible with respect to the Role pertaining to \u2018Technical Evaluator\u2019?",
+            "answer": "A user can be assigned as Buyer or Consignee or Technical evaluator or PAO. However Technical evaluator (TE) combination with HOD, PAO &amp; DDO alone is not possible, rest combinations are possible. Example:-HOD cannot be the same as only TE; similarly TE+PAO &amp; TE+DDO cannot be the same user. TE+PAO+DDO combinations are possible with TE including Buyer Indentor."
+        },
+        {
+            "id": "buyer100576",
+            "question": "Who decides whom to assign the Role of doing Technical Evaluation of the Bids submitted by the Sellers/Bidders?",
+            "answer": "Buyer selects the User for performing the task of Technical Evaluation .The User can be Technical Evaluator/Tender Committee or Self."
+        },
+        {
+            "id": "buyer100577",
+            "question": "Which types of bids are possible with Technical Evaluator Role?",
+            "answer": "The following bids are possible with Technical Evaluator Role for both Products &amp; Services. 1. Normal bunch Bid 2. Service bunch Bid to RA 3. BOQ bid 4. Custom Bid 5. Schedule Bid to RA 6. DA BidNote: Technical evaluator is not implemented in QCBS and LCS Service Bids."
+        },
+        {
+            "id": "buyer100578",
+            "question": "What is the maximum number of Technical Evaluators that can be selected for a particular Bid?",
+            "answer": "Buyer can select Maximum 10 numbers of Technical Evaluators for a Bid."
+        },
+        {
+            "id": "buyer100579",
+            "question": "Who provides Recommendations of Technical Bids when Buyer Opts for Technical Evaluator by Technical Evaluator/Tender Committee?",
+            "answer": "The Technical Evaluator(s)(TE) provide their respective recommendations if buyer chooses Technical Evaluator. Final Remarks are provided by the Member secretary. However Qualification/Disqualification in system is done by Buyer based on the recommendations of the TE."
+        },
+        {
+            "id": "buyer100580",
+            "question": "Who is eligible for submission of Seller Representations in case of disqualification during Technical Evaluation as a part of Re-Evaluation?",
+            "answer": "Buyer can either choose \u2018Self\u2019 or the \u2018Technical evaluator\u2019 for the submission of Representations/Re-Evaluation before submission of Technical Evaluation Result. The Process of Re-Evaluation remains the same as that of the earlier Technical evaluation."
+        },
+        {
+            "id": "buyer100581",
+            "question": "I am a Buyer &amp; have selected a Single/Sole Technical Evaluator for Technical Bid Evaluation, whom shall I appoint as Member Secretary?",
+            "answer": "Select the sole/single Technical evaluator as Member Secretary."
+        },
+        {
+            "id": "buyer100582",
+            "question": "In the Role of Technical Evaluator/Tender Committee, is the selection of Member Secretary Mandatory?",
+            "answer": "Yes, the selection of one among the multiple available Technical Evaluators as Member Secretary is Mandatory."
+        },
+        {
+            "id": "buyer100583",
+            "question": "Can the \"Technical Evaluator\" seek clarification?",
+            "answer": "No, only the buyer can seek further clarification from the seller. However, sellers' clarification would be displayed to all the TE(s)."
+        },
+        {
+            "id": "buyer100584",
+            "question": "Can the \"Buyer\" be a member of the \"Tender Committee\"?",
+            "answer": "Yes, only if the user has both role i.e. Buyer and Technical Evaluator"
+        },
+        {
+            "id": "buyer100585",
+            "question": "What is Final submission in the Technical Evaluation stage?",
+            "answer": "Final Submission means that the Bid Specific Member Secretary is submitting the bid on behalf of the Tender Committee to move forward. Buyer would not be able to submit the decision i.e. qualified / disqualified if the final submission is pending at Member Secretary\u2019s end."
+        },
+        {
+            "id": "buyer100586",
+            "question": "Is RA(Bid to RA) Possible for Services where categories have Minimum Floor price enabled?",
+            "answer": "Yes, RA (Bid to RA)is possible for Services with categories for which Minimum Floor price."
+        },
+        {
+            "id": "buyer100810",
+            "question": "As a buyer, while doing Negotiations, the reason I wish to incorporate isn\u2019t specified my reason is not mentioned in the list",
+            "answer": "Now the buyer can choose the option as \u2018Others\u2019 while initiating Negotiation with the seller."
+        },
+        {
+            "id": "buyer100811",
+            "question": "What is the default Minimum &amp; Maximum number of days limit for Auto CRAC?",
+            "answer": "The Minimum and Maximum allowed default days for Auto CRAC are 10 &amp; 60 days respectively based on the selected category."
+        },
+        {
+            "id": "buyer101040",
+            "question": "Is L1 Negotiation applicable on Product as well as AMC/CMC Rates/Charges?",
+            "answer": "Yes, L1 Negotiation is applicable on Products as well as on AMC/CMC Rates/Prices/Charges.The L1 Bidder shall get a provision for reducing the Prices at Product level so also on AMC/CMC (in %) Rates.Net Present Value (NPV) is calculated by GeM for L1 ranking &amp; evaluation Purpose only . However, CMC shall be paid to the supplier at the actual value quoted in the bid"
+        },
+        {
+            "id": "buyer95667",
+            "question": "How many products can be bunched together at a time?",
+            "answer": "There is no specific limit to the number of products a buyer can bunch at a time. It depends on the requirement of the buyer. Products are bunched based on relevance of the categories."
+        },
+        {
+            "id": "buyer95668",
+            "question": "Is it possible for the user to modify the \"Item Specification\" in the Bid process?",
+            "answer": "No, the buyer cannot modify \"Item Specification\" in the Bid process as they are auto filled, based on the product specification available in the market."
+        },
+        {
+            "id": "buyer95669",
+            "question": "Can a buyer split the Bid among multiple sellers?",
+            "answer": "Yes, the Buyer can do so by selecting \"Splitting\" and applying \u201cSplit %\u201d at the time of Bid creation. The Bid order can be splitted among L1, L2, L3 sellers basis the Split %."
+        },
+        {
+            "id": "buyer95670",
+            "question": "Only Bid option is appearing, after I add product to cart. Why am I not able to view L1 or Direct Purchase?",
+            "answer": "This may be due to two reasons: 1. Your product may be worth more than Rs. 25,000 and less than 5,00,000 and you may have not carted L1 product. 2: Your cart value is above 5 lakhs."
+        },
+        {
+            "id": "buyer100300",
+            "question": "What is a BOQ based biding system?",
+            "answer": "This is a Bidding method useful when Buyer has requirement of a number of line items to be procured in a single Tender."
+        },
+        {
+            "id": "buyer100301",
+            "question": "DO I need to have a Category/Catalogue uploaded in the CMS for Publishing Tenders/Bids?",
+            "answer": "No, a Buyer can select Category 'BOQ Based Bidding' once logged in from the drop down available in the Category section and proceed by Uploading Specifications related to the Goods to be procured."
+        },
+        {
+            "id": "buyer100302",
+            "question": "How many numbers of Items/Products/Goods/Services can be added in a BOQ based bidding?",
+            "answer": "The Maximum 200 Good items can be added in a sheet for BOQ based bidding. Services facility is not available so far in BOQ based bidding."
+        },
+        {
+            "id": "buyer100303",
+            "question": "Can I have Multiple Consignees for the same item in BOQ?",
+            "answer": "Yes, Multiple consignees can be added to the item with same Item title or to different item title in the BOQ."
+        },
+        {
+            "id": "buyer100304",
+            "question": "Can I add AMC/CMC/ICT (Installation, Commissioning and Testing) for the products inside the BOQ?",
+            "answer": "Yes, Products and related AMC/CMC/ICT can be combined with any other related services to the Products being procured including operational support, Training."
+        },
+        {
+            "id": "buyer100305",
+            "question": "Is the option of bunching available for BOQ based bidding?",
+            "answer": "Yes, bunching of different products from the available catalogue/category is possible as well as more than one BOQ can be bunched together with BOQ based Product/Item selection."
+        },
+        {
+            "id": "buyer100306",
+            "question": "Can I capture/add HSN/SAC codes in BOQ based bidding?",
+            "answer": "Yes provision has been made for capturing HSN/SAC Codes in the system and the Seller may add these details in BOQ Price break up format sheet."
+        },
+        {
+            "id": "buyer100307",
+            "question": "How can I get the information regarding the Make/Model offered by the Seller?",
+            "answer": "Details like Make/Model are captured in the BOQ excel sheet which shall be filled by the Participating Bidder/Seller."
+        },
+        {
+            "id": "buyer100308",
+            "question": "Can I have Bid to RA (Reverse auction) feature enabled in BOQ based bidding?",
+            "answer": "Yes, provision has been made for Bid to RA option and this functionality can be availed by the Buyer during Bid creation."
+        },
+        {
+            "id": "buyer100309",
+            "question": "Is list of Consignee ids and Zip code available?",
+            "answer": "Yes Consignee/reporting officer list is available to the Buyer with details pertaining to Consignee id, Zip code, Name &amp; Address. The Consignee ID &amp; Zip code can be copied and pasted in the BOQ excel sheet."
+        },
+        {
+            "id": "buyer100310",
+            "question": "Can I have multiple delivery periods for individual line items?",
+            "answer": "Yes, each item of the BOQ can have different delivery periods depending on the Project/Buyer requirement."
+        },
+        {
+            "id": "buyer100311",
+            "question": "I am getting an error message \u201cBuyer is allowed to enter data up to H column only. Please add details in the relevant columns only \u201d.",
+            "answer": "You have added Data that has to be filled by the Seller/Bidder. Check your BOQ excel sheet, make corrections and then Upload the file."
+        },
+        {
+            "id": "buyer100312",
+            "question": "I am a Registered Buyer of GeM, is it possible to send Tender Publish notification to Sellers providing any specific category-based selling of products closer to the products to be procured through BOQ based bidding?",
+            "answer": "Yes, a Buyer may select any three categories closest to the category available in GeM to allow notification of Tender Publish to those Sellers who have put their products in display under such Buyer defined categories."
+        },
+        {
+            "id": "buyer100313",
+            "question": "I am a Buyer, I am using BOQ based bunch bidding. The estimate price reflected during bid creation is that of the catalogue-based product selected. Can I possibly change the estimate price?",
+            "answer": "Yes, you shall be able to change the estimate price by clicking on the Edit price button during bid creation."
+        },
+        {
+            "id": "buyer100314",
+            "question": "I am a registered Buyer of GeM. Can I change the estimate price in BOQ based bidding?",
+            "answer": "Yes, a Buyer can change the Estimate Price in BOQ based bidding as the Price reflected is not captured from the catalogue selection. In case of bunch bids along with BOQ, the price is reflected in estimate value for such products picked up from the respective catalogue\u2019s, again changeable."
+        },
+        {
+            "id": "buyer100315",
+            "question": "Where shall the Seller specification &amp; supporting documents be shown to a Buyer for Evaluation.",
+            "answer": "A Buyer shall be able to view Seller compliance to specifications/supporting documents during Technical Evaluation stage as View Seller documents."
+        },
+        {
+            "id": "buyer100316",
+            "question": "I am a Buyer, can I possibly seek clarifications for any documents/specifications put up by a Seller?",
+            "answer": "Yes, Buyer can seek Clarifications during Technical evaluation for any of the documents put forth by the Seller."
+        },
+        {
+            "id": "buyer100317",
+            "question": "I am a Buyer, can I negotiate with the L1 Seller/Bidder?",
+            "answer": "Provision for online L1 negotiation can be exercised by individual Buyer keeping in mind the GFR Rules 173 (xiv) of GFR 2017. Buyer has to select one choice from any four choices available in the bidding system or the reasons for which negotiations are being sought. Uploading a document from the competent authority is Mandatory."
+        },
+        {
+            "id": "buyer100318",
+            "question": "How many attempts does a Buyer have to exercise negotiation with L1 bidder?",
+            "answer": "Buyer can exercise L1 negotiation up to 5 attempts."
+        },
+        {
+            "id": "buyer100319",
+            "question": "Do I have to calculate the Total price/value to be offered for the BOQ items.",
+            "answer": "No, unit price (all inclusive) is to be filled in the BOQ excel sheet. System auto calculates the Total Price/Value."
+        },
+        {
+            "id": "buyer100320",
+            "question": "What is the size of File that can be uploaded in BOQ based bidding for adding Specifications?",
+            "answer": "File size up to 25 MB can be uploaded by the Buyer, mentioned in help icon 'i' besides choose file."
+        },
+        {
+            "id": "buyer100321",
+            "question": "I am a Buyer, when do I exercise the L1 negotiation option.",
+            "answer": "L1 negotiation option can be exercised during any of the below mentioned conditions:  1.Procurement of proprietary items. 2.Items with limited sources of supply. 3.Items where there is suspicion of a cartel formation. 4.Where CVC guidelines not applicable &amp; proposed negotiation is governed by Rules/guidelines of respective Buyer organization.5.Other-Buyer to mention genuine reason."
+        },
+        {
+            "id": "buyer100322",
+            "question": "I am a Buyer; do I have to upload any Mandatory/Compulsory document for initiating negotiations.",
+            "answer": "Yes, Competent Authority\u2019s Approval is mandatory for initiating negotiations."
+        },
+        {
+            "id": "buyer100323",
+            "question": "What is the duration for which the Negotiation Window is open for the Seller to respond?",
+            "answer": "The time duration allowed for the Bidder/Seller to respond is 72 hours."
+        },
+        {
+            "id": "buyer100324",
+            "question": "I am a Buyer, the L1 Seller has rejected my L1 negotiation request, can I re-send the negotiation request to the seller?",
+            "answer": "Yes, a Buyer can exercise his privilege to negotiate L1 price as many as Five times."
+        },
+        {
+            "id": "buyer100325",
+            "question": "I am a Buyer. Do I get to see the status of L1 negotiation request sent to Seller?",
+            "answer": "Yes, Buyer gets to view details pertaining to L1 negotiation in the Negotiation Request Summary. Price history is also available to the Buyer in this Panel."
+        },
+        {
+            "id": "buyer100326",
+            "question": "I am a Buyer, is there any specific format provided by GeM for uploading an undertaking certificate by the Buyer?",
+            "answer": "Yes, right below the Reason for negotiation TAB a download option for format is available to the Buyer. Click on the same, download &amp; fill in the details then upload the file again."
+        },
+        {
+            "id": "buyer100327",
+            "question": "I am a Buyer, is L1 negotiation feature available for schedule wise Evaluation?",
+            "answer": "Yes, L1 negotiation is available for all types of evaluation methods namely Total value wise, Item wise, Item wise consignee wise, Group wise."
+        },
+        {
+            "id": "buyer100328",
+            "question": "I am a Buyer, is L1 negotiation available for both Products &amp; Services?",
+            "answer": "Yes, L1 based negotiation is available for both Products as well as Services."
+        },
+        {
+            "id": "buyer100329",
+            "question": "I am a Buyer &amp; creating a Service Bid with a floor price for a particular category. I am unable to exercise L1 price negotiation button?",
+            "answer": "The floor price provided by you has been reached. Since prices cannot be below these floor prices L1 negotiation option not available."
+        },
+        {
+            "id": "buyer100330",
+            "question": "I am a buyer, I have add ons with unit price for services. The floor prices for only add ons has reached but not for unit price. Shall I be able to go for negotiations with L1 bidder?",
+            "answer": "Yes you shall be able to do negotiations with L1 bidder."
+        },
+        {
+            "id": "buyer100331",
+            "question": "I am a Buyer, I have add ons with unit rate. The floor price of unit price has reached but not for addons. Shall I be able to do negotiations with L1 bidder in such an event?",
+            "answer": "No L1 negotiations in such case is not possible Only when floor price of unit price has not been reached negotiation window with L1 is open during such time."
+        },
+        {
+            "id": "buyer100349",
+            "question": "Can a Buyer add/type the same Item Title against Column 'B' in the BOQ Excel Sheet?",
+            "answer": "No, Duplicate Item Title is not possible , please add/type unique Item title against the column 'B' only while uploading the BOQ Excel sheet on the Gem Portal."
+        },
+        {
+            "id": "buyer100363",
+            "question": "What is the configurable Milestone payment for supply on selection of ICT(Installation, Commissioning &amp; testing)?",
+            "answer": "Milestone based payment for supply on selection of ICT can be configuered between the range of 70% to 90%.i.e If 70% is selected then Payment Terms for Supply-shall be 70% payment pro rata basis on receipt of material &amp; balance 30% payment shall be applicable on completion of ICT within 10 days from CRAC(Consignee Receipt Acceptance Certificate) or as defined by the Buyer{as per Organisation Type}Payment Terms for ICT- 100% on completion of ICT within 10 days from CRAC or as defined by the Buyer{as per Organisation Type}"
+        },
+        {
+            "id": "buyer100382",
+            "question": "Is it mandatory for the Bid estimated value to be displayed in the Tender document?",
+            "answer": "No it\u2019s not mandatory to display the Bid estimated value in the Tender document. Buyer may configure whether to be enabled or not be selecting the relevant option as Radio button \u2018Yes/No\u2019 during Bid creation-Step \u2018Bid details\u2019 stage."
+        },
+        {
+            "id": "buyer102440",
+            "question": "Which Buyer organisations can use limited tendering functionality?",
+            "answer": "CPSE buyer only."
+        },
+        {
+            "id": "buyer102441",
+            "question": "What is the maximum number of sellers for which bid participation can be restricted in limited tendering?",
+            "answer": "Buyer can restrict the participation of upto 100 bidders."
+        },
+        {
+            "id": "buyer102442",
+            "question": "How can a buyer select/restrict the participation of a particular bidder in limited tendering?",
+            "answer": "Buyer will have to mention the GeM seller id of the bidder during bid creation."
+        },
+        {
+            "id": "buyer95671",
+            "question": "Can buyer extend the Bid/RA if number of participation is less than 3?",
+            "answer": "Yes, the Buyer can extend the Bid/ RA in case number of participation is less than 3. The extension is possible before opening the technical bid."
+        },
+        {
+            "id": "buyer95672",
+            "question": "What needs to be done if there are more than one L1 in bid and buyer has proceeded with RA. On opening the RA, \"no participation found\" message is appearing ?",
+            "answer": "In such cases, Buyer will have an option to further extend the RA for participation. In case of a RA deadlock, Buyer will have an option to select a L1 seller from Bid results and proceed with the award. Alternatively, Buyer always has a provision to cancel the Bid/RA and re-initiate a new Bid."
+        },
+        {
+            "id": "buyer95673",
+            "question": "Is it mandatory for a Buyer to notify upfront that the Bid will be converted to RA, post technical evaluation?",
+            "answer": "Yes, it is mandatory to notify during Bid creation that the Bid will be converted to RA."
+        },
+        {
+            "id": "buyer95674",
+            "question": "On opening the financial, there is a tie for L1 position. Can I award the Bid to any of the L1 sellers?",
+            "answer": "No, in case of a tie, Buyer has to mandatorily go for RA."
+        },
+        {
+            "id": "buyer95675",
+            "question": "At which stage after opening a Bid can a buyer convert it to a RA?",
+            "answer": "During Bid creation itself Buyer has to upfront declare if the Bid will be followed by RA. This can not be changed after bid publication / opening. After opening the financial Bid, Buyer has to mandatory \"Proceed to RA\" if selected \"Bid to RA\". If not selected initially while creating bid, it can not be enabled subsequently at any stage."
+        },
+        {
+            "id": "buyer95676",
+            "question": "Can a buyer return to a Bid and opt for creation of an order, after he/she has already published the RA?",
+            "answer": "No, after publishing the RA, the buyer will not be able to create an order before RA completion."
+        },
+        {
+            "id": "buyer95677",
+            "question": "Can a Bid with a single participant be changed to RA?",
+            "answer": "No, a Bid with a single participant cannot be converted to RA. There should be at least two Bidders for competing in Bid to RA."
+        },
+        {
+            "id": "buyer95678",
+            "question": "Can technically disqualified sellers participate in Bid to RA?",
+            "answer": "No, only those sellers who are technically qualified for a particular Bid are eligible to participate in Bid to RA."
+        },
+        {
+            "id": "buyer100364",
+            "question": "In case of Multiple L1(S) in base of Bid or Bid to RA or Direct RA how the system does work?",
+            "answer": "In case of Bid (Forced RA where multiple L1 Bidders present) or in Bid to RA or Direct RA after RA Multiple L1(S) exist, after repeating another round of RA, Buyer now gets an option to select L1 Seller &amp; award the Contract to such Manually selected L1 via System on GeM Portal."
+        },
+        {
+            "id": "buyer100481",
+            "question": "What happens if more than one Bidder is at the same Price level during Bid where Buyer is forced to Create a Reverse Auction (RA), yet the RA ends without any Participation?",
+            "answer": "The Buyer needs to select one of the Two Options provided to him. 1. Cancel the Bid.2. Proceed to select Manually the L1 Bidder from among the various L1 Bidders by clicking on the button 'Select' of the column from Technically Qualified Bidders."
+        },
+        {
+            "id": "buyer100482",
+            "question": "Can I change my decision of Manual selection of L1 Bidder in case of Multiple L1 Bidders when none have participated in the Reverse Auction (RA)?",
+            "answer": "Yes, Once selected a particular L1 Bidder, another Bidder can be re-selected for awarding the contract multiple times until the point wherein Buyer has not clicked on the button 'Submit &amp; Proceed'."
+        },
+        {
+            "id": "buyer100483",
+            "question": "Is Input Tax Credit (ITC) based Financial Evaluation selection Mandatory?",
+            "answer": "No, ITC selection is not Mandatory. Buyer gets an option 'Yes/No 'to select ITC based evaluation during Bid creation. If Buyer selects 'Yes' Buyer can input the ITC Amount in Percentage for GST &amp; GST Cess."
+        },
+        {
+            "id": "buyer100484",
+            "question": "What is the Range of Input Tax Credit (ITC) selectable by a Buyer?",
+            "answer": "The Range of ITC selectable in Percentage is from 0 to 100%."
+        },
+        {
+            "id": "buyer100485",
+            "question": "Is the Input Tax Credit (ITC) Percentage Amount selected displayed in the Bid Document in Public View?",
+            "answer": "Yes, the amount of ITC benefit in Percentage is displayed in the Bid/Tender document published."
+        },
+        {
+            "id": "buyer100486",
+            "question": "In case L1 Bidder is an unregistered GST Seller, who is accountable for the Payment of Tax liability?",
+            "answer": "In the event of Procurement of Goods from unregistered Sellers, the Tax liability falls on the Buyer Provided Buyer is notified Under Section 9(4) of GST."
+        },
+        {
+            "id": "buyer100487",
+            "question": "What is the Unit of Measurement for GST Cess amount for ITC Selection?",
+            "answer": "GST Cess(GST Cess) amount incase of ITC Selection is in Percentage."
+        },
+        {
+            "id": "buyer100488",
+            "question": "What is the Unit of Measurement for GST Cess amount for RCM Selection?",
+            "answer": "GST Cess(GST Cess 1) amount incase of ITC Selection is in Percentage so also incase GST Cess(GST Cess 2) in quantum is Absolute Value."
+        },
+        {
+            "id": "buyer100489",
+            "question": "Can Splitting&amp; MSE/MII be selected for Input Tax Credit (ITC) based calculation in Financial Evaluation Ranking System?",
+            "answer": "Yes, If Buyer opts for Splitting, MSE/ MII; System will proceed with the Price match based on Total ITC applied on the Price of L1 Bidder."
+        },
+        {
+            "id": "buyer100490",
+            "question": "W.r.t RCM,In case I happen to Select 'Notified under 9 (4) ' as 'NO' &amp; Opt for 9(3) what is the consequence of this selection?",
+            "answer": "As a Buyer you shall select 'No' if not notified under section 9 (4) but opt for categories where RCM is applicable as under section 9(3) then GST &amp; GST cess shall not be an input text for the Seller during Seller participation. The types of Seller under consideration are as mentioned below: 1.Registered Seller who have Opt to choose out of FCM(Forward Charge Mechanism). 2. Sellers who are not registered under GST.3. Sellers under composition Scheme."
+        },
+        {
+            "id": "buyer100533",
+            "question": "What is the minimum duration allowed for RA and what is the maximum number of auto extensions allowed in RA process ?",
+            "answer": "The minimum duration allowed for RA is 1 days. Auto extensions can be configured by the Buyer anywhere between 10 up to Unlimited times."
+        },
+        {
+            "id": "buyer95680",
+            "question": "In case of a single participation in RA, can buyer proceed with order creation?",
+            "answer": "Yes, single participation in RA is valid and buyer can proceed with order creation."
+        },
+        {
+            "id": "buyer95681",
+            "question": "What is RA offer Validity (from End date)?",
+            "answer": "RA Offer Validity is the period during which Seller Offer is valid from the RA End Date. The Buyer needs to award the Order within the RA Offer Validity Period."
+        },
+        {
+            "id": "buyer95682",
+            "question": "How is the benchmark price determined for RA?",
+            "answer": "The price of product/service selected by the buyer from the market at the time of RA creation is set as benchmark for the RA. Buyers are suggested to select the most appropriate product/service for RA creation."
+        },
+        {
+            "id": "buyer95683",
+            "question": "What is the duration of technical offering in RA?",
+            "answer": "The duration of technical offering in RA is between 10 and 21 days."
+        },
+        {
+            "id": "buyer95684",
+            "question": "What is the duration of financial offering in RA?",
+            "answer": "The duration of financial offering in RA is between 2 and 5 days."
+        },
+        {
+            "id": "buyer95685",
+            "question": "How many extensions are allowed to the buyer in financial offering of RA?",
+            "answer": "Maximum three manual extensions are allowed by the system in financial offering and a single extension cannot be of more than 2 days."
+        },
+        {
+            "id": "buyer95686",
+            "question": "What if the RA option is not visible on checkout page?",
+            "answer": "For services in which a minimum price capping has been configured , RA option will not be available since there is no scope for further price reduction."
+        },
+        {
+            "id": "buyer95687",
+            "question": "Is splitting available in RA?",
+            "answer": "No, splitting is currently not available in RA. Splitting option is only available in Bid."
+        },
+        {
+            "id": "buyer95688",
+            "question": "Is it possible to extend RA?",
+            "answer": "Yes, a buyer has the option to extend RA. It can be extended further provided the bid end date is within bid life-cycle."
+        },
+        {
+            "id": "buyer100534",
+            "question": "What is RA auto extension?",
+            "answer": "If a seller participates in the last 15 minutes of RA end time, the system will auto extend RA by 15 minutes. The number of extensions will be as per the buyer\u2019s selection i.e. a minimum of 10 UPTO Unlimited times. Any RA price submission after the RA end time will not be recorded"
+        },
+        {
+            "id": "buyer95690",
+            "question": "What are the various inspection methods available for a consignment?",
+            "answer": "Consignee can either inspect the consignment him/herself or get it done by a professional agency."
+        },
+        {
+            "id": "buyer95691",
+            "question": "Can a buyer select the L2/L3/L4 seller bypassing the L1 seller during Bid Awarding?",
+            "answer": "No, a buyer cannot select the L2/L3/L4 seller bypassing the L1 seller during Bid Awarding."
+        },
+        {
+            "id": "buyer95693",
+            "question": "Is seller consent required for cancellation of contract?",
+            "answer": "Seller consent is not required in transactions where the delivery date is already expired. However, in cases where the delivery date is not yet over, seller consent is required for cancellation of transaction."
+        },
+        {
+            "id": "buyer95694",
+            "question": "What is the the time frame for providing consent by the seller regarding cancellation of contract?",
+            "answer": "Once the buyer raises a request for cancellation of contract, it will automatically be reflected on the Seller Dashboard. After that the seller gets 5 calendar days to accept the cancellation. Post expiry of the duration, request will be auto-declined and the contract will still remain valid."
+        },
+        {
+            "id": "buyer95696",
+            "question": "In case of contracts with multiple products, can a buyer cancel the order?",
+            "answer": "Yes, a buyer can cancel contracts having multiple products."
+        },
+        {
+            "id": "buyer95697",
+            "question": "Would the seller be able to generate the invoice for a contract, if the cancellation request is pending for seller confirmation?",
+            "answer": "No, the seller would not be able to generate an invoice for a contract till the cancellation request for that contract is pending for seller confirmation."
+        },
+        {
+            "id": "buyer95699",
+            "question": "If the delivery period (DP) of the contract is over, will the buyer be able to cancel the contract on their own or need to send the request to GeM for the same?",
+            "answer": "In case the delivery period (DP) is expired and invoice is not generated, the buyer can cancel the contract."
+        },
+        {
+            "id": "buyer95700",
+            "question": "Why is the contract date different from the sanction date in my order?",
+            "answer": "After filling the financial details during the order process, the buyer has to e-verify the contract for creating the order. If any buyer does not e-verify and leaves the e-verification page and comes back after few days for e-verification, then the contract pdf new date would override the old date. However, sanction pdf date would remain same."
+        },
+        {
+            "id": "buyer99932",
+            "question": "Is the invoice generated on GeM, a valid GST invoice?",
+            "answer": "No, Invoice generated on GeM is not a valid GST invoice. Sellers should provide a valid GST invoice, if demanded by Buyer. Additionally, GeM invoice would have the reference of the seller's Invoice number and Invoice date."
+        },
+        {
+            "id": "buyer99933",
+            "question": "Is a GeM invoice certified for making payments?",
+            "answer": "Yes, GeM invoice is certified for making payment through GeM. However, the print out of the GeM invoice is not valid for making payments."
+        },
+        {
+            "id": "buyer99934",
+            "question": "Can the Buyer claim GST input credit basis the GeM Invoice?",
+            "answer": "For GST purpose, the seller has to provide a proper GST invoice along with the delivery of product(s)/service(s). Please refer GeM GTC clause 8 (iv) (d) for more details."
+        },
+        {
+            "id": "buyer100164",
+            "question": "Can a buyer cancel the contract?",
+            "answer": "Buyer has the option to Decline Demand, which does not require seller consent. This option is available with the buyer right from the time of submission of the financial approval document till the order has been accepted by the seller. Once the order has been accepted by the seller, the buyer can initiate a cancellation request, which goes to the seller for consent."
+        },
+        {
+            "id": "buyer100165",
+            "question": "How many days the seller has for responding to order cancellation requests raised by the buyer?",
+            "answer": "Seller has 5 days to respond to the buyer's order cancellation request. In case, the seller does not respond in 5 days, the order cancellation request gets auto rejected."
+        },
+        {
+            "id": "buyer100166",
+            "question": "Can the buyer cancel the contract after the delivery period has expired ?",
+            "answer": "Buyer can initiate a cancellation request immediately after the delivery period has expired, in case no invoice has been raised by the seller. For such a request, no consent is sought from the seller and the order gets cancelled straight away."
+        },
+        {
+            "id": "buyer100167",
+            "question": "Can a buyer cancel the contract after an invoice has been generated ?",
+            "answer": "In case the seller has generated the invoice, the buyer gets the option for order cancellation after 15 days of delivery period expiry of the order, only if no PRC has been raised. For such a request, no consent is sought from the seller and the order gets cancelled straight away."
+        },
+        {
+            "id": "buyer100174",
+            "question": "How can Buyers Increase/ Decrease quantity for a Bid order?",
+            "answer": "Buyers need to have the ATC clause selected at the time of bid placement to reserve a right to increase/decrease upto 25% of the original quantity before the contract generation and increase upto 25% of the original quantity after the contract generation."
+        },
+        {
+            "id": "buyer100176",
+            "question": "How can a Buyer decrease quantity for a contract, created from Bid?",
+            "answer": "Once a bid has been awarded, Buyer will have the option to edit the order quantity from Order Summary if the ATC clause has been selected in the beginning."
+        },
+        {
+            "id": "buyer100177",
+            "question": "Till when is a Buyer allowed to change order quantity?",
+            "answer": "Buyer can increase/decrease quantity until the contract generation. Once the contract has been generated, a buyer can only increase the quantity post seller acceptance of the order, until the order has expired."
+        },
+        {
+            "id": "buyer100178",
+            "question": "Can a Buyer add or remove consignee for the amended order?",
+            "answer": "Buyer cannot add a new consignee, but in case of multiple consignees, buyer can remove a consignee by making the quantity assigned as 0."
+        },
+        {
+            "id": "buyer100431",
+            "question": "By how much percentage can a Buyer increase/decrease order quantity?",
+            "answer": "Pre Contract - Buyer can request amendment for increase and decrease quantity till 25%, until the Financial Approval Submission stage at the time of order creation- Post Contract - Buyer can request amendment for increase in quantity till 25% until the DP has expired. Note: For Defence users, the amendment percentage is upto 50%."
+        },
+        {
+            "id": "buyer100491",
+            "question": "I am a Railway Buyer/Consignee.What type of verification is required to authenticate the following: 1. Contract Generation &amp; Contract Amendment by Buyer. 2. CRAC Generation by Consignee.3. Bill Generation/Verification/Regeneration by Buyer, DDO",
+            "answer": "For the Mentioned Transactions, only e-sign &amp; DSC option would be available to authenticate."
+        },
+        {
+            "id": "buyer95701",
+            "question": "Can a Buyer extend the Delivery Period of a Contract?",
+            "answer": "Yes, Buyer can extend the delivery period of a contract at any point of time post contract generation subject to the following:1) All contracts where Invoice has been generated by the Seller, Extension of the delivery period is not allowed."
+        },
+        {
+            "id": "buyer95702",
+            "question": "Is seller consent required for Extension of the Delivery Period?",
+            "answer": "Yes, Seller Consent is required."
+        },
+        {
+            "id": "buyer95703",
+            "question": "Can a buyer cancel the contract for which the seller has paid the Transaction charges?",
+            "answer": "Yes, The Buyer can cancel all such contracts provided the delivery period has expired. For Contracts within the delivery period, Seller's consent is required for cancellation."
+        },
+        {
+            "id": "buyer95704",
+            "question": "What is the the time frame for providing consent by the Seller for cancellation of contract or Extension of the Delivery period?",
+            "answer": "Once the Buyer raises a request , it will be reflected on Seller's Dashboard. Seller gets 5 calendar days to accept the request. Post expiry of the duration, request will be auto-declined and the existing contract will still remain valid."
+        },
+        {
+            "id": "buyer95705",
+            "question": "Would the Seller be able to generate the invoice for a contract, if the cancellation or Extension of Delivery Period request is pending for Seller confirmation?",
+            "answer": "No, the seller would not be able to generate an invoice for a contract till the cancellation or amendment request for that contract is pending for Seller confirmation."
+        },
+        {
+            "id": "buyer95708",
+            "question": "How can I enable GPA payment mode in my account?",
+            "answer": "HODs can go to the Payment Method tab under 'My Account'. After selecting GPA checkbox, HOD needs to validate their GPA number and IFSC code that they have received from the bank. Once the validation is complete, HODs can register their DDOs by mapping them to one of their validated GPA accounts."
+        },
+        {
+            "id": "buyer95709",
+            "question": "Who can Map multiple GPA accounts?",
+            "answer": "HODs can map multiple GPA accounts."
+        },
+        {
+            "id": "buyer95710",
+            "question": "Who is authorised to impose LD on Seller?",
+            "answer": "Buyer/PAO are authorized to impose LD on seller."
+        },
+        {
+            "id": "buyer95711",
+            "question": "What is the process of refund if the order is cancelled in GPA?",
+            "answer": "If the order is cancelled on account of non acceptance by Seller or the buyer is cancelling the order, the funds blocked in GPA will be automatically unblocked"
+        },
+        {
+            "id": "buyer95712",
+            "question": "Who is authorised to make payment in GPA?",
+            "answer": "DDO/PAO is authorized to make payment in GPA."
+        },
+        {
+            "id": "buyer95713",
+            "question": "What is the process involved in GPA on boarding?",
+            "answer": "NPAE would need to open GeM Pool Account with GeM partnered bank. Once bank has completed the on boarding of NPAE in GEM portal, the NPAE can start operating the GPA."
+        },
+        {
+            "id": "buyer95714",
+            "question": "Which payment mode will be available to primary users for selection?",
+            "answer": "The primary users will be able to view and select payment modes depending upon their organization type."
+        },
+        {
+            "id": "buyer95715",
+            "question": "How can a buyer draft a bill?",
+            "answer": "The buyer needs to login to his/her account and from the dashboard click on bills. The buyer will be able to view all the contracts. He/she can click on the particular contract and draft the bill for the same. The bill is drafted based on the CRAC (Consignee Receipt &amp; Acceptance Certificate)."
+        },
+        {
+            "id": "buyer95716",
+            "question": "Who drafts the bill when the payment mode is CGDA?",
+            "answer": "Buyer drafts the bill when the payment mode is CGDA (CDA or UNIT)."
+        },
+        {
+            "id": "buyer95717",
+            "question": "Who will process the bill after it is drafted by the buyer for PFMS payment mode?",
+            "answer": "The DDO will process the bill after it is drafted by the buyer for PFMS payment mode."
+        },
+        {
+            "id": "buyer95718",
+            "question": "Is PAO required, if the payment mode is Railways?",
+            "answer": "No, PAO is not required for processing the bill if the payment mode is Railways. The buyer drafts as well as processes all bills."
+        },
+        {
+            "id": "buyer95722",
+            "question": "How can I change the payment mode?",
+            "answer": "The primary users are authorized to change their payment mode. Once the primary user changes the payment mode, the payment mode will display to users i.e. Buyers/DDOs etc."
+        },
+        {
+            "id": "buyer100253",
+            "question": "Is the Auto Calculated Suggested LD binding on buyers ?",
+            "answer": "The Auto Calculated Suggested LD Value is a suggestion only and not binding on the buyer. The suggested LD field is editable and the buyer has the flexibility to change this suggested value as per his organization\u2019s requirements."
+        },
+        {
+            "id": "buyer100271",
+            "question": "What is payment mode for Ministry of Defence?",
+            "answer": "Payment mode for Ministry of Defence is CGDA. There are two components in CGDA for making payment: 1. CDA (Controller Defence Account)2. UNIT payment by CDA - Online/Offline"
+        },
+        {
+            "id": "buyer100432",
+            "question": "What are the different payment modes available in GeM?",
+            "answer": "Below is the list of payment modes currently available in GeM: \u2022 PFMS \u2022 IFMS \u2022 Internet Banking \u2022 GeM Pool Account (GPA) \u2022 CGDA for Defence Buyers \u2022 Railways for Railways Buyers\u2022 CRPF, Others."
+        },
+        {
+            "id": "buyer100492",
+            "question": "How much amount should be blocked for Product Order creation via GPA?",
+            "answer": "For Product Orders, 100% of the projected order value will be blocked at the time of order creation."
+        },
+        {
+            "id": "buyer100493",
+            "question": "How much amount should be blocked for service orders creation via GPA?",
+            "answer": "For Services Orders projected value of service order as per services billing cycle will be blocked at the time of order creation."
+        },
+        {
+            "id": "buyer100494",
+            "question": "How much should be the blocked Amount for Service Orders creation via GPA?",
+            "answer": "If the billing cycle is greater than 2, then the blocking will be done for the 2 billing cycles, else for the complete Contract amount."
+        },
+        {
+            "id": "buyer100495",
+            "question": "What is top up blocking?",
+            "answer": "Any service order which is created with PFMS, Challan, or Non-Challan GPA. Users will have to option to do the top-up the remaining billing cycles in order to process the bill and make the payment online."
+        },
+        {
+            "id": "buyer100535",
+            "question": "What is GPA?",
+            "answer": "GeM Pool Account is a special purpose bank account opened, operated and controlled exclusively by each NPAE (Non-Public Financial Management System (PFMS) Agencies/Entities) for the purpose of ensuring prompt payment to the sellers/service providers on GeM who supply goods/Services to the NPAE through GeM For Product Orders, 100% of the projected order value will be blocked at the time of order creation."
+        },
+        {
+            "id": "buyer100587",
+            "question": "I am a Buyer from organization ISRO, which payment method shall I choose?",
+            "answer": "ISRO\u2019s ERP system is integrated with GeM Portal hence please select Payment Method as \u2018ISRO\u2019."
+        },
+        {
+            "id": "buyer100874",
+            "question": "What are the Payment method available for Indian Railway Buyers ?",
+            "answer": "The Indian Railway buyers bills are processed and paid by Railways Account Office. The Orders, Bills data were shared with Railways Accounts office through API integration for payment processing. There are three payment modes i.e. Railways Online Railways Offline Others"
+        },
+        {
+            "id": "buyer100875",
+            "question": "What are the payment methods available for GeM Railway Buyers like Railways PSUs ?",
+            "answer": "GPA, Internet Banking, PFMS"
+        },
+        {
+            "id": "buyer100876",
+            "question": "What are the rejection reason are handled online by Railway Buyers ?",
+            "answer": "Buyer related changes in bills are handled online like LD &amp; Other Deductions etc. Change of IFSC code and Bank details are also handled online in returned bill cases."
+        },
+        {
+            "id": "buyer100877",
+            "question": "What is the final step for Railway buyers on GeM portal for payment of consignment ?",
+            "answer": "Buyers will prepare, generate and processed the bills for payment processing . Final Message shown to the Buyers after payment processing : \u201c Payment is in progress\u201d"
+        },
+        {
+            "id": "buyer100878",
+            "question": "What is CGDA Payment method ?",
+            "answer": "The payment method where buyers bills are processed by Controller General of Defence Accounts (CGDA) Office. The GeM bills data were shared with CGDA Server through the API integration."
+        },
+        {
+            "id": "buyer100879",
+            "question": "What is the final step for buyers on GeM portal for payment of consignment ?",
+            "answer": "Buyers will prepare, generate and processed the bills for payment processing . Final Message shown to the Buyers after payment processing : \u201c Payment is in progress\u201d"
+        },
+        {
+            "id": "buyer100880",
+            "question": "Can Buyer re-submit the bills on GeM portal rejected by the CGDA office.",
+            "answer": "Yes, There are 10 rejection reason which are handled in the system where buyer can re-submit the bills with new bill copy and supported document. The changes carried out by Service Provider/Seller in their profile will also be reflected in the bill copy like changes related to bank account details. Following rejection reasons are covered i.e."
+        },
+        {
+            "id": "buyer100881",
+            "question": "What are the rejection reason are handled online by Defence Buyers ?",
+            "answer": "Buyer related changes in bills are handled online like Financial Sanction not matching with that of supply order value , uploading of new sanction document etc. Change of IFSC code and Bank details are also handled online in returned bill cases."
+        },
+        {
+            "id": "buyer100854",
+            "question": "What is the minimum service charge allowed by GeM to service providers in case of Commission based services, such as Manpower Outsourcing Service, Security Manpower Hiring Services, Sanitation Services etc.",
+            "answer": "As per DoE OM No.F.6/1/2023-PPD dated 6th Jan. 2023, the minimum service charges for commission based services has been fixed as 3.85. Same has been implemented by GeM for commission based services."
+        },
+        {
+            "id": "buyer100862",
+            "question": "Who is responsible for GeM Organization \u2013 IFA mapping ?",
+            "answer": "Primary User of GeM Organization."
+        },
+        {
+            "id": "buyer100863",
+            "question": "What is the process for registration of IFA on GeM portal ?",
+            "answer": "IFA CGDA Admin"
+        },
+        {
+            "id": "buyer100864",
+            "question": "Who will approve the proposals on GeM portal which will be taken with Higher CFA?",
+            "answer": "As of now, Primary User will take approval from Higher CFA offline and the same document will be uploaded on IFA and accordingly will take action against the proposal."
+        },
+        {
+            "id": "buyer100865",
+            "question": "How many stages of approval required for bidding procurement mode?",
+            "answer": "Two Stage, AON Stage during bid publishing and Expenditure sanction during Order checkout stage."
+        },
+        {
+            "id": "buyer100866",
+            "question": "Who will add the IFA sub-Users under IFA on GeM portal ?",
+            "answer": "IFA will add his subordinate on IFA module. User ID and Password will be pushed through Email and Mobile."
+        },
+        {
+            "id": "buyer100867",
+            "question": "Who can un-map the IFAs from GeM organization on GeM portal ?",
+            "answer": "Primary User of Organization"
+        },
+        {
+            "id": "buyer100868",
+            "question": "Can CFA overrule IFA",
+            "answer": "Yes, Reasons for rejection should be recorded on GeM portal."
+        },
+        {
+            "id": "buyer100869",
+            "question": "Can SOC and Supporting document are uploaded with the procurement proposal.",
+            "answer": "Yes, Provision are given during L1 and Bid approval where user will upload requested documents."
+        },
+        {
+            "id": "buyer100870",
+            "question": "In the draft bid be amended based on IFA and CFA recommendations",
+            "answer": "Yes, Secondary Buyers can amend the bid basis on the recommendations."
+        },
+        {
+            "id": "buyer100871",
+            "question": "How many days IFAs are expected to concur the proposal",
+            "answer": "Four Days."
+        },
+        {
+            "id": "buyer100872",
+            "question": "IFA can map how many subordinates under him",
+            "answer": "10 Users"
+        },
+        {
+            "id": "buyer100873",
+            "question": "Can IFA-Sub User mark file to other Sub-IFA users under the same IFA",
+            "answer": "Yes"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+.bot-option-message{
+    background-color: white;
+    color: #333;
+    border-radius: 7px 7px 7px 0px;
+    margin-right: auto;
+    width: fit-content;
+    max-width: 200px;
+    flex-wrap: wrap;
+}
+.option-header {
+    padding: 10px;
+}
+.option-container {
+    border-radius: 0px 0px 7px 7px;
+    overflow: hidden;
+}
+.option-message {
+    background-color: white;
+    padding: 5px;
+    border: 1px solid #f0f0f0;
+    border-left: none;
+    border-right: none;
+    cursor: pointer;
+}
+.option-message:hover {
+    background-color: rgb(246, 247, 245);
+}
+.option-message-tag {
+    width: fit-content;
+    padding: 2px 8px;
+    border-radius: 20px;
+    margin: 2px;
+    color: white;
+    background-color: #0e4e69;
+}
